@@ -36,7 +36,7 @@ def generate_rss():
     <link>{}</link>
     <description>{} by {}</description>
 </item>
-""".format(f"{item[2]} - Chapter {item[1]}", "https://comick.app/comic/" + item[0], f"Chapter {item[1]} of {item[3]} by {item[2]} is out!")
+""".format(f"{item[2]} - Chapter {item[1]}", "https://comick.app/comic/" + item[0], f"Chapter {item[1]} of {item[2]} by {item[2]} is out!")
 
     rss += '\n</channel>\n</rss>'
     return rss
