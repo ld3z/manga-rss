@@ -19,6 +19,6 @@ jobs:
         with:
           commit_message: "update: rss"
           repository: .
-          file_pattern: anime.xml
+          file_pattern: allanime.xml
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
