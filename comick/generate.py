@@ -12,7 +12,7 @@ def get_latest():
     return [
         [
             '{}/{}'.format(x['md_comics'], x['slug']),
-            x['episode'],
+            x['chap'],
             x['chap']
         ] for x in response['data']
     ]
