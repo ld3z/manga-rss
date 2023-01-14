@@ -1,19 +1,30 @@
 import requests
 import json
-import re
 import os
 
+
 def get_latest():
-    link = 'https://api.comick.app/chapter/?page=1&order=new&accept_mature_content=true'
-    response = requests.get(link, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36"}).json()
-    data = response['data']
+    link = "https://api.comick.app/chapter/?page=1&order=new&accept_mature_content=true"
+    response = requests.get(
+        link,
+        headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36"
+        },
+    )
+    if response.status_code != 200:
+        raise Exception(
+            f"Error getting data from {link}. Status code: {response.status_code}"
+        )
+    data = json.loads(response.text)["data"]
     chapters = []
     for item in data:
-        title = item.get('md_comics').get('title')
-        slug = item.get('md_comics').get('slug')
-        chapter = item.get('chap')
-        chapters.append([slug, chapter, title])
+        if "md_comics" in item and "title" in item and "chap" in item:
+            title = item.get("title")
+            slug = item.get("md_comics").get("slug")
+            chapter = item.get("chap")
+            chapters.append([slug, chapter, title])
     return chapters
+
 
 def generate_rss(chapters):
     rss = f"""
@@ -33,20 +44,24 @@ def generate_rss(chapters):
     <link>{}</link>
     <description>{} by {}</description>
 </item>
-""".format(f"{item[2]} - Chapter {item[1]}", "https://comick.app/comic/{}".format(item[0]), f"Chapter {item[1]} of {item[2]} is now available on ComicK!")
+""".format(
+            f"{item[2]} - Chapter {item[1]}",
+            "https://comick.app/comic/{}".format(item[0]),
+            f"Chapter {item[1]} of {item[2]} is now available on ComicK!",
+        )
 
-    rss += '\n</channel>\n</rss>'
+    rss += "\n</channel>\n</rss>"
     return rss
+
 
 try:
     chapters = get_latest()
-    print(chapters)
     rss = generate_rss(chapters)
-    filename = f'./comick/comick-rss.xml'
+    filename = f"./comick/comick-rss.xml"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     if os.path.exists(filename):
         os.remove(filename)
-    with open(filename, 'w') as f:
+    with open(filename, "w") as f:
         f.write(rss.strip())
-except:
-    print('Comick failed.')
+except Exception as e:
+    print(f"Comick failed: {e}")
