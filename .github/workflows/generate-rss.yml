@@ -36,7 +36,7 @@ jobs:
     
     - name: Generate rss (comick)
       run: |
-        python ./comick/generate.py
+        python ./comick/test.py
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
