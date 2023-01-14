@@ -47,7 +47,7 @@ def generate_rss(chapters):
 """.format(
             f"{item[2]} - Chapter {item[1]}",
             "https://comick.app/comic/{}".format(item[0]),
-            f"Chapter {item[1]} of {item[2]} is now available on ComicK!",
+            f"Chapter {item[1]} of {item[2]} is now available on ComicK!"
         )
 
     rss += "\n</channel>\n</rss>"
