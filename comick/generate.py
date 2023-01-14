@@ -13,7 +13,7 @@ def get_latest():
         [
             '{}/{}'.format(x['anime_session'], x['session']),
             x['episode'],
-            x['author']
+            x['chap']
         ] for x in response['data']
     ]
 
