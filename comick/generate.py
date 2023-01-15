@@ -34,5 +34,5 @@ url = "https://api.comick.app/chapter/?page=1&order=new&accept_mature_content=tr
 data = requests.get(url).json()
 
 
-with open('comick.xml', 'w', encoding="utf-8") as f_out:
+with open("comick-rss.xml", 'w', encoding="utf-8") as f_out:
     print(generate_rss(data), file=f_out)
