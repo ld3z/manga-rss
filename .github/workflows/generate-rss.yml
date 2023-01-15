@@ -43,7 +43,6 @@ jobs:
         # Optional but recommended
         # Defaults to "Apply automatic changes"
         commit_message: Apply automatic changes
-        commit_user_email: ldescamps165@gmail.com
 
         file_pattern: ./*.xml
 
