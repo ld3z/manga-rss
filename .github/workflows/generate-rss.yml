@@ -17,6 +17,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - with:
+        token: ${{ GH_TOKEN }}
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
       with:
@@ -26,9 +28,13 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
 
-    - name: Generate rss (comick)
+    - name: Generate rss (GogoAnime)
       run: |
-        python ./comick/generate.py
+        python ./gogoanime/generate.py
+
+    - name: Generate rss (AnimePahe)
+      run: |
+        python ./animepahe/generate.py
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
@@ -36,6 +42,7 @@ jobs:
         # Defaults to "Apply automatic changes"
         commit_message: Apply automatic changes
 
+        file_pattern: ./*.xml
 
         # Optional local file path to the repository
         # Defaults to the root of the repository
