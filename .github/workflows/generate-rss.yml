@@ -33,10 +33,6 @@ jobs:
     - name: Generate rss (AnimePahe)
       run: |
         python ./animepahe/generate.py
-    
-    - name: Generate rss (comick)
-      run: |
-        python ./comick/test5.py
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
