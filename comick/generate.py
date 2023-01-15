@@ -1,5 +1,5 @@
 import requests
-
+import os
 
 def generate_rss(data):
     rss = """\
@@ -33,6 +33,7 @@ def generate_rss(data):
 url = "https://api.comick.app/chapter/?page=1&order=new&accept_mature_content=true"
 data = requests.get(url).json()
 
+filename = f"./comick/comick-rss.xml"
 
-with open("comick-rss.xml", 'w', encoding="utf-8") as f_out:
+with open(filename, 'w', encoding="utf-8") as f_out:
     print(generate_rss(data), file=f_out)
