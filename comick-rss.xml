@@ -6,9 +6,39 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Love Live! - Otsukiai Hajimemashita - Chapter None</title>
+    <title>Dungeon Reset - Chapter 143</title>
+    <link>https://comick.app/comic/dungeon-reset</link>
+    <description>Chapter 143 of Dungeon Reset is now available on ComicK!</description>
+</item>
+<item>
+    <title>Splatoon - Chapter None</title>
+    <link>https://comick.app/comic/splatoon</link>
+    <description>Chapter None of Splatoon is now available on ComicK!</description>
+</item>
+<item>
+    <title>A Returner's Magic Should Be Special - Chapter 215</title>
+    <link>https://comick.app/comic/a-returner-s-magic-should-be-special</link>
+    <description>Chapter 215 of A Returner's Magic Should Be Special is now available on ComicK!</description>
+</item>
+<item>
+    <title>Fluffy Tummy - Chapter 2</title>
+    <link>https://comick.app/comic/fluffy-tummy</link>
+    <description>Chapter 2 of Fluffy Tummy is now available on ComicK!</description>
+</item>
+<item>
+    <title>Sayounara, to Kimi wa Te o Futta - Chapter 4</title>
+    <link>https://comick.app/comic/sayounara-to-kimi-wa-te-o-futta</link>
+    <description>Chapter 4 of Sayounara, to Kimi wa Te o Futta is now available on ComicK!</description>
+</item>
+<item>
+    <title>Love Live! - Kotoshi no Owari (Doujinshi) - Chapter None</title>
+    <link>https://comick.app/comic/love-live-kotoshi-no-owari</link>
+    <description>Chapter None of Love Live! - Kotoshi no Owari (Doujinshi) is now available on ComicK!</description>
+</item>
+<item>
+    <title>Love Live! - Otsukiai Hajimemashita (Doujinshi) - Chapter None</title>
     <link>https://comick.app/comic/love-live-otsukiai-hajimemashita</link>
-    <description>Chapter None of Love Live! - Otsukiai Hajimemashita is now available on ComicK!</description>
+    <description>Chapter None of Love Live! - Otsukiai Hajimemashita (Doujinshi) is now available on ComicK!</description>
 </item>
 <item>
     <title>Adeline's Deep Night - Chapter 31</title>
@@ -16,9 +46,9 @@
     <description>Chapter 31 of Adeline's Deep Night is now available on ComicK!</description>
 </item>
 <item>
-    <title>Love Live! - Dear my sister and... - Chapter None</title>
+    <title>Love Live! - Dear my sister and... (Doujinshi) - Chapter None</title>
     <link>https://comick.app/comic/love-live-dear-my-sister-and</link>
-    <description>Chapter None of Love Live! - Dear my sister and... is now available on ComicK!</description>
+    <description>Chapter None of Love Live! - Dear my sister and... (Doujinshi) is now available on ComicK!</description>
 </item>
 <item>
     <title>Blaze Out - Chapter 0</title>
@@ -41,9 +71,9 @@
     <description>Chapter 37.2 of Saikyou Yuusha wa Oharai Hako: Maou ni Nattara Zutto Ore no Musou Return is now available on ComicK!</description>
 </item>
 <item>
-    <title>Love Live! - Hana ni Yukiakari - Chapter None</title>
+    <title>Love Live! - Hana ni Yukiakari (Doujinshi) - Chapter None</title>
     <link>https://comick.app/comic/love-live-hana-ni-yukiakari</link>
-    <description>Chapter None of Love Live! - Hana ni Yukiakari is now available on ComicK!</description>
+    <description>Chapter None of Love Live! - Hana ni Yukiakari (Doujinshi) is now available on ComicK!</description>
 </item>
 <item>
     <title>Martial Peak - Chapter 2968</title>
@@ -51,9 +81,9 @@
     <description>Chapter 2968 of Martial Peak is now available on ComicK!</description>
 </item>
 <item>
-    <title>Love Live! - FUTURE STAR - Chapter None</title>
+    <title>Love Live! - FUTURE STAR (Doujinshi) - Chapter None</title>
     <link>https://comick.app/comic/love-live-future-star</link>
-    <description>Chapter None of Love Live! - FUTURE STAR is now available on ComicK!</description>
+    <description>Chapter None of Love Live! - FUTURE STAR (Doujinshi) is now available on ComicK!</description>
 </item>
 <item>
     <title>4-punkan no Marigold - Chapter 6</title>
@@ -244,21 +274,6 @@
     <title>Martial God Asura - Chapter 725</title>
     <link>https://comick.app/comic/martial-god-asura</link>
     <description>Chapter 725 of Martial God Asura is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ao no Exorcist - Chapter 133</title>
-    <link>https://comick.app/comic/ao-no-exorcist</link>
-    <description>Chapter 133 of Ao no Exorcist is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Want to Roam - Chapter 100</title>
-    <link>https://comick.app/comic/i-want-to-roam</link>
-    <description>Chapter 100 of I Want to Roam is now available on ComicK!</description>
-</item>
-<item>
-    <title>How About R15? - Chapter 2</title>
-    <link>https://comick.app/comic/r15-ja-dame-desu-ka</link>
-    <description>Chapter 2 of How About R15? is now available on ComicK!</description>
 </item>
 
 </channel>
