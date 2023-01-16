@@ -30,7 +30,7 @@ def generate_rss(data):
     rss += "\n</channel>\n</rss>"
     return rss
 
-url = "https://api.comick.app/chapter/?page=1&order=new&accept_mature_content=true"
+url = "https://api.comick.app/chapter/?lang=en&page=1&order=new&accept_mature_content=true"
 data = requests.get(url).json()
 
 
