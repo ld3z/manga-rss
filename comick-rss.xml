@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Orange Chocolate - Chapter 32.2</title>
+    <link>https://comick.app/comic/orange-chocolate</link>
+    <description>Chapter 32.2 of Orange Chocolate is now available on ComicK!</description>
+</item>
+<item>
+    <title>Usami-san wa Kamawaretai! - Chapter 35.5</title>
+    <link>https://comick.app/comic/usami-san-wa-kamawaretai</link>
+    <description>Chapter 35.5 of Usami-san wa Kamawaretai! is now available on ComicK!</description>
+</item>
+<item>
     <title>Solo Leveling - Chapter 31</title>
     <link>https://comick.app/comic/solo-leveling</link>
     <description>Chapter 31 of Solo Leveling is now available on ComicK!</description>
@@ -44,11 +54,6 @@
     <title>Aozakura Bouei Daigakukou Monogatari - Chapter 5</title>
     <link>https://comick.app/comic/aozakura-bouei-daigakukou-monogatari</link>
     <description>Chapter 5 of Aozakura Bouei Daigakukou Monogatari is now available on ComicK!</description>
-</item>
-<item>
-    <title>Survival Marriage - Chapter 92</title>
-    <link>https://comick.app/comic/survival-marriage</link>
-    <description>Chapter 92 of Survival Marriage is now available on ComicK!</description>
 </item>
 
 </channel>
