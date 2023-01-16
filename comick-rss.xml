@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Acid Town - Chapter 9</title>
+    <link>https://comick.app/comic/acid-town</link>
+    <description>Chapter 9 of Acid Town is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Legendaires Origins - Chapter None</title>
+    <link>https://comick.app/comic/the-legendaires-origins</link>
+    <description>Chapter None of The Legendaires Origins is now available on ComicK!</description>
+</item>
+<item>
     <title>Imouto-tachi ni Yakasetai! - Chapter 2</title>
     <link>https://comick.app/comic/imouto-tachi-ni-yakasetai</link>
     <description>Chapter 2 of Imouto-tachi ni Yakasetai! is now available on ComicK!</description>
@@ -279,16 +289,6 @@
     <title>The World After the Fall - Chapter 57</title>
     <link>https://comick.app/comic/the-world-after-the-fall</link>
     <description>Chapter 57 of The World After the Fall is now available on ComicK!</description>
-</item>
-<item>
-    <title>Why Don't I Have Anyone By My Side? - Chapter 17</title>
-    <link>https://comick.app/comic/why-don-t-i-have-anyone-by-my-side</link>
-    <description>Chapter 17 of Why Don't I Have Anyone By My Side? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dorabase: Doraemon Super Baseball Gaiden - Chapter 2</title>
-    <link>https://comick.app/comic/dorabase-doraemon-chouyakyuu-gaiden</link>
-    <description>Chapter 2 of Dorabase: Doraemon Super Baseball Gaiden is now available on ComicK!</description>
 </item>
 
 </channel>
