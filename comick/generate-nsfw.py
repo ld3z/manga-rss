@@ -1,4 +1,5 @@
 import requests
+import os
 
 
 def generate_rss(data):
@@ -13,7 +14,7 @@ def generate_rss(data):
 """
 
     for i in data:
-        c = i['md_comics']
+        c = i["md_comics"]
 
         rss += """\
 <item>
@@ -30,9 +31,13 @@ def generate_rss(data):
     rss += "\n</channel>\n</rss>"
     return rss
 
+
 url = "https://api.comick.app/chapter/?lang=en&page=1&order=new&accept_mature_content=true"
 data = requests.get(url).json()
 
+filename = "./comick/comick-rss-nsfw.xml"
 
-with open('comick-rss.xml', 'w', encoding="utf-8") as f_out:
+os.makedirs(os.path.dirname(filename), exist_ok=True)
+
+with open(filename, "w", encoding="utf-8") as f_out:
     print(generate_rss(data), file=f_out)
