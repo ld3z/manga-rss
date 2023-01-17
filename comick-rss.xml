@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>My Roommate, Handsome Senior - Chapter 38</title>
+    <link>https://comick.app/comic/my-roommate-handsome-senior</link>
+    <description>Chapter 38 of My Roommate, Handsome Senior is now available on ComicK!</description>
+</item>
+<item>
     <title>Contradict - Chapter 5</title>
     <link>https://comick.app/comic/contradict</link>
     <description>Chapter 5 of Contradict is now available on ComicK!</description>
@@ -224,11 +229,6 @@
     <title>Martial Peak - Chapter 2970</title>
     <link>https://comick.app/comic/martial-peak</link>
     <description>Chapter 2970 of Martial Peak is now available on ComicK!</description>
-</item>
-<item>
-    <title>Girl and Science - Chapter 264</title>
-    <link>https://comick.app/comic/girl-and-science</link>
-    <description>Chapter 264 of Girl and Science is now available on ComicK!</description>
 </item>
 
 </channel>
