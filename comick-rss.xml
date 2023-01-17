@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>My Hero Academia dj - Neko Biyori - Chapter 1</title>
+    <title>Level Up in the Mirror - Chapter 29</title>
+    <link>https://comick.app/comic/level-up-in-the-mirror</link>
+    <description>Chapter 29 of Level Up in the Mirror is now available on ComicK!</description>
+</item>
+<item>
+    <title>My Hero Academia dj - Neko Biyori - Chapter 2</title>
     <link>https://comick.app/comic/my-hero-academia-dj-neko-biyori</link>
-    <description>Chapter 1 of My Hero Academia dj - Neko Biyori is now available on ComicK!</description>
+    <description>Chapter 2 of My Hero Academia dj - Neko Biyori is now available on ComicK!</description>
 </item>
 <item>
     <title>Citrus + - Chapter 31.5</title>
@@ -44,11 +49,6 @@
     <title>Shadow Realm - Chapter 1</title>
     <link>https://comick.app/comic/shadow-realm</link>
     <description>Chapter 1 of Shadow Realm is now available on ComicK!</description>
-</item>
-<item>
-    <title>Level Up in the Mirror - Chapter 28</title>
-    <link>https://comick.app/comic/level-up-in-the-mirror</link>
-    <description>Chapter 28 of Level Up in the Mirror is now available on ComicK!</description>
 </item>
 <item>
     <title>Zeikin de Katta Hon - Chapter 39</title>
@@ -374,16 +374,6 @@
     <title>Neolith Girl - Chapter 84</title>
     <link>https://comick.app/comic/neolith-girl</link>
     <description>Chapter 84 of Neolith Girl is now available on ComicK!</description>
-</item>
-<item>
-    <title>Philia Rose - The Prophecy of the Crown of Thorns - Chapter 48</title>
-    <link>https://comick.app/comic/philia-rose-the-prophecy-of-the-crown-of-thorns</link>
-    <description>Chapter 48 of Philia Rose - The Prophecy of the Crown of Thorns is now available on ComicK!</description>
-</item>
-<item>
-    <title>Revival Man - Chapter 78</title>
-    <link>https://comick.app/comic/revival-man</link>
-    <description>Chapter 78 of Revival Man is now available on ComicK!</description>
 </item>
 
 </channel>
