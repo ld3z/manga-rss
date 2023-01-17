@@ -35,7 +35,7 @@ def generate_rss(data):
 url = "https://api.comick.app/chapter/?lang=en&page=1&order=new&accept_mature_content=true"
 data = requests.get(url).json()
 
-filename = f"./comick/comick-rss-nsfw.xml"
+filename = f"./comick-rss-nsfw.xml"
 
 os.makedirs(os.path.dirname(filename), exist_ok=True)
 
