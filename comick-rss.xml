@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>My Hero Academia dj - Hello Song - Chapter None</title>
+    <link>https://comick.app/comic/my-hero-academia-dj-hello-song</link>
+    <description>Chapter None of My Hero Academia dj - Hello Song is now available on ComicK!</description>
+</item>
+<item>
+    <title>Shadow Realm - Chapter 1</title>
+    <link>https://comick.app/comic/shadow-realm</link>
+    <description>Chapter 1 of Shadow Realm is now available on ComicK!</description>
+</item>
+<item>
     <title>Level Up in the Mirror - Chapter 28</title>
     <link>https://comick.app/comic/level-up-in-the-mirror</link>
     <description>Chapter 28 of Level Up in the Mirror is now available on ComicK!</description>
@@ -374,16 +384,6 @@
     <title>Taekwondo Kid - Chapter 73</title>
     <link>https://comick.app/comic/taekwondo-kid</link>
     <description>Chapter 73 of Taekwondo Kid is now available on ComicK!</description>
-</item>
-<item>
-    <title>Birth of a Dog - Chapter 83</title>
-    <link>https://comick.app/comic/birth-of-a-dog</link>
-    <description>Chapter 83 of Birth of a Dog is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Tax Reaper - Chapter 44</title>
-    <link>https://comick.app/comic/the-tax-reaper</link>
-    <description>Chapter 44 of The Tax Reaper is now available on ComicK!</description>
 </item>
 
 </channel>
