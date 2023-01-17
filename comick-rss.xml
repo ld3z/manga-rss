@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kiwameta Renkinjutsu ni, Fukanou wa nai. - Chapter 2</title>
+    <link>https://comick.app/comic/kiwameta-renkinjutsu-ni-fukanou-wa-nai</link>
+    <description>Chapter 2 of Kiwameta Renkinjutsu ni, Fukanou wa nai. is now available on ComicK!</description>
+</item>
+<item>
     <title>After Ten Years of Chopping Wood, Immortals Begged To Become My Disciples - Chapter 15</title>
     <link>https://comick.app/comic/after-ten-years-of-chopping-wood-immortals-begged-to-become-my-disciples</link>
     <description>Chapter 15 of After Ten Years of Chopping Wood, Immortals Begged To Become My Disciples is now available on ComicK!</description>
@@ -124,11 +129,6 @@
     <title>The Wicked Little Princess - Chapter 74</title>
     <link>https://comick.app/comic/happy-ending-in-need</link>
     <description>Chapter 74 of The Wicked Little Princess is now available on ComicK!</description>
-</item>
-<item>
-    <title>Enemigo - Chapter 1</title>
-    <link>https://comick.app/comic/enemigo</link>
-    <description>Chapter 1 of Enemigo is now available on ComicK!</description>
 </item>
 
 </channel>
