@@ -36,7 +36,7 @@ jobs:
         # Defaults to "Apply automatic changes"
         commit_message: Apply automatic changes
 
-        file_pattern: src/*.xml
+        file_pattern: ./comick/*.xml
 
         # Optional local file path to the repository
         # Defaults to the root of the repository
