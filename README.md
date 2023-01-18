@@ -20,4 +20,4 @@ it auto updates every hour
 
 - [ ] Fix some code
 - [ ] Add more feeds for each language on ComicK
-- [ ] Add more websites
+- [ ] Add more websites?
