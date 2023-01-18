@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>MY NORMAL LIFE?! - Chapter 30</title>
+    <link>https://comick.app/comic/my-normal-life</link>
+    <description>Chapter 30 of MY NORMAL LIFE?! is now available on ComicK!</description>
+</item>
+<item>
+    <title>Gridman Dogma - Chapter 6</title>
+    <link>https://comick.app/comic/gridman-dogma</link>
+    <description>Chapter 6 of Gridman Dogma is now available on ComicK!</description>
+</item>
+<item>
+    <title>Shinozaki-kun no Mente Jijou - Chapter 20.5</title>
+    <link>https://comick.app/comic/shinozaki-kun-no-mente-jijou</link>
+    <description>Chapter 20.5 of Shinozaki-kun no Mente Jijou is now available on ComicK!</description>
+</item>
+<item>
     <title>Eleceed - Chapter 229</title>
     <link>https://comick.app/comic/eleceed</link>
     <description>Chapter 229 of Eleceed is now available on ComicK!</description>
@@ -344,11 +359,6 @@
     <title>Martial Streamer - Chapter 18</title>
     <link>https://comick.app/comic/martial-streamer</link>
     <description>Chapter 18 of Martial Streamer is now available on ComicK!</description>
-</item>
-<item>
-    <title>Be The Butler - Chapter 3</title>
-    <link>https://comick.app/comic/be-the-butler</link>
-    <description>Chapter 3 of Be The Butler is now available on ComicK!</description>
 </item>
 
 </channel>
