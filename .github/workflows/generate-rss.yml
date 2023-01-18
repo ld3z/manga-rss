@@ -29,6 +29,10 @@ jobs:
     - name: Generate rss (comick-nsfw-en)
       run: |
         python ./comick/generate-nsfw.py
+        
+    - name: Generate rss (comick-sfw-en)
+      run: |
+        python ./comick/generate-sfw.py
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
