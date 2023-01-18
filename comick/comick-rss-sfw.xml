@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Tempest - Chapter 2</title>
+    <link>https://comick.app/comic/tempest-1</link>
+    <description>Chapter 2 of Tempest is now available on ComicK!</description>
+</item>
+<item>
+    <title>Toilet no Arisugawa-san - Chapter None</title>
+    <link>https://comick.app/comic/toilet-no-arisugawa-san</link>
+    <description>Chapter None of Toilet no Arisugawa-san is now available on ComicK!</description>
+</item>
+<item>
+    <title>Onii-chan Is Done For! - Chapter 71</title>
+    <link>https://comick.app/comic/onii-chan-is-done-for</link>
+    <description>Chapter 71 of Onii-chan Is Done For! is now available on ComicK!</description>
+</item>
+<item>
     <title>The Splendid Job Of A Monster Maid - Chapter 19</title>
     <link>https://comick.app/comic/the-splendid-job-of-a-monster-maid</link>
     <description>Chapter 19 of The Splendid Job Of A Monster Maid is now available on ComicK!</description>
@@ -324,16 +339,6 @@
     <title>Isekai Monster Breeder - Chapter 64</title>
     <link>https://comick.app/comic/isekai-monster-breeder</link>
     <description>Chapter 64 of Isekai Monster Breeder is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kimi no Koe - Chapter 16.5</title>
-    <link>https://comick.app/comic/kimi-no-koe</link>
-    <description>Chapter 16.5 of Kimi no Koe is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Reverent Saint, Luo Wuji - Chapter 186</title>
-    <link>https://comick.app/comic/the-reverent-saint-luo-wuji</link>
-    <description>Chapter 186 of The Reverent Saint, Luo Wuji is now available on ComicK!</description>
 </item>
 
 </channel>

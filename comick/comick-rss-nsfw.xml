@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Tempest - Chapter 2</title>
+    <link>https://comick.app/comic/tempest-1</link>
+    <description>Chapter 2 of Tempest is now available on ComicK!</description>
+</item>
+<item>
+    <title>Toilet no Arisugawa-san - Chapter None</title>
+    <link>https://comick.app/comic/toilet-no-arisugawa-san</link>
+    <description>Chapter None of Toilet no Arisugawa-san is now available on ComicK!</description>
+</item>
+<item>
+    <title>Onii-chan Is Done For! - Chapter 71</title>
+    <link>https://comick.app/comic/onii-chan-is-done-for</link>
+    <description>Chapter 71 of Onii-chan Is Done For! is now available on ComicK!</description>
+</item>
+<item>
     <title>Tokyo Neon Scandal - Chapter 26</title>
     <link>https://comick.app/comic/tokyo-neon-scandal</link>
     <description>Chapter 26 of Tokyo Neon Scandal is now available on ComicK!</description>
@@ -334,16 +349,6 @@
     <title>Uneven Love Contract - Chapter 54</title>
     <link>https://comick.app/comic/uneven-love-contract</link>
     <description>Chapter 54 of Uneven Love Contract is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kondo wa Korosaretakunai Azarashi-san - Chapter 19</title>
-    <link>https://comick.app/comic/kondo-wa-korosaretakunai-azarashi-san</link>
-    <description>Chapter 19 of Kondo wa Korosaretakunai Azarashi-san is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Heavenly Conqueror - Chapter 45</title>
-    <link>https://comick.app/comic/the-heavenly-conqueror</link>
-    <description>Chapter 45 of The Heavenly Conqueror is now available on ComicK!</description>
 </item>
 
 </channel>
