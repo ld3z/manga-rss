@@ -14,6 +14,8 @@ Note:
 
 it auto updates every hour
 
+and it only has english comics on the feed, but I plan to add more :)
+
 
 
 ## Roadmap:
