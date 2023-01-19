@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kyuu ni Ane ga Dekimashite! - Chapter 10</title>
+    <link>https://comick.app/comic/kyuu-ni-ane-ga-dekimashite</link>
+    <description>Chapter 10 of Kyuu ni Ane ga Dekimashite! is now available on ComicK!</description>
+</item>
+<item>
+    <title>One Day, Suddenly, Seoul Is - Chapter 62</title>
+    <link>https://comick.app/comic/one-day-suddenly-seoul-is</link>
+    <description>Chapter 62 of One Day, Suddenly, Seoul Is is now available on ComicK!</description>
+</item>
+<item>
+    <title>Lookism - Chapter 432</title>
+    <link>https://comick.app/comic/lookism</link>
+    <description>Chapter 432 of Lookism is now available on ComicK!</description>
+</item>
+<item>
     <title>Shinju no Nectar - Chapter 71</title>
     <link>https://comick.app/comic/shinju-no-nectar</link>
     <description>Chapter 71 of Shinju no Nectar is now available on ComicK!</description>
@@ -294,16 +309,6 @@
     <title>Baek XX - Chapter 2</title>
     <link>https://comick.app/comic/baek-xx</link>
     <description>Chapter 2 of Baek XX is now available on ComicK!</description>
-</item>
-<item>
-    <title>It's My Baby! - Chapter 43</title>
-    <link>https://comick.app/comic/it-s-my-baby</link>
-    <description>Chapter 43 of It's My Baby! is now available on ComicK!</description>
-</item>
-<item>
-    <title>The God of Death - Chapter 119</title>
-    <link>https://comick.app/comic/the-god-of-death</link>
-    <description>Chapter 119 of The God of Death is now available on ComicK!</description>
 </item>
 
 </channel>
