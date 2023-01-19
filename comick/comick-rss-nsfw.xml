@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kanna's Anthology - Chapter 4</title>
+    <link>https://comick.app/comic/kanna-s-anthology</link>
+    <description>Chapter 4 of Kanna's Anthology is now available on ComicK!</description>
+</item>
+<item>
+    <title>Gemini Duos - Chapter 11</title>
+    <link>https://comick.app/comic/gemini-duos</link>
+    <description>Chapter 11 of Gemini Duos is now available on ComicK!</description>
+</item>
+<item>
+    <title>Fate/Grand Order - Daily Chaldea (Doujinshi) - Chapter 1361</title>
+    <link>https://comick.app/comic/fategrand-order-daily-chaldea-doujinshi</link>
+    <description>Chapter 1361 of Fate/Grand Order - Daily Chaldea (Doujinshi) is now available on ComicK!</description>
+</item>
+<item>
     <title>Hana wa Saku, Shura no Gotoku - Chapter 14</title>
     <link>https://comick.app/comic/hana-wa-saku-shura-no-gotoku</link>
     <description>Chapter 14 of Hana wa Saku, Shura no Gotoku is now available on ComicK!</description>
@@ -259,11 +274,6 @@
     <title>The God of Death - Chapter 119</title>
     <link>https://comick.app/comic/the-god-of-death</link>
     <description>Chapter 119 of The God of Death is now available on ComicK!</description>
-</item>
-<item>
-    <title>Survive Romance - Chapter 63</title>
-    <link>https://comick.app/comic/survive-romance</link>
-    <description>Chapter 63 of Survive Romance is now available on ComicK!</description>
 </item>
 
 </channel>
