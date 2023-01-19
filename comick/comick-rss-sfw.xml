@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Egao no Sekai - Chapter 1</title>
+    <link>https://comick.app/comic/world-of-smile</link>
+    <description>Chapter 1 of Egao no Sekai is now available on ComicK!</description>
+</item>
+<item>
+    <title>Next Life - Chapter 45</title>
+    <link>https://comick.app/comic/next-life</link>
+    <description>Chapter 45 of Next Life is now available on ComicK!</description>
+</item>
+<item>
     <title>Goblin Slayer Gaiden: Year One - Chapter 80</title>
     <link>https://comick.app/comic/goblin-slayer-side-story-year-one</link>
     <description>Chapter 80 of Goblin Slayer Gaiden: Year One is now available on ComicK!</description>
@@ -244,16 +254,6 @@
     <title>Kyosei Tensei - Chapter 19</title>
     <link>https://comick.app/comic/kyosei-tensei</link>
     <description>Chapter 19 of Kyosei Tensei is now available on ComicK!</description>
-</item>
-<item>
-    <title>Sensei de ○○ shicha Ikemasen! - Chapter 37.2</title>
-    <link>https://comick.app/comic/sensei-de-shicha-ikemasen</link>
-    <description>Chapter 37.2 of Sensei de ○○ shicha Ikemasen! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Beastburn - Chapter 5.2</title>
-    <link>https://comick.app/comic/beastburn</link>
-    <description>Chapter 5.2 of Beastburn is now available on ComicK!</description>
 </item>
 
 </channel>
