@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Tanukitsune no Gon - Chapter 2</title>
+    <link>https://comick.app/comic/tanukitsune-no-gon</link>
+    <description>Chapter 2 of Tanukitsune no Gon is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Cool Me - Chapter None</title>
+    <link>https://comick.app/comic/the-cool-me</link>
+    <description>Chapter None of The Cool Me is now available on ComicK!</description>
+</item>
+<item>
     <title>Arcane Sniper - Chapter 95</title>
     <link>https://comick.app/comic/arcane-sniper</link>
     <description>Chapter 95 of Arcane Sniper is now available on ComicK!</description>
@@ -326,19 +336,9 @@
     <description>Chapter 95 of The Player That Can't Level Up is now available on ComicK!</description>
 </item>
 <item>
-    <title>The Great Godly Demon - Chapter 0</title>
+    <title>The Great Godly Demon - Chapter 0.1</title>
     <link>https://comick.app/comic/the-great-godly-demon</link>
-    <description>Chapter 0 of The Great Godly Demon is now available on ComicK!</description>
-</item>
-<item>
-    <title>Zettai Kunshu Shoukougun - Chapter 12</title>
-    <link>https://comick.app/comic/zettai-kunshu-shoukougun</link>
-    <description>Chapter 12 of Zettai Kunshu Shoukougun is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Took Over the Demonic Ancestor - Chapter 34</title>
-    <link>https://comick.app/comic/i-took-over-the-demonic-ancestor</link>
-    <description>Chapter 34 of I Took Over the Demonic Ancestor is now available on ComicK!</description>
+    <description>Chapter 0.1 of The Great Godly Demon is now available on ComicK!</description>
 </item>
 
 </channel>
