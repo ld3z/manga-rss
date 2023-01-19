@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Orange Chocolate - Chapter 33.1</title>
+    <link>https://comick.app/comic/orange-chocolate</link>
+    <description>Chapter 33.1 of Orange Chocolate is now available on ComicK!</description>
+</item>
+<item>
+    <title>Asura's Wrath: Kai - Chapter 1</title>
+    <link>https://comick.app/comic/asura-s-wrath-kai</link>
+    <description>Chapter 1 of Asura's Wrath: Kai is now available on ComicK!</description>
+</item>
+<item>
     <title>Get Pokémon! - Chapter 69</title>
     <link>https://comick.app/comic/pokemon-gotta-catch-em-all</link>
     <description>Chapter 69 of Get Pokémon! is now available on ComicK!</description>
@@ -259,16 +269,6 @@
     <title>Hazure Hantei kara Hajimatta Cheat Majutsushi Seikatsu - Chapter 15.2</title>
     <link>https://comick.app/comic/hazure-hantei-kara-hajimatta-cheat-majutsushi-seikatsu</link>
     <description>Chapter 15.2 of Hazure Hantei kara Hajimatta Cheat Majutsushi Seikatsu is now available on ComicK!</description>
-</item>
-<item>
-    <title>Shujinkou Janai! - Chapter 19</title>
-    <link>https://comick.app/comic/i-m-not-the-hero</link>
-    <description>Chapter 19 of Shujinkou Janai! is now available on ComicK!</description>
-</item>
-<item>
-    <title>It’s Time to Change the Genre - Chapter 67</title>
-    <link>https://comick.app/comic/it-s-time-to-change-the-genre</link>
-    <description>Chapter 67 of It’s Time to Change the Genre is now available on ComicK!</description>
 </item>
 
 </channel>
