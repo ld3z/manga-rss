@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>World's Strongest Troll - Chapter 4</title>
+    <title>World's Strongest Troll - Chapter 6</title>
     <link>https://comick.app/comic/world-s-strongest-troll</link>
-    <description>Chapter 4 of World's Strongest Troll is now available on ComicK!</description>
+    <description>Chapter 6 of World's Strongest Troll is now available on ComicK!</description>
+</item>
+<item>
+    <title>Mobile Suit Gundam Aggressor - Chapter 92</title>
+    <link>https://comick.app/comic/mobile-suit-gundam-aggressor</link>
+    <description>Chapter 92 of Mobile Suit Gundam Aggressor is now available on ComicK!</description>
+</item>
+<item>
+    <title>Spare Me, Great Lord! - Chapter 567</title>
+    <link>https://comick.app/comic/spare-me-great-lord</link>
+    <description>Chapter 567 of Spare Me, Great Lord! is now available on ComicK!</description>
 </item>
 <item>
     <title>Crazy Leveling System - Chapter 106</title>
@@ -349,21 +359,6 @@
     <title>Abashiri Family - Chapter 26</title>
     <link>https://comick.app/comic/abashiri-ikka</link>
     <description>Chapter 26 of Abashiri Family is now available on ComicK!</description>
-</item>
-<item>
-    <title>Maybe Akira-kun, Maybe Akira-chan - Chapter 4</title>
-    <link>https://comick.app/comic/maybe-akira-kun-maybe-akira-chan</link>
-    <description>Chapter 4 of Maybe Akira-kun, Maybe Akira-chan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Solo Leveling - Chapter 179.2</title>
-    <link>https://comick.app/comic/solo-leveling</link>
-    <description>Chapter 179.2 of Solo Leveling is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Overly Straightforward Natsume-kun Can't Properly Confess - Chapter 2</title>
-    <link>https://comick.app/comic/the-overly-straightforward-natsume-kun-can-t-properly-confess</link>
-    <description>Chapter 2 of The Overly Straightforward Natsume-kun Can't Properly Confess is now available on ComicK!</description>
 </item>
 
 </channel>
