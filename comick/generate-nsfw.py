@@ -23,9 +23,9 @@ def generate_rss(data):
     <description>{}</description>
 </item>
 """.format(
-            f"{c['title']} - Chapter {i['chap']}",
+            f"{c['title']} - Chapter {i['chap']}".replace("&","and"),
             f"https://comick.app/comic/{c['slug']}",
-            f"Chapter {i['chap']} of {c['title']} is now available on ComicK!",
+            f"Chapter {i['chap']} of {c['title']} is now available on ComicK!".replace("&","and"),
         )
 
     rss += "\n</channel>\n</rss>"
