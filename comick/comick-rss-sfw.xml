@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Three Kingdoms - Chapter 72</title>
+    <link>https://comick.app/comic/history-of-three-states</link>
+    <description>Chapter 72 of Three Kingdoms is now available on ComicK!</description>
+</item>
+<item>
+    <title>Seoul Station Necromancer - Chapter 63</title>
+    <link>https://comick.app/comic/seoul-station-necromancer</link>
+    <description>Chapter 63 of Seoul Station Necromancer is now available on ComicK!</description>
+</item>
+<item>
     <title>I am Han Sanqian - Chapter 106</title>
     <link>https://comick.app/comic/i-am-han-sanqian</link>
     <description>Chapter 106 of I am Han Sanqian is now available on ComicK!</description>
@@ -274,16 +284,6 @@
     <title>Orange Chocolate - Chapter 33.1</title>
     <link>https://comick.app/comic/orange-chocolate</link>
     <description>Chapter 33.1 of Orange Chocolate is now available on ComicK!</description>
-</item>
-<item>
-    <title>Asura's Wrath: Kai - Chapter 1</title>
-    <link>https://comick.app/comic/asura-s-wrath-kai</link>
-    <description>Chapter 1 of Asura's Wrath: Kai is now available on ComicK!</description>
-</item>
-<item>
-    <title>Get Pokémon! - Chapter 69</title>
-    <link>https://comick.app/comic/pokemon-gotta-catch-em-all</link>
-    <description>Chapter 69 of Get Pokémon! is now available on ComicK!</description>
 </item>
 
 </channel>
