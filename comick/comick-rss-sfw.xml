@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Onward - Chapter 22</title>
+    <link>https://comick.app/comic/onward</link>
+    <description>Chapter 22 of Onward is now available on ComicK!</description>
+</item>
+<item>
+    <title>Demonic Emperor - Chapter 354</title>
+    <link>https://comick.app/comic/demonic-emperor</link>
+    <description>Chapter 354 of Demonic Emperor is now available on ComicK!</description>
+</item>
+<item>
     <title>Meccha Shoukan Sareta Ken - Chapter 23</title>
     <link>https://comick.app/comic/meccha-shoukan-sareta-ken</link>
     <description>Chapter 23 of Meccha Shoukan Sareta Ken is now available on ComicK!</description>
@@ -49,11 +59,6 @@
     <title>Drawing Romance - Chapter 106</title>
     <link>https://comick.app/comic/drawing-romance</link>
     <description>Chapter 106 of Drawing Romance is now available on ComicK!</description>
-</item>
-<item>
-    <title>Demonic Emperor - Chapter 353</title>
-    <link>https://comick.app/comic/demonic-emperor</link>
-    <description>Chapter 353 of Demonic Emperor is now available on ComicK!</description>
 </item>
 <item>
     <title>The Unity Of All Things - Chapter 72</title>
@@ -264,11 +269,6 @@
     <title>Arcane Sniper - Chapter 94</title>
     <link>https://comick.app/comic/arcane-sniper</link>
     <description>Chapter 94 of Arcane Sniper is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Knight and Her Emperor - Chapter 170</title>
-    <link>https://comick.app/comic/emperor-and-the-female-knight</link>
-    <description>Chapter 170 of The Knight and Her Emperor is now available on ComicK!</description>
 </item>
 
 </channel>
