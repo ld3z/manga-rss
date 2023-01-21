@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Imouto-tachi ni Yakasetai! - Chapter 3</title>
+    <link>https://comick.app/comic/imouto-tachi-ni-yakasetai</link>
+    <description>Chapter 3 of Imouto-tachi ni Yakasetai! is now available on ComicK!</description>
+</item>
+<item>
+    <title>Udon no Kuni no Kin'iro Kemari - Chapter 49</title>
+    <link>https://comick.app/comic/udon-no-kuni-no-kin-iro-kemari</link>
+    <description>Chapter 49 of Udon no Kuni no Kin'iro Kemari is now available on ComicK!</description>
+</item>
+<item>
     <title>The Messenger - Chapter 6</title>
     <link>https://comick.app/comic/the-messenger</link>
     <description>Chapter 6 of The Messenger is now available on ComicK!</description>
@@ -304,11 +314,6 @@
     <title>Weak Hero - Chapter 229</title>
     <link>https://comick.app/comic/weak-hero</link>
     <description>Chapter 229 of Weak Hero is now available on ComicK!</description>
-</item>
-<item>
-    <title>I'm the Main Character's Little Sister - Chapter 11</title>
-    <link>https://comick.app/comic/the-protagonist-s-younger-sister</link>
-    <description>Chapter 11 of I'm the Main Character's Little Sister is now available on ComicK!</description>
 </item>
 
 </channel>
