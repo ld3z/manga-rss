@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kono Gomi o Nanto Yobu - Chapter 17</title>
+    <link>https://comick.app/comic/kono-gomi-o-nanto-yobu</link>
+    <description>Chapter 17 of Kono Gomi o Nanto Yobu is now available on ComicK!</description>
+</item>
+<item>
     <title>Shinde Kara Honki Dasu - Chapter 6</title>
     <link>https://comick.app/comic/shinde-kara-honki-dasu</link>
     <description>Chapter 6 of Shinde Kara Honki Dasu is now available on ComicK!</description>
@@ -284,11 +289,6 @@
     <title>The Unity Of All Things - Chapter 72</title>
     <link>https://comick.app/comic/the-unity-of-all-things</link>
     <description>Chapter 72 of The Unity Of All Things is now available on ComicK!</description>
-</item>
-<item>
-    <title>Blades of the Guardians - Chapter 105</title>
-    <link>https://comick.app/comic/blades-of-the-guardians</link>
-    <description>Chapter 105 of Blades of the Guardians is now available on ComicK!</description>
 </item>
 
 </channel>
