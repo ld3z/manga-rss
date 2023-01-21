@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Tensei Shitara Ken Deshita - Chapter 62</title>
+    <title>Akai Ringo - Chapter 38</title>
+    <link>https://comick.app/comic/akai-ringo</link>
+    <description>Chapter 38 of Akai Ringo is now available on ComicK!</description>
+</item>
+<item>
+    <title>Tensei Shitara Ken Deshita - Chapter 63</title>
     <link>https://comick.app/comic/tensei-shitara-ken-deshita</link>
-    <description>Chapter 62 of Tensei Shitara Ken Deshita is now available on ComicK!</description>
+    <description>Chapter 63 of Tensei Shitara Ken Deshita is now available on ComicK!</description>
 </item>
 <item>
     <title>Moist Kiss - Chapter 9</title>
@@ -309,11 +314,6 @@
     <title>Hoshino, Me o Tsubutte - Chapter 103</title>
     <link>https://comick.app/comic/hoshino-me-o-tsubutte</link>
     <description>Chapter 103 of Hoshino, Me o Tsubutte is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ultimate Devouring System - Chapter 15</title>
-    <link>https://comick.app/comic/ultimate-devouring-system</link>
-    <description>Chapter 15 of Ultimate Devouring System is now available on ComicK!</description>
 </item>
 
 </channel>
