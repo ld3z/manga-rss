@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Illbeck no Seirei Jutsushi - Chapter 2</title>
+    <link>https://comick.app/comic/illbeck-no-seirei-jutsushi</link>
+    <description>Chapter 2 of Illbeck no Seirei Jutsushi is now available on ComicK!</description>
+</item>
+<item>
     <title>Akuyaku Reijou wa Kiraware Kizoku ni Koi wo suru - Chapter 10</title>
     <link>https://comick.app/comic/the-villainess-falls-for-the-notorious-noble</link>
     <description>Chapter 10 of Akuyaku Reijou wa Kiraware Kizoku ni Koi wo suru is now available on ComicK!</description>
@@ -114,11 +119,6 @@
     <title>Wakarase ♥ Dekamaid-chan - Chapter 12</title>
     <link>https://comick.app/comic/wakarase-love-dekamaid-chan</link>
     <description>Chapter 12 of Wakarase ♥ Dekamaid-chan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Gyaru and Cthulhu - Chapter 97</title>
-    <link>https://comick.app/comic/gyaru-and-cthulhu</link>
-    <description>Chapter 97 of Gyaru and Cthulhu is now available on ComicK!</description>
 </item>
 
 </channel>
