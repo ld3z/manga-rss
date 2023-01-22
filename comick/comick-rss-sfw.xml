@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ejipuri! - Chapter 4</title>
+    <link>https://comick.app/comic/ejipuri</link>
+    <description>Chapter 4 of Ejipuri! is now available on ComicK!</description>
+</item>
+<item>
+    <title>Dungeon Athlete - Chapter 20</title>
+    <link>https://comick.app/comic/health-dungeon</link>
+    <description>Chapter 20 of Dungeon Athlete is now available on ComicK!</description>
+</item>
+<item>
     <title>Mercenary Enrollment - Chapter 120</title>
     <link>https://comick.app/comic/mercenary-enrollment</link>
     <description>Chapter 120 of Mercenary Enrollment is now available on ComicK!</description>
@@ -14,11 +24,6 @@
     <title>Gachi Koi Nenchakujuu: Net Haishinsha no Kanojo ni naritakute - Chapter 10</title>
     <link>https://comick.app/comic/gachi-koi-nenchakujuu-net-haishinsha-no-kanojo-ni-naritakute</link>
     <description>Chapter 10 of Gachi Koi Nenchakujuu: Net Haishinsha no Kanojo ni naritakute is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dungeon Athlete - Chapter 19</title>
-    <link>https://comick.app/comic/health-dungeon</link>
-    <description>Chapter 19 of Dungeon Athlete is now available on ComicK!</description>
 </item>
 <item>
     <title>Baek XX - Chapter 6</title>
@@ -224,16 +229,6 @@
     <title>Short Horror Stories - Chapter 14</title>
     <link>https://comick.app/comic/short-horror-stories</link>
     <description>Chapter 14 of Short Horror Stories is now available on ComicK!</description>
-</item>
-<item>
-    <title>Eiyuu Kyoushitsu - Chapter 20</title>
-    <link>https://comick.app/comic/eiyuu-kyoushitsu</link>
-    <description>Chapter 20 of Eiyuu Kyoushitsu is now available on ComicK!</description>
-</item>
-<item>
-    <title>Akuma Koujo - Chapter 1</title>
-    <link>https://comick.app/comic/akuma-koujo</link>
-    <description>Chapter 1 of Akuma Koujo is now available on ComicK!</description>
 </item>
 
 </channel>
