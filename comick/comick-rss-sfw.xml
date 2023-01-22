@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kimi to Pico-Pico - Chapter 34</title>
+    <link>https://comick.app/comic/kimi-to-pico-pico</link>
+    <description>Chapter 34 of Kimi to Pico-Pico is now available on ComicK!</description>
+</item>
+<item>
     <title>Boundless Necromancer - Chapter 14</title>
     <link>https://comick.app/comic/boundless-necromancer</link>
     <description>Chapter 14 of Boundless Necromancer is now available on ComicK!</description>
@@ -369,11 +374,6 @@
     <title>I’m a Tycoon in the Other World - Chapter 70</title>
     <link>https://comick.app/comic/i-m-a-tycoon-in-the-other-world</link>
     <description>Chapter 70 of I’m a Tycoon in the Other World is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tensai Majo no Maryoku Kare - Chapter 3</title>
-    <link>https://comick.app/comic/tensai-majo-no-maryoku-kare</link>
-    <description>Chapter 3 of Tensai Majo no Maryoku Kare is now available on ComicK!</description>
 </item>
 
 </channel>
