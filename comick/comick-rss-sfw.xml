@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Illbeck no Seirei Jutsushi - Chapter 2</title>
+    <title>Illbeck no Seirei Jutsushi - Chapter 12</title>
     <link>https://comick.app/comic/illbeck-no-seirei-jutsushi</link>
-    <description>Chapter 2 of Illbeck no Seirei Jutsushi is now available on ComicK!</description>
+    <description>Chapter 12 of Illbeck no Seirei Jutsushi is now available on ComicK!</description>
+</item>
+<item>
+    <title>Ark The Legend - Chapter 5</title>
+    <link>https://comick.app/comic/ark-the-legend</link>
+    <description>Chapter 5 of Ark The Legend is now available on ComicK!</description>
 </item>
 <item>
     <title>Akuyaku Reijou wa Kiraware Kizoku ni Koi wo suru - Chapter 10</title>
@@ -104,21 +109,6 @@
     <title>Boundless Necromancer - Chapter 14</title>
     <link>https://comick.app/comic/boundless-necromancer</link>
     <description>Chapter 14 of Boundless Necromancer is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria - Chapter 85</title>
-    <link>https://comick.app/comic/dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-gaiden-sword-oratoria</link>
-    <description>Chapter 85 of Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Tsundere Childhood Friend Is Very Cute - Chapter 8</title>
-    <link>https://comick.app/comic/my-tsundere-childhood-friend-is-very-cute</link>
-    <description>Chapter 8 of My Tsundere Childhood Friend Is Very Cute is now available on ComicK!</description>
-</item>
-<item>
-    <title>Wakarase ♥ Dekamaid-chan - Chapter 12</title>
-    <link>https://comick.app/comic/wakarase-love-dekamaid-chan</link>
-    <description>Chapter 12 of Wakarase ♥ Dekamaid-chan is now available on ComicK!</description>
 </item>
 
 </channel>
