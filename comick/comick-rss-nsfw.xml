@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Retropolis Scratches - Chapter 4</title>
+    <link>https://comick.app/comic/retropolis-scratch</link>
+    <description>Chapter 4 of Retropolis Scratches is now available on ComicK!</description>
+</item>
+<item>
     <title>Adults Who Don't Understand Love - Chapter 2</title>
     <link>https://comick.app/comic/adults-who-don-t-understand-love</link>
     <description>Chapter 2 of Adults Who Don't Understand Love is now available on ComicK!</description>
@@ -369,11 +374,6 @@
     <title>Souboutei Kowasubeshi - Chapter 247</title>
     <link>https://comick.app/comic/souboutei-must-be-destroyed</link>
     <description>Chapter 247 of Souboutei Kowasubeshi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Advanced Evolution - Chapter 87</title>
-    <link>https://comick.app/comic/advanced-evolution</link>
-    <description>Chapter 87 of Advanced Evolution is now available on ComicK!</description>
 </item>
 
 </channel>

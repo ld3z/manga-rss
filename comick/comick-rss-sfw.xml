@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Retropolis Scratches - Chapter 4</title>
+    <link>https://comick.app/comic/retropolis-scratch</link>
+    <description>Chapter 4 of Retropolis Scratches is now available on ComicK!</description>
+</item>
+<item>
     <title>Adults Who Don't Understand Love - Chapter 2</title>
     <link>https://comick.app/comic/adults-who-don-t-understand-love</link>
     <description>Chapter 2 of Adults Who Don't Understand Love is now available on ComicK!</description>
@@ -369,11 +374,6 @@
     <title>Genius of the Unique Lineage - Chapter 30</title>
     <link>https://comick.app/comic/genius-of-the-unique-lineage</link>
     <description>Chapter 30 of Genius of the Unique Lineage is now available on ComicK!</description>
-</item>
-<item>
-    <title>Apex Future Martial Arts - Chapter 3</title>
-    <link>https://comick.app/comic/apex-future-martial-arts</link>
-    <description>Chapter 3 of Apex Future Martial Arts is now available on ComicK!</description>
 </item>
 
 </channel>
