@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Dorobou-chan - Chapter 18.5</title>
+    <link>https://comick.app/comic/dorobo-chan</link>
+    <description>Chapter 18.5 of Dorobou-chan is now available on ComicK!</description>
+</item>
+<item>
+    <title>Silver Spoon - Chapter 26.2</title>
+    <link>https://comick.app/comic/gin-no-spoon</link>
+    <description>Chapter 26.2 of Silver Spoon is now available on ComicK!</description>
+</item>
+<item>
+    <title>Jesus - Chapter 27</title>
+    <link>https://comick.app/comic/jesus</link>
+    <description>Chapter 27 of Jesus is now available on ComicK!</description>
+</item>
+<item>
     <title>Houkago Saitensei! - Chapter 13</title>
     <link>https://comick.app/comic/after-school-re-reincarnation</link>
     <description>Chapter 13 of Houkago Saitensei! is now available on ComicK!</description>
@@ -329,26 +344,6 @@
     <title>Super Cube - Chapter 189</title>
     <link>https://comick.app/comic/super-cube</link>
     <description>Chapter 189 of Super Cube is now available on ComicK!</description>
-</item>
-<item>
-    <title>Magic Level 99990000 All-Attribute Great Sage - Chapter 0</title>
-    <link>https://comick.app/comic/magic-level-99990000-all-attribute-great-sage</link>
-    <description>Chapter 0 of Magic Level 99990000 All-Attribute Great Sage is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kuzu Rouninsei, Jinsei ga Tsurai no de Yoru no Onee-san wo Yondemita - Chapter 40</title>
-    <link>https://comick.app/comic/kuzu-rouninsei-jinsei-ga-tsurai-no-de-yoru-no-onee-san-wo-yondemita</link>
-    <description>Chapter 40 of Kuzu Rouninsei, Jinsei ga Tsurai no de Yoru no Onee-san wo Yondemita is now available on ComicK!</description>
-</item>
-<item>
-    <title>Level Up in the Mirror - Chapter 35</title>
-    <link>https://comick.app/comic/level-up-in-the-mirror</link>
-    <description>Chapter 35 of Level Up in the Mirror is now available on ComicK!</description>
-</item>
-<item>
-    <title>I'm the Master of This Life - Chapter 41</title>
-    <link>https://comick.app/comic/i-m-the-master-of-this-life</link>
-    <description>Chapter 41 of I'm the Master of This Life is now available on ComicK!</description>
 </item>
 
 </channel>
