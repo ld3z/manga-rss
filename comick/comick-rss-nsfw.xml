@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Shed! Ryugasaki-san - Chapter 101</title>
+    <link>https://comick.app/comic/shed-ryugasaki-san</link>
+    <description>Chapter 101 of Shed! Ryugasaki-san is now available on ComicK!</description>
+</item>
+<item>
     <title>Repair Boy - Chapter 14</title>
     <link>https://comick.app/comic/repair-boy</link>
     <description>Chapter 14 of Repair Boy is now available on ComicK!</description>
@@ -349,11 +354,6 @@
     <title>Aza (WOO Saesae)  - Chapter 48</title>
     <link>https://comick.app/comic/aza-woo-saesae</link>
     <description>Chapter 48 of Aza (WOO Saesae)  is now available on ComicK!</description>
-</item>
-<item>
-    <title>Daily JoJo - Chapter 74</title>
-    <link>https://comick.app/comic/daily-jo-jo</link>
-    <description>Chapter 74 of Daily JoJo is now available on ComicK!</description>
 </item>
 
 </channel>
