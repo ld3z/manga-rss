@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Houkago Saitensei! - Chapter 13</title>
+    <link>https://comick.app/comic/after-school-re-reincarnation</link>
+    <description>Chapter 13 of Houkago Saitensei! is now available on ComicK!</description>
+</item>
+<item>
     <title>Love-Doting Girl - Chapter 100</title>
     <link>https://comick.app/comic/love-doting-girl</link>
     <description>Chapter 100 of Love-Doting Girl is now available on ComicK!</description>
@@ -344,11 +349,6 @@
     <title>I'm the Master of This Life - Chapter 41</title>
     <link>https://comick.app/comic/i-m-the-master-of-this-life</link>
     <description>Chapter 41 of I'm the Master of This Life is now available on ComicK!</description>
-</item>
-<item>
-    <title>osu! Combat Championship - Chapter 0</title>
-    <link>https://comick.app/comic/osu-combat-championship</link>
-    <description>Chapter 0 of osu! Combat Championship is now available on ComicK!</description>
 </item>
 
 </channel>
