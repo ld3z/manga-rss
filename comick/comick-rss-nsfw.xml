@@ -6,6 +6,26 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Bastian - Chapter 1</title>
+    <link>https://comick.app/comic/bastian</link>
+    <description>Chapter 1 of Bastian is now available on ComicK!</description>
+</item>
+<item>
+    <title>Shou-san no Esayari Time - Chapter None</title>
+    <link>https://comick.app/comic/shou-san-no-esayari-time</link>
+    <description>Chapter None of Shou-san no Esayari Time is now available on ComicK!</description>
+</item>
+<item>
+    <title>Manga Introduction to the Japanese Economy - Chapter 6</title>
+    <link>https://comick.app/comic/manga-introduction-to-the-japanese-economy</link>
+    <description>Chapter 6 of Manga Introduction to the Japanese Economy is now available on ComicK!</description>
+</item>
+<item>
+    <title>Villainous Demon Son-in-Law - Chapter 7</title>
+    <link>https://comick.app/comic/villainous-demon-son-in-law</link>
+    <description>Chapter 7 of Villainous Demon Son-in-Law is now available on ComicK!</description>
+</item>
+<item>
     <title>Martial God Asura - Chapter 737</title>
     <link>https://comick.app/comic/martial-god-asura</link>
     <description>Chapter 737 of Martial God Asura is now available on ComicK!</description>
@@ -289,11 +309,6 @@
     <title>Anata ga Shitekurenakute mo - Chapter 70</title>
     <link>https://comick.app/comic/anata-ga-shitekurenakute-mo</link>
     <description>Chapter 70 of Anata ga Shitekurenakute mo is now available on ComicK!</description>
-</item>
-<item>
-    <title>Martial Peak - Chapter 2989</title>
-    <link>https://comick.app/comic/martial-peak</link>
-    <description>Chapter 2989 of Martial Peak is now available on ComicK!</description>
 </item>
 
 </channel>
