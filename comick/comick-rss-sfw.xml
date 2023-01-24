@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Keiyaku Shimai - Chapter 4</title>
+    <title>Seoul Station Necromancer - Chapter 79</title>
+    <link>https://comick.app/comic/seoul-station-necromancer</link>
+    <description>Chapter 79 of Seoul Station Necromancer is now available on ComicK!</description>
+</item>
+<item>
+    <title>Keiyaku Shimai - Chapter 6</title>
     <link>https://comick.app/comic/keiyaku-shimai</link>
-    <description>Chapter 4 of Keiyaku Shimai is now available on ComicK!</description>
+    <description>Chapter 6 of Keiyaku Shimai is now available on ComicK!</description>
 </item>
 <item>
     <title>Girl and Science - Chapter 271</title>
@@ -269,11 +274,6 @@
     <title>Jahy-sama wa Kujikenai! - Chapter 32.5</title>
     <link>https://comick.app/comic/jahy-sama-wa-kujikenai</link>
     <description>Chapter 32.5 of Jahy-sama wa Kujikenai! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tokyo 卍 Revengers: Baji Keisuke Kara no Tegami - Chapter 14</title>
-    <link>https://comick.app/comic/tokyo-revengers-baji-keisuke-kara-no-tegami</link>
-    <description>Chapter 14 of Tokyo 卍 Revengers: Baji Keisuke Kara no Tegami is now available on ComicK!</description>
 </item>
 
 </channel>
