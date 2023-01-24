@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Legend of the Northern Blade - Chapter 141</title>
+    <link>https://comick.app/comic/legend-of-the-northern-blade</link>
+    <description>Chapter 141 of The Legend of the Northern Blade is now available on ComicK!</description>
+</item>
+<item>
+    <title>ZomGan - Chapter 33</title>
+    <link>https://comick.app/comic/zom-gan</link>
+    <description>Chapter 33 of ZomGan is now available on ComicK!</description>
+</item>
+<item>
     <title>Ranker - Chapter 10</title>
     <link>https://comick.app/comic/ranker</link>
     <description>Chapter 10 of Ranker is now available on ComicK!</description>
@@ -144,16 +154,6 @@
     <title>Juujika no Rokunin - Chapter 114</title>
     <link>https://comick.app/comic/juujika-no-rokunin</link>
     <description>Chapter 114 of Juujika no Rokunin is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mahou Shoujo ni Akogarete - Chapter 45</title>
-    <link>https://comick.app/comic/looking-up-to-magical-girls</link>
-    <description>Chapter 45 of Mahou Shoujo ni Akogarete is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Have Max Level Luck - Chapter 49</title>
-    <link>https://comick.app/comic/i-have-max-level-luck</link>
-    <description>Chapter 49 of I Have Max Level Luck is now available on ComicK!</description>
 </item>
 
 </channel>
