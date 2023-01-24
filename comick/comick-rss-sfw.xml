@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>My Dad Is Mr. President - Chapter 217</title>
+    <link>https://comick.app/comic/my-dad-is-mr-president</link>
+    <description>Chapter 217 of My Dad Is Mr. President is now available on ComicK!</description>
+</item>
+<item>
+    <title>Gabriel DropOut - Chapter 92</title>
+    <link>https://comick.app/comic/gabriel-drop-out</link>
+    <description>Chapter 92 of Gabriel DropOut is now available on ComicK!</description>
+</item>
+<item>
+    <title>Versatile Mage - Chapter 983</title>
+    <link>https://comick.app/comic/versatile-mage</link>
+    <description>Chapter 983 of Versatile Mage is now available on ComicK!</description>
+</item>
+<item>
     <title>Koisuru Neko wa Naderaretai - Chapter 3</title>
     <link>https://comick.app/comic/koisuru-neko-wa-naderaretai</link>
     <description>Chapter 3 of Koisuru Neko wa Naderaretai is now available on ComicK!</description>
@@ -279,16 +294,6 @@
     <title>Martial Peak - Chapter 2991</title>
     <link>https://comick.app/comic/martial-peak</link>
     <description>Chapter 2991 of Martial Peak is now available on ComicK!</description>
-</item>
-<item>
-    <title>Seoul Station Necromancer - Chapter 79</title>
-    <link>https://comick.app/comic/seoul-station-necromancer</link>
-    <description>Chapter 79 of Seoul Station Necromancer is now available on ComicK!</description>
-</item>
-<item>
-    <title>Keiyaku Shimai - Chapter 6</title>
-    <link>https://comick.app/comic/keiyaku-shimai</link>
-    <description>Chapter 6 of Keiyaku Shimai is now available on ComicK!</description>
 </item>
 
 </channel>
