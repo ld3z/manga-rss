@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>About a Love Song - Chapter 1</title>
+    <link>https://comick.app/comic/about-a-love-song</link>
+    <description>Chapter 1 of About a Love Song is now available on ComicK!</description>
+</item>
+<item>
+    <title>Silver Spoon - Chapter 27.2</title>
+    <link>https://comick.app/comic/gin-no-spoon</link>
+    <description>Chapter 27.2 of Silver Spoon is now available on ComicK!</description>
+</item>
+<item>
     <title>Apex Future Martial Arts - Chapter 4</title>
     <link>https://comick.app/comic/apex-future-martial-arts</link>
     <description>Chapter 4 of Apex Future Martial Arts is now available on ComicK!</description>
@@ -334,11 +344,6 @@
     <title>My Wife Is From a Thousand Years Ago - Chapter 136</title>
     <link>https://comick.app/comic/my-wife-is-from-a-thousand-years-ago</link>
     <description>Chapter 136 of My Wife Is From a Thousand Years Ago is now available on ComicK!</description>
-</item>
-<item>
-    <title>One Punch-Man - Chapter 178</title>
-    <link>https://comick.app/comic/one-punch-man</link>
-    <description>Chapter 178 of One Punch-Man is now available on ComicK!</description>
 </item>
 
 </channel>
