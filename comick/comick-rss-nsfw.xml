@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Tokimori-san ga Muboubi desu!! - Chapter 4</title>
+    <link>https://comick.app/comic/tokimori-san-ga-muboubi-desu</link>
+    <description>Chapter 4 of Tokimori-san ga Muboubi desu!! is now available on ComicK!</description>
+</item>
+<item>
     <title>Eleceed - Chapter 230</title>
     <link>https://comick.app/comic/eleceed</link>
     <description>Chapter 230 of Eleceed is now available on ComicK!</description>
@@ -334,11 +339,6 @@
     <title>One Piece - Chapter 1072.1</title>
     <link>https://comick.app/comic/one-piece</link>
     <description>Chapter 1072.1 of One Piece is now available on ComicK!</description>
-</item>
-<item>
-    <title>High School Girl X Dragon - Chapter 15</title>
-    <link>https://comick.app/comic/high-school-girl-x-dragon</link>
-    <description>Chapter 15 of High School Girl X Dragon is now available on ComicK!</description>
 </item>
 
 </channel>
