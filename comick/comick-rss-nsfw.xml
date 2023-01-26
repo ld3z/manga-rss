@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>The Devil Whispered in My Ear - Chapter 121</title>
+    <title>X-Ray Vision - Chapter 16</title>
+    <link>https://comick.app/comic/x-ray-vision</link>
+    <description>Chapter 16 of X-Ray Vision is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Devil Whispered in My Ear - Chapter 118.7</title>
     <link>https://comick.app/comic/the-devil-whispered-in-my-ear</link>
-    <description>Chapter 121 of The Devil Whispered in My Ear is now available on ComicK!</description>
+    <description>Chapter 118.7 of The Devil Whispered in My Ear is now available on ComicK!</description>
 </item>
 <item>
     <title>Cookie Run Kingdom - Chapter 15</title>
@@ -24,16 +29,6 @@
     <title>My Girlfriend Is a Zombie - Chapter 372</title>
     <link>https://comick.app/comic/my-girlfriend-is-a-zombie</link>
     <description>Chapter 372 of My Girlfriend Is a Zombie is now available on ComicK!</description>
-</item>
-<item>
-    <title>Necromancer Survival - Chapter 54</title>
-    <link>https://comick.app/comic/necromancer-survival</link>
-    <description>Chapter 54 of Necromancer Survival is now available on ComicK!</description>
-</item>
-<item>
-    <title>Onegai, Nugashite. - Chapter 16</title>
-    <link>https://comick.app/comic/onegai-nugashite</link>
-    <description>Chapter 16 of Onegai, Nugashite. is now available on ComicK!</description>
 </item>
 
 </channel>
