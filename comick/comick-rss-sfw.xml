@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Beastburn - Chapter 7</title>
+    <link>https://comick.app/comic/beastburn</link>
+    <description>Chapter 7 of Beastburn is now available on ComicK!</description>
+</item>
+<item>
+    <title>Nano Machine - Chapter 72</title>
+    <link>https://comick.app/comic/nano-machine</link>
+    <description>Chapter 72 of Nano Machine is now available on ComicK!</description>
+</item>
+<item>
+    <title>Heavenly Master - Chapter 16</title>
+    <link>https://comick.app/comic/heavenly-master</link>
+    <description>Chapter 16 of Heavenly Master is now available on ComicK!</description>
+</item>
+<item>
     <title>The Devil Whispered in My Ear - Chapter 24</title>
     <link>https://comick.app/comic/the-devil-whispered-in-my-ear</link>
     <description>Chapter 24 of The Devil Whispered in My Ear is now available on ComicK!</description>
@@ -184,11 +199,6 @@
     <title>Egao no Sekai - Chapter 8</title>
     <link>https://comick.app/comic/world-of-smile</link>
     <description>Chapter 8 of Egao no Sekai is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Ex, the King - Chapter 6</title>
-    <link>https://comick.app/comic/former-king</link>
-    <description>Chapter 6 of My Ex, the King is now available on ComicK!</description>
 </item>
 
 </channel>
