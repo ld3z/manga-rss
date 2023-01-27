@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Koshotengai no Hashihime - Because I'll beg to Love - Chapter 1</title>
+    <link>https://comick.app/comic/koshotengai-no-hashihime-because-i-ll-beg-to-love</link>
+    <description>Chapter 1 of Koshotengai no Hashihime - Because I'll beg to Love is now available on ComicK!</description>
+</item>
+<item>
+    <title>Despair Memory Gundam Sequel - Chapter 10</title>
+    <link>https://comick.app/comic/despair-memory-gundam-sequel</link>
+    <description>Chapter 10 of Despair Memory Gundam Sequel is now available on ComicK!</description>
+</item>
+<item>
     <title>Black Clover - Chapter 349</title>
     <link>https://comick.app/comic/black-clover</link>
     <description>Chapter 349 of Black Clover is now available on ComicK!</description>
@@ -269,11 +279,6 @@
     <title>Reader - Chapter 178</title>
     <link>https://comick.app/comic/reader-ka1r3s6k</link>
     <description>Chapter 178 of Reader is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Diary of Ma-chan - Chapter 2</title>
-    <link>https://comick.app/comic/maa-chan-no-nikkichou</link>
-    <description>Chapter 2 of The Diary of Ma-chan is now available on ComicK!</description>
 </item>
 
 </channel>
