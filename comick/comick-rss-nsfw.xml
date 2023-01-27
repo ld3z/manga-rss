@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Odyssey - Chapter 4</title>
+    <link>https://comick.app/comic/odysseyXTLE</link>
+    <description>Chapter 4 of Odyssey is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Story of a Couple That Lives on a School Rooftop - Chapter 3</title>
+    <link>https://comick.app/comic/the-story-of-a-couple-that-lives-on-a-school-rooftop</link>
+    <description>Chapter 3 of The Story of a Couple That Lives on a School Rooftop is now available on ComicK!</description>
+</item>
+<item>
     <title>Koshotengai no Hashihime - Because I'll beg to Love - Chapter 1</title>
     <link>https://comick.app/comic/koshotengai-no-hashihime-because-i-ll-beg-to-love</link>
     <description>Chapter 1 of Koshotengai no Hashihime - Because I'll beg to Love is now available on ComicK!</description>
@@ -39,11 +49,6 @@
     <title>Secret Lady - Chapter 69</title>
     <link>https://comick.app/comic/secret-lady</link>
     <description>Chapter 69 of Secret Lady is now available on ComicK!</description>
-</item>
-<item>
-    <title>Odyssey - Chapter 1</title>
-    <link>https://comick.app/comic/odysseyXTLE</link>
-    <description>Chapter 1 of Odyssey is now available on ComicK!</description>
 </item>
 <item>
     <title>The Tyrant's Only Perfumer - Chapter 66</title>
@@ -264,16 +269,6 @@
     <title>The First Hunter - Chapter 83</title>
     <link>https://comick.app/comic/the-first-hunter</link>
     <description>Chapter 83 of The First Hunter is now available on ComicK!</description>
-</item>
-<item>
-    <title>Warrior Executioner - Chapter 41</title>
-    <link>https://comick.app/comic/warrior-executioner</link>
-    <description>Chapter 41 of Warrior Executioner is now available on ComicK!</description>
-</item>
-<item>
-    <title>Gridman Dogma - Chapter 8</title>
-    <link>https://comick.app/comic/gridman-dogma</link>
-    <description>Chapter 8 of Gridman Dogma is now available on ComicK!</description>
 </item>
 
 </channel>
