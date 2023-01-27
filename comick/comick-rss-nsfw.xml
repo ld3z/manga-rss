@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Witches of Adamas - Chapter 28</title>
+    <link>https://comick.app/comic/adamasu-no-majotachi</link>
+    <description>Chapter 28 of The Witches of Adamas is now available on ComicK!</description>
+</item>
+<item>
     <title>My Girlfriend's Not Here Today - Chapter 14</title>
     <link>https://comick.app/comic/kyou-wa-kanojo-ga-inai-kara</link>
     <description>Chapter 14 of My Girlfriend's Not Here Today is now available on ComicK!</description>
@@ -274,11 +279,6 @@
     <title>Isekai wa Smartphone to Tomo ni - Chapter 75</title>
     <link>https://comick.app/comic/in-another-world-with-my-smartphone</link>
     <description>Chapter 75 of Isekai wa Smartphone to Tomo ni is now available on ComicK!</description>
-</item>
-<item>
-    <title>To Aru Kagaku no Railgun - Chapter 136</title>
-    <link>https://comick.app/comic/toaru-kagaku-no-railgun</link>
-    <description>Chapter 136 of To Aru Kagaku no Railgun is now available on ComicK!</description>
 </item>
 
 </channel>
