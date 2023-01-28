@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Embodiment of Sins - Chapter 3</title>
+    <link>https://comick.app/comic/the-embodiment-of-sins</link>
+    <description>Chapter 3 of The Embodiment of Sins is now available on ComicK!</description>
+</item>
+<item>
     <title>Guns and Girls - Chapter 5</title>
     <link>https://comick.app/comic/guns-and-girls</link>
     <description>Chapter 5 of Guns and Girls is now available on ComicK!</description>
@@ -304,16 +309,6 @@
     <title>Soredemo Ayumu wa Yosetekuru - Chapter 185</title>
     <link>https://comick.app/comic/soredemo-ayumu-wa-yosetekuru</link>
     <description>Chapter 185 of Soredemo Ayumu wa Yosetekuru is now available on ComicK!</description>
-</item>
-<item>
-    <title>Boundless Necromancer - Chapter 17</title>
-    <link>https://comick.app/comic/boundless-necromancer</link>
-    <description>Chapter 17 of Boundless Necromancer is now available on ComicK!</description>
-</item>
-<item>
-    <title>The 18 Year Old Spy - Chapter 27</title>
-    <link>https://comick.app/comic/spy-18-years-old</link>
-    <description>Chapter 27 of The 18 Year Old Spy is now available on ComicK!</description>
 </item>
 
 </channel>
