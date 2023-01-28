@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Guns and Girls - Chapter 5</title>
+    <link>https://comick.app/comic/guns-and-girls</link>
+    <description>Chapter 5 of Guns and Girls is now available on ComicK!</description>
+</item>
+<item>
+    <title>Ironfist Chinmi - Chapter 6</title>
+    <link>https://comick.app/comic/tekken-chinmi</link>
+    <description>Chapter 6 of Ironfist Chinmi is now available on ComicK!</description>
+</item>
+<item>
     <title>Taiyo no Mokushiroku - Chapter 59</title>
     <link>https://comick.app/comic/taiyou-no-mokishiroku</link>
     <description>Chapter 59 of Taiyo no Mokushiroku is now available on ComicK!</description>
@@ -299,16 +309,6 @@
     <title>The 18 Year Old Spy - Chapter 27</title>
     <link>https://comick.app/comic/spy-18-years-old</link>
     <description>Chapter 27 of The 18 Year Old Spy is now available on ComicK!</description>
-</item>
-<item>
-    <title>2DK, G-pen, Alarm clock. - Chapter 5.5</title>
-    <link>https://comick.app/comic/2-dk-g-pen-alarm-clock</link>
-    <description>Chapter 5.5 of 2DK, G-pen, Alarm clock. is now available on ComicK!</description>
-</item>
-<item>
-    <title>Top Tier Providence - Chapter 77</title>
-    <link>https://comick.app/comic/top-tier-providence</link>
-    <description>Chapter 77 of Top Tier Providence is now available on ComicK!</description>
 </item>
 
 </channel>
