@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>I Became the Mad Emperor - Chapter 13</title>
+    <title>D.Gray-man - Chapter 246</title>
+    <link>https://comick.app/comic/d-gray-man</link>
+    <description>Chapter 246 of D.Gray-man is now available on ComicK!</description>
+</item>
+<item>
+    <title>I Became the Mad Emperor - Chapter 14</title>
     <link>https://comick.app/comic/i-became-the-mad-emperorchmy</link>
-    <description>Chapter 13 of I Became the Mad Emperor is now available on ComicK!</description>
+    <description>Chapter 14 of I Became the Mad Emperor is now available on ComicK!</description>
 </item>
 <item>
     <title>Kyou, Furyo wo Hirou - Chapter 7</title>
@@ -309,21 +314,6 @@
     <title>Carrier Falcon Princess - Chapter 57</title>
     <link>https://comick.app/comic/carrier-falcon-princess</link>
     <description>Chapter 57 of Carrier Falcon Princess is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kamonohashi Ron no Kindan Suiri - Chapter 87</title>
-    <link>https://comick.app/comic/kamonohashi-ron-no-kindan-suiri</link>
-    <description>Chapter 87 of Kamonohashi Ron no Kindan Suiri is now available on ComicK!</description>
-</item>
-<item>
-    <title>Martial Peak - Chapter 3004</title>
-    <link>https://comick.app/comic/martial-peak</link>
-    <description>Chapter 3004 of Martial Peak is now available on ComicK!</description>
-</item>
-<item>
-    <title>Zombie Land Saga ANTHOLOGY - Chapter 8</title>
-    <link>https://comick.app/comic/zombie-land-saga-anthology</link>
-    <description>Chapter 8 of Zombie Land Saga ANTHOLOGY is now available on ComicK!</description>
 </item>
 
 </channel>
