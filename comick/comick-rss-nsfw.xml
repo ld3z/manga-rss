@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Outlaw Star - Chapter 13</title>
+    <link>https://comick.app/comic/outlaw-star</link>
+    <description>Chapter 13 of Outlaw Star is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kichiku Eiyuu - Chapter 8</title>
+    <link>https://comick.app/comic/kichiku-eiyuu</link>
+    <description>Chapter 8 of Kichiku Eiyuu is now available on ComicK!</description>
+</item>
+<item>
+    <title>Gokufuri Kyohi Shite Tesaguri Start! Tokka Shinai Healer, Nakama to Wakarete Tabi ni Deru - Chapter 31</title>
+    <link>https://comick.app/comic/gokufuri-kyohi-shite-tesaguri-start-tokka-shinai-healer-nakama-to-wakarete-tabi-ni-deru</link>
+    <description>Chapter 31 of Gokufuri Kyohi Shite Tesaguri Start! Tokka Shinai Healer, Nakama to Wakarete Tabi ni Deru is now available on ComicK!</description>
+</item>
+<item>
     <title>The Delinquent Girlfriend and The Flashy Boyfriend - Chapter 3</title>
     <link>https://comick.app/comic/the-delinquent-girlfriend-and-the-flashy-boyfriend</link>
     <description>Chapter 3 of The Delinquent Girlfriend and The Flashy Boyfriend is now available on ComicK!</description>
@@ -159,16 +174,6 @@
     <title>Escort Warrior - Chapter 188</title>
     <link>https://comick.app/comic/escort-warrior</link>
     <description>Chapter 188 of Escort Warrior is now available on ComicK!</description>
-</item>
-<item>
-    <title>Records of the Swordsman Scholar - Chapter 54</title>
-    <link>https://comick.app/comic/records-of-the-swordsman-scholar</link>
-    <description>Chapter 54 of Records of the Swordsman Scholar is now available on ComicK!</description>
-</item>
-<item>
-    <title>Martial Peak - Chapter 2657</title>
-    <link>https://comick.app/comic/martial-peak</link>
-    <description>Chapter 2657 of Martial Peak is now available on ComicK!</description>
 </item>
 
 </channel>
