@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Perfect Surgeon - Chapter 43</title>
+    <title>Radiant - Chapter 127</title>
+    <link>https://comick.app/comic/radiant</link>
+    <description>Chapter 127 of Radiant is now available on ComicK!</description>
+</item>
+<item>
+    <title>Perfect Surgeon - Chapter 44</title>
     <link>https://comick.app/comic/perfect-surgeon</link>
-    <description>Chapter 43 of Perfect Surgeon is now available on ComicK!</description>
+    <description>Chapter 44 of Perfect Surgeon is now available on ComicK!</description>
+</item>
+<item>
+    <title>Quest Supremacy - Chapter 71</title>
+    <link>https://comick.app/comic/quest-supremacy</link>
+    <description>Chapter 71 of Quest Supremacy is now available on ComicK!</description>
+</item>
+<item>
+    <title>Have a Great Sunday - Chapter 45</title>
+    <link>https://comick.app/comic/have-a-great-sunday</link>
+    <description>Chapter 45 of Have a Great Sunday is now available on ComicK!</description>
 </item>
 <item>
     <title>Season Of Alabaster - Chapter 7.2</title>
@@ -219,21 +234,6 @@
     <title>Traces of the Sun - Chapter 47</title>
     <link>https://comick.app/comic/traces-of-the-sun</link>
     <description>Chapter 47 of Traces of the Sun is now available on ComicK!</description>
-</item>
-<item>
-    <title>Baby Empress - Chapter 76</title>
-    <link>https://comick.app/comic/baby-empress</link>
-    <description>Chapter 76 of Baby Empress is now available on ComicK!</description>
-</item>
-<item>
-    <title>Let's Get A Divorce, Husband! - Chapter 79</title>
-    <link>https://comick.app/comic/divorcie-se-de-mim-marido</link>
-    <description>Chapter 79 of Let's Get A Divorce, Husband! is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Life as an Internet Novel - Chapter 168</title>
-    <link>https://comick.app/comic/inso-s-law</link>
-    <description>Chapter 168 of My Life as an Internet Novel is now available on ComicK!</description>
 </item>
 
 </channel>
