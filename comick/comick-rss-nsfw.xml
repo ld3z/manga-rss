@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Prince Azumahiko - Chapter 1</title>
+    <link>https://comick.app/comic/prince-azumahikoPE7O</link>
+    <description>Chapter 1 of Prince Azumahiko is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kamoshika! - Chapter 5</title>
+    <link>https://comick.app/comic/kamoshika</link>
+    <description>Chapter 5 of Kamoshika! is now available on ComicK!</description>
+</item>
+<item>
     <title>Space Juggernaut - Chapter 8.5</title>
     <link>https://comick.app/comic/space-juggernaut</link>
     <description>Chapter 8.5 of Space Juggernaut is now available on ComicK!</description>
@@ -239,11 +249,6 @@
     <title>The Devil Whispered in My Ear - Chapter 134</title>
     <link>https://comick.app/comic/the-devil-whispered-in-my-ear</link>
     <description>Chapter 134 of The Devil Whispered in My Ear is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hanyang Diary - Chapter 64</title>
-    <link>https://comick.app/comic/hanyang-diary</link>
-    <description>Chapter 64 of Hanyang Diary is now available on ComicK!</description>
 </item>
 
 </channel>

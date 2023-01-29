@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Prince Azumahiko - Chapter 1</title>
+    <link>https://comick.app/comic/prince-azumahikoPE7O</link>
+    <description>Chapter 1 of Prince Azumahiko is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kamoshika! - Chapter 5</title>
+    <link>https://comick.app/comic/kamoshika</link>
+    <description>Chapter 5 of Kamoshika! is now available on ComicK!</description>
+</item>
+<item>
     <title>Space Juggernaut - Chapter 8.5</title>
     <link>https://comick.app/comic/space-juggernaut</link>
     <description>Chapter 8.5 of Space Juggernaut is now available on ComicK!</description>
@@ -219,11 +229,6 @@
     <title>Traces of the Sun - Chapter 47</title>
     <link>https://comick.app/comic/traces-of-the-sun</link>
     <description>Chapter 47 of Traces of the Sun is now available on ComicK!</description>
-</item>
-<item>
-    <title>Baby Empress - Chapter 76</title>
-    <link>https://comick.app/comic/baby-empress</link>
-    <description>Chapter 76 of Baby Empress is now available on ComicK!</description>
 </item>
 
 </channel>
