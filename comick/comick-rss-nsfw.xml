@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Orange Chocolate - Chapter 36.2</title>
+    <link>https://comick.app/comic/orange-chocolate</link>
+    <description>Chapter 36.2 of Orange Chocolate is now available on ComicK!</description>
+</item>
+<item>
+    <title>Tenro no Avalon - Chapter 9</title>
+    <link>https://comick.app/comic/tenro-no-avalon-jyd8n72j</link>
+    <description>Chapter 9 of Tenro no Avalon is now available on ComicK!</description>
+</item>
+<item>
     <title>Kichiku Eiyuu - Chapter 9</title>
     <link>https://comick.app/comic/kichiku-eiyuu</link>
     <description>Chapter 9 of Kichiku Eiyuu is now available on ComicK!</description>
@@ -339,16 +349,6 @@
     <title>Trump: Another Space Continuum - Chapter 397</title>
     <link>https://comick.app/comic/trump</link>
     <description>Chapter 397 of Trump: Another Space Continuum is now available on ComicK!</description>
-</item>
-<item>
-    <title>Wind Breaker - Chapter 416</title>
-    <link>https://comick.app/comic/wind-breaker</link>
-    <description>Chapter 416 of Wind Breaker is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tenkyu no KiLL Logger - Chapter 1</title>
-    <link>https://comick.app/comic/tenkyu-no-ki-ll-logger</link>
-    <description>Chapter 1 of Tenkyu no KiLL Logger is now available on ComicK!</description>
 </item>
 
 </channel>
