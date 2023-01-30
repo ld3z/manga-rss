@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>A Midnight Bellboy - Chapter 1</title>
+    <link>https://comick.app/comic/a-midnight-bellboy</link>
+    <description>Chapter 1 of A Midnight Bellboy is now available on ComicK!</description>
+</item>
+<item>
     <title>Kuso Zako Fuuki Iinchou Kaeri-chan - Chapter 18</title>
     <link>https://comick.app/comic/kuso-zako-fuuki-iinchou-kaeri-chan</link>
     <description>Chapter 18 of Kuso Zako Fuuki Iinchou Kaeri-chan is now available on ComicK!</description>
@@ -374,11 +379,6 @@
     <title>Tensei Shitara Slime Datta Ken: Clayman Revenge - Chapter 10</title>
     <link>https://comick.app/comic/tensei-shitara-slime-datta-ken-clayman-revenge</link>
     <description>Chapter 10 of Tensei Shitara Slime Datta Ken: Clayman Revenge is now available on ComicK!</description>
-</item>
-<item>
-    <title>Don’t Let Your Heart Beat Challenge - Chapter 15</title>
-    <link>https://comick.app/comic/don-t-let-your-heart-beat-challenge</link>
-    <description>Chapter 15 of Don’t Let Your Heart Beat Challenge is now available on ComicK!</description>
 </item>
 
 </channel>
