@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>FUTURE STAY ROUTE - Guardiantales - Chapter 6</title>
+    <title>Tearmoon Teikoku Monogatari ~ Jusha-tachi no osakai - Chapter 1</title>
+    <link>https://comick.app/comic/tearmoon-teikoku-monogatari-jusha-tachi-no-osakai</link>
+    <description>Chapter 1 of Tearmoon Teikoku Monogatari ~ Jusha-tachi no osakai is now available on ComicK!</description>
+</item>
+<item>
+    <title>FUTURE STAY ROUTE - Guardiantales - Chapter 8</title>
     <link>https://comick.app/comic/future-stay-route-guardiantales</link>
-    <description>Chapter 6 of FUTURE STAY ROUTE - Guardiantales is now available on ComicK!</description>
+    <description>Chapter 8 of FUTURE STAY ROUTE - Guardiantales is now available on ComicK!</description>
 </item>
 <item>
     <title>Misenchanted - Chapter 18</title>
@@ -344,21 +349,6 @@
     <title>Tsubame Tip Off! - Chapter 35</title>
     <link>https://comick.app/comic/tsubame-tip-off</link>
     <description>Chapter 35 of Tsubame Tip Off! is now available on ComicK!</description>
-</item>
-<item>
-    <title>I’m a Tycoon in the Other World - Chapter 77</title>
-    <link>https://comick.app/comic/i-m-a-tycoon-in-the-other-world</link>
-    <description>Chapter 77 of I’m a Tycoon in the Other World is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Was Stuck On The Same Day For 100,000 Years - Chapter 262</title>
-    <link>https://comick.app/comic/the-time-of-rebirth</link>
-    <description>Chapter 262 of I Was Stuck On The Same Day For 100,000 Years is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kyou Kara Mirai - Chapter 20</title>
-    <link>https://comick.app/comic/kyou-kara-mirai</link>
-    <description>Chapter 20 of Kyou Kara Mirai is now available on ComicK!</description>
 </item>
 
 </channel>
