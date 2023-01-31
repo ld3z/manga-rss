@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Pool - Chapter 1</title>
+    <link>https://comick.app/comic/pool</link>
+    <description>Chapter 1 of Pool is now available on ComicK!</description>
+</item>
+<item>
     <title>The Beautiful Wife of the Whirlwind Marriage - Chapter 300</title>
     <link>https://comick.app/comic/the-beautiful-wife-of-the-whirlwind-marriage-jyj872v9</link>
     <description>Chapter 300 of The Beautiful Wife of the Whirlwind Marriage is now available on ComicK!</description>
@@ -224,11 +229,6 @@
     <title>Until My Best Friend Who Became a Girl One Day Becomes Happy - Chapter 41</title>
     <link>https://comick.app/comic/until-my-best-friend-who-became-a-girl-one-day-becomes-happy</link>
     <description>Chapter 41 of Until My Best Friend Who Became a Girl One Day Becomes Happy is now available on ComicK!</description>
-</item>
-<item>
-    <title>Level Up in the Mirror - Chapter 43</title>
-    <link>https://comick.app/comic/level-up-in-the-mirror</link>
-    <description>Chapter 43 of Level Up in the Mirror is now available on ComicK!</description>
 </item>
 
 </channel>
