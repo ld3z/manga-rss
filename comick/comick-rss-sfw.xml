@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Persistent Lover - Chapter 2</title>
+    <link>https://comick.app/comic/persistent-lover</link>
+    <description>Chapter 2 of Persistent Lover is now available on ComicK!</description>
+</item>
+<item>
     <title>Book Eater - Chapter 80</title>
     <link>https://comick.app/comic/the-book-eating-magician</link>
     <description>Chapter 80 of Book Eater is now available on ComicK!</description>
@@ -209,11 +214,6 @@
     <title>Pokemon: The World Champion Season - Chapter 34.5</title>
     <link>https://comick.app/comic/pokemon-the-world-champion-season</link>
     <description>Chapter 34.5 of Pokemon: The World Champion Season is now available on ComicK!</description>
-</item>
-<item>
-    <title>Her Private Bodyguard - Chapter 152</title>
-    <link>https://comick.app/comic/her-private-bodyguard</link>
-    <description>Chapter 152 of Her Private Bodyguard is now available on ComicK!</description>
 </item>
 
 </channel>
