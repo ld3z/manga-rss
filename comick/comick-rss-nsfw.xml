@@ -6,6 +6,31 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>EAT - Chapter 4</title>
+    <link>https://comick.app/comic/eat</link>
+    <description>Chapter 4 of EAT is now available on ComicK!</description>
+</item>
+<item>
+    <title>City Hunter - Chapter None</title>
+    <link>https://comick.app/comic/city-hunter</link>
+    <description>Chapter None of City Hunter is now available on ComicK!</description>
+</item>
+<item>
+    <title>Wangan Midnight: C1 Runner - Chapter 4</title>
+    <link>https://comick.app/comic/wangan-midnight-c1-runner</link>
+    <description>Chapter 4 of Wangan Midnight: C1 Runner is now available on ComicK!</description>
+</item>
+<item>
+    <title>Tank Chair - Chapter 7</title>
+    <link>https://comick.app/comic/tank-chair</link>
+    <description>Chapter 7 of Tank Chair is now available on ComicK!</description>
+</item>
+<item>
+    <title>GT-giRl - Chapter 22</title>
+    <link>https://comick.app/comic/gt-gi-rl</link>
+    <description>Chapter 22 of GT-giRl is now available on ComicK!</description>
+</item>
+<item>
     <title>Dungeon no Osananajimi - Chapter 19</title>
     <link>https://comick.app/comic/dungeon-no-osananajimi</link>
     <description>Chapter 19 of Dungeon no Osananajimi is now available on ComicK!</description>
@@ -234,26 +259,6 @@
     <title>His Girlfriend - Chapter 8</title>
     <link>https://comick.app/comic/someone-s-girlfriend</link>
     <description>Chapter 8 of His Girlfriend is now available on ComicK!</description>
-</item>
-<item>
-    <title>Grappler Baki - Chapter None</title>
-    <link>https://comick.app/comic/grappler-baki</link>
-    <description>Chapter None of Grappler Baki is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria - Chapter 86</title>
-    <link>https://comick.app/comic/dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-gaiden-sword-oratoria</link>
-    <description>Chapter 86 of Dungeon ni Deai o Motomeru no wa Machigatte Iru Darou ka Gaiden - Sword Oratoria is now available on ComicK!</description>
-</item>
-<item>
-    <title>Please Do Errands Instead of Me! - Chapter 58</title>
-    <link>https://comick.app/comic/please-do-errands-instead-of-me</link>
-    <description>Chapter 58 of Please Do Errands Instead of Me! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bomber Girl - Chapter None</title>
-    <link>https://comick.app/comic/bomber-girl</link>
-    <description>Chapter None of Bomber Girl is now available on ComicK!</description>
 </item>
 
 </channel>
