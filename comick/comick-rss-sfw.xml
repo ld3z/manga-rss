@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Maki and Friends - Chapter 158</title>
+    <title>Hotel Metsäpeura e Youkoso - Chapter 9</title>
+    <link>https://comick.app/comic/hotel-metsaepeura-e-youkoso</link>
+    <description>Chapter 9 of Hotel Metsäpeura e Youkoso is now available on ComicK!</description>
+</item>
+<item>
+    <title>Maki and Friends - Chapter 167</title>
     <link>https://comick.app/comic/maki-and-friends</link>
-    <description>Chapter 158 of Maki and Friends is now available on ComicK!</description>
+    <description>Chapter 167 of Maki and Friends is now available on ComicK!</description>
 </item>
 <item>
     <title>Girl and Science - Chapter 279</title>
@@ -94,11 +99,6 @@
     <title>After School Labyrinth Adventurer ~ I'm now able to go back and forth between Japan and another world, and I'll work hard to level up~ - Chapter 6</title>
     <link>https://comick.app/comic/after-school-labyrinth-adventurer-i-m-now-able-to-go-back-and-forth-between-japan-and-another-world-and-i-ll-work-hard-to-level-up</link>
     <description>Chapter 6 of After School Labyrinth Adventurer ~ I'm now able to go back and forth between Japan and another world, and I'll work hard to level up~ is now available on ComicK!</description>
-</item>
-<item>
-    <title>Shen Yin Wang Zuo - Chapter 216</title>
-    <link>https://comick.app/comic/shen-yin-wang-zuo</link>
-    <description>Chapter 216 of Shen Yin Wang Zuo is now available on ComicK!</description>
 </item>
 
 </channel>
