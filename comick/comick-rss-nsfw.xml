@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Maki and Friends - Chapter 13</title>
+    <link>https://comick.app/comic/maki-and-friends</link>
+    <description>Chapter 13 of Maki and Friends is now available on ComicK!</description>
+</item>
+<item>
     <title>I'm a Daughter Loved by the Devil - Chapter 33</title>
     <link>https://comick.app/comic/i-m-a-daughter-loved-by-the-devil</link>
     <description>Chapter 33 of I'm a Daughter Loved by the Devil is now available on ComicK!</description>
@@ -214,31 +219,6 @@
     <title>I Am the Fated Villain - Chapter 67</title>
     <link>https://comick.app/comic/the-villain-of-destiny</link>
     <description>Chapter 67 of I Am the Fated Villain is now available on ComicK!</description>
-</item>
-<item>
-    <title>Sore wa Zurui - Chapter None</title>
-    <link>https://comick.app/comic/sore-wa-zurui</link>
-    <description>Chapter None of Sore wa Zurui is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Villainess Is a Marionette - Chapter 76</title>
-    <link>https://comick.app/comic/the-villainess-is-a-marionette</link>
-    <description>Chapter 76 of The Villainess Is a Marionette is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kokoro Botan - Chapter 31</title>
-    <link>https://comick.app/comic/kokoro-botan</link>
-    <description>Chapter 31 of Kokoro Botan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tsuyokute New Game na Love Come - Chapter 49</title>
-    <link>https://comick.app/comic/tsuyokute-nyu-gemu-na-rabukome</link>
-    <description>Chapter 49 of Tsuyokute New Game na Love Come is now available on ComicK!</description>
-</item>
-<item>
-    <title>Everyone Else Is a Returnee - Chapter 9</title>
-    <link>https://comick.app/comic/everyone-else-is-a-returnee</link>
-    <description>Chapter 9 of Everyone Else Is a Returnee is now available on ComicK!</description>
 </item>
 
 </channel>
