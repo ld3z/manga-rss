@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Monkey Peak - Chapter 106</title>
+    <link>https://comick.app/comic/monkey-peak-juqjnkbj</link>
+    <description>Chapter 106 of Monkey Peak is now available on ComicK!</description>
+</item>
+<item>
     <title>Takako-san - Chapter 24</title>
     <link>https://comick.app/comic/takako-san</link>
     <description>Chapter 24 of Takako-san is now available on ComicK!</description>
@@ -279,11 +284,6 @@
     <title>Diamond no Ace - Prince Prince (Doujinshi) - Chapter None</title>
     <link>https://comick.app/comic/diamond-no-ace-prince-prince-doujinshi</link>
     <description>Chapter None of Diamond no Ace - Prince Prince (Doujinshi) is now available on ComicK!</description>
-</item>
-<item>
-    <title>VR HERO - Chapter 8</title>
-    <link>https://comick.app/comic/vr-hero</link>
-    <description>Chapter 8 of VR HERO is now available on ComicK!</description>
 </item>
 
 </channel>
