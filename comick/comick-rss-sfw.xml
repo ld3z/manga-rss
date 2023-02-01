@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Kishi-tan wa Jouheki no Naka ni Hana Hiraku - Chapter 7.5</title>
+    <title>Blend-S - Chapter 82</title>
+    <link>https://comick.app/comic/blend-s</link>
+    <description>Chapter 82 of Blend-S is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kishi-tan wa Jouheki no Naka ni Hana Hiraku - Chapter 9.5</title>
     <link>https://comick.app/comic/kishi-tan-wa-jouheki-no-naka-de-hana-hiraku</link>
-    <description>Chapter 7.5 of Kishi-tan wa Jouheki no Naka ni Hana Hiraku is now available on ComicK!</description>
+    <description>Chapter 9.5 of Kishi-tan wa Jouheki no Naka ni Hana Hiraku is now available on ComicK!</description>
 </item>
 <item>
     <title>Baki Dou (2018) - Chapter 140</title>
@@ -264,26 +269,6 @@
     <title>Ark The Legend - Chapter 10</title>
     <link>https://comick.app/comic/ark-the-legend</link>
     <description>Chapter 10 of Ark The Legend is now available on ComicK!</description>
-</item>
-<item>
-    <title>Aoba no Basket - Chapter 1</title>
-    <link>https://comick.app/comic/aoba-no-basket</link>
-    <description>Chapter 1 of Aoba no Basket is now available on ComicK!</description>
-</item>
-<item>
-    <title>Pure Villain - Chapter 35</title>
-    <link>https://comick.app/comic/pure-villain</link>
-    <description>Chapter 35 of Pure Villain is now available on ComicK!</description>
-</item>
-<item>
-    <title>Furyou Taimashi Reina - Chapter 62</title>
-    <link>https://comick.app/comic/furyou-taimashi-reina-jy2kbj7i</link>
-    <description>Chapter 62 of Furyou Taimashi Reina is now available on ComicK!</description>
-</item>
-<item>
-    <title>Reaper of the Drifting Moon - Chapter 48</title>
-    <link>https://comick.app/comic/reaper-of-the-drifting-moon</link>
-    <description>Chapter 48 of Reaper of the Drifting Moon is now available on ComicK!</description>
 </item>
 
 </channel>
