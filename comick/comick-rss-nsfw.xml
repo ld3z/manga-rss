@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Haishinsha to Kekkon suru no wa Yameta Hou ga Ii - Chapter 2</title>
+    <link>https://comick.app/comic/haishinsha-to-kekkon-suru-no-wa-yameta-hou-ga-ii</link>
+    <description>Chapter 2 of Haishinsha to Kekkon suru no wa Yameta Hou ga Ii is now available on ComicK!</description>
+</item>
+<item>
     <title>Gyaru and Cthulhu - Chapter 102</title>
     <link>https://comick.app/comic/gyaru-and-cthulhu</link>
     <description>Chapter 102 of Gyaru and Cthulhu is now available on ComicK!</description>
@@ -284,11 +289,6 @@
     <title>Ottoman - Chapter 28</title>
     <link>https://comick.app/comic/ottoman</link>
     <description>Chapter 28 of Ottoman is now available on ComicK!</description>
-</item>
-<item>
-    <title>Martial Peak - Chapter 3019</title>
-    <link>https://comick.app/comic/martial-peak</link>
-    <description>Chapter 3019 of Martial Peak is now available on ComicK!</description>
 </item>
 
 </channel>
