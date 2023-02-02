@@ -6,9 +6,44 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>The Diary of Ma-chan - Chapter 3</title>
+    <title>Osewagakari wa Mamanaranai - Chapter 9</title>
+    <link>https://comick.app/comic/osewagakari-wa-mamanaranai</link>
+    <description>Chapter 9 of Osewagakari wa Mamanaranai is now available on ComicK!</description>
+</item>
+<item>
+    <title>Seishun no Hekireki - Chapter 1</title>
+    <link>https://comick.app/comic/seishun-no-hekireki</link>
+    <description>Chapter 1 of Seishun no Hekireki is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Diary of Ma-chan - Chapter 3.1</title>
     <link>https://comick.app/comic/maa-chan-no-nikkichou</link>
-    <description>Chapter 3 of The Diary of Ma-chan is now available on ComicK!</description>
+    <description>Chapter 3.1 of The Diary of Ma-chan is now available on ComicK!</description>
+</item>
+<item>
+    <title>Majin Tensei: The True Remembrance - Chapter 10</title>
+    <link>https://comick.app/comic/majin-tensei-the-true-remembrance</link>
+    <description>Chapter 10 of Majin Tensei: The True Remembrance is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Lone Necromancer - Chapter 77</title>
+    <link>https://comick.app/comic/the-lone-necromancer</link>
+    <description>Chapter 77 of The Lone Necromancer is now available on ComicK!</description>
+</item>
+<item>
+    <title>Shaman (Hong Won-Pyo)   - Chapter 61</title>
+    <link>https://comick.app/comic/shaman-hong-won-pyo</link>
+    <description>Chapter 61 of Shaman (Hong Won-Pyo)   is now available on ComicK!</description>
+</item>
+<item>
+    <title>Hell 58 - Chapter 26</title>
+    <link>https://comick.app/comic/hell-58</link>
+    <description>Chapter 26 of Hell 58 is now available on ComicK!</description>
+</item>
+<item>
+    <title>Killing Killer - Chapter 27</title>
+    <link>https://comick.app/comic/killing-killer</link>
+    <description>Chapter 27 of Killing Killer is now available on ComicK!</description>
 </item>
 <item>
     <title>Baek XX - Chapter 8</title>
@@ -259,21 +294,6 @@
     <title>I Can Change The Timeline of Everything - Chapter 33</title>
     <link>https://comick.app/comic/i-can-change-the-timeline-of-everything</link>
     <description>Chapter 33 of I Can Change The Timeline of Everything is now available on ComicK!</description>
-</item>
-<item>
-    <title>IDOL×IDOL STORY! - Chapter 4.2</title>
-    <link>https://comick.app/comic/idol-idol-story</link>
-    <description>Chapter 4.2 of IDOL×IDOL STORY! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Netsujo Military - Chapter 3</title>
-    <link>https://comick.app/comic/netsujo-military</link>
-    <description>Chapter 3 of Netsujo Military is now available on ComicK!</description>
-</item>
-<item>
-    <title>Jujutsu Kaisen - Chapter 212</title>
-    <link>https://comick.app/comic/jujutsu-kaisen</link>
-    <description>Chapter 212 of Jujutsu Kaisen is now available on ComicK!</description>
 </item>
 
 </channel>
