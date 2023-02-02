@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Cinderella Closet - Chapter 4</title>
+    <title>The Diary of Ma-chan - Chapter 3</title>
+    <link>https://comick.app/comic/maa-chan-no-nikkichou</link>
+    <description>Chapter 3 of The Diary of Ma-chan is now available on ComicK!</description>
+</item>
+<item>
+    <title>Baek XX - Chapter 8</title>
+    <link>https://comick.app/comic/baek-xx</link>
+    <description>Chapter 8 of Baek XX is now available on ComicK!</description>
+</item>
+<item>
+    <title>Cinderella Closet - Chapter 8</title>
     <link>https://comick.app/comic/cinderella-closet</link>
-    <description>Chapter 4 of Cinderella Closet is now available on ComicK!</description>
+    <description>Chapter 8 of Cinderella Closet is now available on ComicK!</description>
+</item>
+<item>
+    <title>Arknights: 123 Rhodes Island!? - Chapter 56</title>
+    <link>https://comick.app/comic/arknights-123-rhodes-island</link>
+    <description>Chapter 56 of Arknights: 123 Rhodes Island!? is now available on ComicK!</description>
 </item>
 <item>
     <title>I Am Reborn As The Sword God - Chapter 55</title>
@@ -259,26 +274,6 @@
     <title>Jujutsu Kaisen - Chapter 212</title>
     <link>https://comick.app/comic/jujutsu-kaisen</link>
     <description>Chapter 212 of Jujutsu Kaisen is now available on ComicK!</description>
-</item>
-<item>
-    <title>CHANGE UP!! - Chapter 9.2</title>
-    <link>https://comick.app/comic/change-up</link>
-    <description>Chapter 9.2 of CHANGE UP!! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Eternal Club - Chapter 154</title>
-    <link>https://comick.app/comic/i-built-a-lifespan-club</link>
-    <description>Chapter 154 of Eternal Club is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hyouka - Chapter 110</title>
-    <link>https://comick.app/comic/hyouka</link>
-    <description>Chapter 110 of Hyouka is now available on ComicK!</description>
-</item>
-<item>
-    <title>Re: Life Player - Chapter 28</title>
-    <link>https://comick.app/comic/re-life-player</link>
-    <description>Chapter 28 of Re: Life Player is now available on ComicK!</description>
 </item>
 
 </channel>
