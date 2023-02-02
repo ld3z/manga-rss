@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Yakui yo! Alakshmi - Chapter 3</title>
+    <link>https://comick.app/comic/yakui-yo-alakshmi</link>
+    <description>Chapter 3 of Yakui yo! Alakshmi is now available on ComicK!</description>
+</item>
+<item>
     <title>Seoul Station Necromancer - Chapter 76</title>
     <link>https://comick.app/comic/seoul-station-necromancer</link>
     <description>Chapter 76 of Seoul Station Necromancer is now available on ComicK!</description>
@@ -329,11 +334,6 @@
     <title>My Disciples Are All Hot Badasses - Chapter 145</title>
     <link>https://comick.app/comic/my-disciples-are-all-hot-badasses</link>
     <description>Chapter 145 of My Disciples Are All Hot Badasses is now available on ComicK!</description>
-</item>
-<item>
-    <title>The More I Kill, The Stronger I Get - Chapter 7</title>
-    <link>https://comick.app/comic/more-kill-more-powerful</link>
-    <description>Chapter 7 of The More I Kill, The Stronger I Get is now available on ComicK!</description>
 </item>
 
 </channel>
