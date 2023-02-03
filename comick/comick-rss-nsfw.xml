@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Hitomi-chan wa Hitomishiri - Chapter 97</title>
+    <link>https://comick.app/comic/hitomi-chan-is-shy-with-strangers</link>
+    <description>Chapter 97 of Hitomi-chan wa Hitomishiri is now available on ComicK!</description>
+</item>
+<item>
     <title>Shokuryou Jinrui Re: Starving Re:velation - Chapter 36</title>
     <link>https://comick.app/comic/shokuryou-jinrui-re-starving-re-velation</link>
     <description>Chapter 36 of Shokuryou Jinrui Re: Starving Re:velation is now available on ComicK!</description>
@@ -359,11 +364,6 @@
     <title>Hitori No Shita: The Outcast - Chapter 131</title>
     <link>https://comick.app/comic/hitori-no-shita-the-outcast</link>
     <description>Chapter 131 of Hitori No Shita: The Outcast is now available on ComicK!</description>
-</item>
-<item>
-    <title>Spare Me, Great Lord! - Chapter 574</title>
-    <link>https://comick.app/comic/spare-me-great-lord</link>
-    <description>Chapter 574 of Spare Me, Great Lord! is now available on ComicK!</description>
 </item>
 
 </channel>
