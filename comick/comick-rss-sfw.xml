@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Pandora Hearts - Chapter None</title>
+    <link>https://comick.app/comic/pandora-hearts</link>
+    <description>Chapter None of Pandora Hearts is now available on ComicK!</description>
+</item>
+<item>
     <title>Hitori No Shita: The Outcast - Chapter 132</title>
     <link>https://comick.app/comic/hitori-no-shita-the-outcast</link>
     <description>Chapter 132 of Hitori No Shita: The Outcast is now available on ComicK!</description>
@@ -236,11 +241,6 @@
     <description>Chapter 19 of Ultimate Devouring System is now available on ComicK!</description>
 </item>
 <item>
-    <title>Pandora Hearts - Chapter None</title>
-    <link>https://comick.app/comic/pandora-hearts</link>
-    <description>Chapter None of Pandora Hearts is now available on ComicK!</description>
-</item>
-<item>
     <title>Major 2nd - Chapter 248</title>
     <link>https://comick.app/comic/major-2nd</link>
     <description>Chapter 248 of Major 2nd is now available on ComicK!</description>
@@ -254,11 +254,6 @@
     <title>Mikoto Hako - Chapter None</title>
     <link>https://comick.app/comic/mikoto-hako</link>
     <description>Chapter None of Mikoto Hako is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hitomi-chan wa Hitomishiri - Chapter 97</title>
-    <link>https://comick.app/comic/hitomi-chan-is-shy-with-strangers</link>
-    <description>Chapter 97 of Hitomi-chan wa Hitomishiri is now available on ComicK!</description>
 </item>
 
 </channel>
