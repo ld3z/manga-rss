@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Happy Happy Endorphin - Chapter None</title>
+    <link>https://comick.app/comic/happy-happy-endorphin</link>
+    <description>Chapter None of Happy Happy Endorphin is now available on ComicK!</description>
+</item>
+<item>
     <title>Magic Maker: How to Create Magic in Another World - Chapter 13.2</title>
     <link>https://comick.app/comic/magic-maker-how-to-create-magic-in-another-world</link>
     <description>Chapter 13.2 of Magic Maker: How to Create Magic in Another World is now available on ComicK!</description>
@@ -264,11 +269,6 @@
     <title>Ultimate Devouring System - Chapter 19</title>
     <link>https://comick.app/comic/ultimate-devouring-system</link>
     <description>Chapter 19 of Ultimate Devouring System is now available on ComicK!</description>
-</item>
-<item>
-    <title>Major 2nd - Chapter 248</title>
-    <link>https://comick.app/comic/major-2nd</link>
-    <description>Chapter 248 of Major 2nd is now available on ComicK!</description>
 </item>
 
 </channel>

@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Happy Happy Endorphin - Chapter None</title>
+    <link>https://comick.app/comic/happy-happy-endorphin</link>
+    <description>Chapter None of Happy Happy Endorphin is now available on ComicK!</description>
+</item>
+<item>
     <title>Does It Count if Your First Time Is With an Android? - Chapter 13</title>
     <link>https://comick.app/comic/does-it-count-if-your-first-time-is-with-an-android</link>
     <description>Chapter 13 of Does It Count if Your First Time Is With an Android? is now available on ComicK!</description>
@@ -249,11 +254,6 @@
     <title>Your Forma - Chapter 4</title>
     <link>https://comick.app/comic/your-forma</link>
     <description>Chapter 4 of Your Forma is now available on ComicK!</description>
-</item>
-<item>
-    <title>FX Senshi Kurumi-chan - Chapter 4</title>
-    <link>https://comick.app/comic/fx-fighter-kurumi-chan</link>
-    <description>Chapter 4 of FX Senshi Kurumi-chan is now available on ComicK!</description>
 </item>
 
 </channel>
