@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Akutou Ikka no Mana Musume, Tensei Saki mo Otome Game no Gokudou Reijou deshita. - Chapter 2</title>
+    <link>https://comick.app/comic/akutou-ikka-no-mana-musume-tensei-saki-mo-otome-game-no-gokudou-reijou-deshita</link>
+    <description>Chapter 2 of Akutou Ikka no Mana Musume, Tensei Saki mo Otome Game no Gokudou Reijou deshita. is now available on ComicK!</description>
+</item>
+<item>
     <title>Pandora Hearts - Chapter None</title>
     <link>https://comick.app/comic/pandora-hearts</link>
     <description>Chapter None of Pandora Hearts is now available on ComicK!</description>
@@ -249,11 +254,6 @@
     <title>Kamoshika! - Chapter 8</title>
     <link>https://comick.app/comic/kamoshika</link>
     <description>Chapter 8 of Kamoshika! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mikoto Hako - Chapter None</title>
-    <link>https://comick.app/comic/mikoto-hako</link>
-    <description>Chapter None of Mikoto Hako is now available on ComicK!</description>
 </item>
 
 </channel>
