@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Fisher Man - Chapter 7</title>
+    <link>https://comick.app/comic/fisher-man</link>
+    <description>Chapter 7 of Fisher Man is now available on ComicK!</description>
+</item>
+<item>
     <title>Onna Senshi tte Motenai desu! - Chapter 3</title>
     <link>https://comick.app/comic/onna-senshi-tte-motenai-desu</link>
     <description>Chapter 3 of Onna Senshi tte Motenai desu! is now available on ComicK!</description>
@@ -44,16 +49,6 @@
     <title>La La La - Chapter 66</title>
     <link>https://comick.app/comic/la-la-la</link>
     <description>Chapter 66 of La La La is now available on ComicK!</description>
-</item>
-<item>
-    <title>Karakai Jouzu no (Moto) Takagi-san - Chapter 262</title>
-    <link>https://comick.app/comic/karakai-jouzu-no-moto-takagi-san</link>
-    <description>Chapter 262 of Karakai Jouzu no (Moto) Takagi-san is now available on ComicK!</description>
-</item>
-<item>
-    <title>Shima-san - Chapter 5</title>
-    <link>https://comick.app/comic/shima-san</link>
-    <description>Chapter 5 of Shima-san is now available on ComicK!</description>
 </item>
 
 </channel>
