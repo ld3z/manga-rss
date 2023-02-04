@@ -6,14 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Formless Form - Chapter 58</title>
+    <link>https://comick.app/comic/da-xiang-wu-xing-taoist</link>
+    <description>Chapter 58 of Formless Form is now available on ComicK!</description>
+</item>
+<item>
     <title>Strongest Fighter - Chapter 42</title>
     <link>https://comick.app/comic/strongest-fighter</link>
     <description>Chapter 42 of Strongest Fighter is now available on ComicK!</description>
-</item>
-<item>
-    <title>Formless Form - Chapter 55</title>
-    <link>https://comick.app/comic/da-xiang-wu-xing-taoist</link>
-    <description>Chapter 55 of Formless Form is now available on ComicK!</description>
 </item>
 <item>
     <title>Kurotonbi no Seija - Chapter 9</title>
@@ -219,11 +219,6 @@
     <title>The First Ancestor In History - Chapter 174</title>
     <link>https://comick.app/comic/the-first-ancestor-in-history</link>
     <description>Chapter 174 of The First Ancestor In History is now available on ComicK!</description>
-</item>
-<item>
-    <title>Fist of the Blue Sky - Chapter None</title>
-    <link>https://comick.app/comic/souten-no-ken</link>
-    <description>Chapter None of Fist of the Blue Sky is now available on ComicK!</description>
 </item>
 
 </channel>
