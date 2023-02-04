@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Modern MoGal - Chapter 243</title>
+    <link>https://comick.app/comic/modern-mo-gal</link>
+    <description>Chapter 243 of Modern MoGal is now available on ComicK!</description>
+</item>
+<item>
     <title>Shina Ultimate - Chapter 18</title>
     <link>https://comick.app/comic/shina-ultimate</link>
     <description>Chapter 18 of Shina Ultimate is now available on ComicK!</description>
@@ -299,11 +304,6 @@
     <title>Kakeru - Chapter 12</title>
     <link>https://comick.app/comic/kakeru</link>
     <description>Chapter 12 of Kakeru is now available on ComicK!</description>
-</item>
-<item>
-    <title>Shaman (Hong Won-Pyo)   - Chapter 62</title>
-    <link>https://comick.app/comic/shaman-hong-won-pyo</link>
-    <description>Chapter 62 of Shaman (Hong Won-Pyo)   is now available on ComicK!</description>
 </item>
 
 </channel>
