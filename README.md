@@ -22,4 +22,5 @@ and it only has english comics on the feed, but I plan to add more :)
 
 - [ ] Fix some code
 - [ ] Add more feeds for each language on ComicK
+- [ ] Add issue enhancements
 - [ ] Add more websites?

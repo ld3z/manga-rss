@@ -26,13 +26,9 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
 
-    - name: Generate rss (comick-nsfw-en)
+    - name: Generate rss (comick-en)
       run: |
-        python ./comick/generate-nsfw.py
-        
-    - name: Generate rss (comick-sfw-en)
-      run: |
-        python ./comick/generate-sfw.py
+        python ./comick/generate-en.py
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
