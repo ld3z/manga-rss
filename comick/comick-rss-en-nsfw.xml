@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Antidote - Chapter 1</title>
+    <link>https://comick.app/comic/antidoteza1i</link>
+    <description>Chapter 1 of Antidote is now available on ComicK!</description>
+</item>
+<item>
+    <title>Corpse Knight Gunther - Chapter 8</title>
+    <link>https://comick.app/comic/corpse-knight-gunther</link>
+    <description>Chapter 8 of Corpse Knight Gunther is now available on ComicK!</description>
+</item>
+<item>
     <title>The Strongest Cheat Player - Chapter 38</title>
     <link>https://comick.app/comic/the-strongest-cheat-player</link>
     <description>Chapter 38 of The Strongest Cheat Player is now available on ComicK!</description>
@@ -269,16 +279,6 @@
     <title>Isekai Ojisan - Chapter 46</title>
     <link>https://comick.app/comic/isekai-ojisan</link>
     <description>Chapter 46 of Isekai Ojisan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dr. Player - Chapter 29</title>
-    <link>https://comick.app/comic/dr-player</link>
-    <description>Chapter 29 of Dr. Player is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Daughter Is the Final Boss - Chapter 63</title>
-    <link>https://comick.app/comic/my-daughter-is-the-final-boss</link>
-    <description>Chapter 63 of My Daughter Is the Final Boss is now available on ComicK!</description>
 </item>
 
 </channel>
