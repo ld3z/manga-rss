@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kamoshika! - Chapter 11</title>
+    <link>https://comick.app/comic/kamoshika</link>
+    <description>Chapter 11 of Kamoshika! is now available on ComicK!</description>
+</item>
+<item>
     <title>I Picked Up This World's Strategy Guide! - Chapter 2.2</title>
     <link>https://comick.app/comic/i-picked-this-world-s-strategy-guide</link>
     <description>Chapter 2.2 of I Picked Up This World's Strategy Guide! is now available on ComicK!</description>
@@ -309,11 +314,6 @@
     <title>Taiyo no Mokushiroku - Chapter 60</title>
     <link>https://comick.app/comic/taiyou-no-mokishiroku</link>
     <description>Chapter 60 of Taiyo no Mokushiroku is now available on ComicK!</description>
-</item>
-<item>
-    <title>Phoenix Against the World - Chapter 57</title>
-    <link>https://comick.app/comic/phoenix-against-the-world</link>
-    <description>Chapter 57 of Phoenix Against the World is now available on ComicK!</description>
 </item>
 
 </channel>
