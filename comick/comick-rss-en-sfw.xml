@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Tokyo Duel - Chapter 74</title>
+    <link>https://comick.app/comic/tokyo-duel</link>
+    <description>Chapter 74 of Tokyo Duel is now available on ComicK!</description>
+</item>
+<item>
     <title>The World is Full of Monsters, So I Want to Live as I Wish - Chapter 25</title>
     <link>https://comick.app/comic/the-world-is-full-of-monsters-now-therefore-i-want-to-live-as-i-wish</link>
     <description>Chapter 25 of The World is Full of Monsters, So I Want to Live as I Wish is now available on ComicK!</description>
@@ -44,21 +49,6 @@
     <title>Grand Blue - Chapter 82.1</title>
     <link>https://comick.app/comic/grand-blue</link>
     <description>Chapter 82.1 of Grand Blue is now available on ComicK!</description>
-</item>
-<item>
-    <title>All These Wild Men Want to Marry Me! - Chapter 69</title>
-    <link>https://comick.app/comic/all-these-wild-men-want-to-marry-me</link>
-    <description>Chapter 69 of All These Wild Men Want to Marry Me! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bing Jiao Bao Jun Gai Na Lvcha Juben - Chapter 119</title>
-    <link>https://comick.app/comic/bing-jiao-bao-jun-gai-na-lvcha-juben</link>
-    <description>Chapter 119 of Bing Jiao Bao Jun Gai Na Lvcha Juben is now available on ComicK!</description>
-</item>
-<item>
-    <title>Gyaru and Cthulhu - Chapter 105</title>
-    <link>https://comick.app/comic/gyaru-and-cthulhu</link>
-    <description>Chapter 105 of Gyaru and Cthulhu is now available on ComicK!</description>
 </item>
 
 </channel>
