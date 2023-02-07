@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Shiotaiou no Sato-san ga Ore ni dake Amai - Chapter 26</title>
+    <link>https://comick.app/comic/shiotaiou-no-sato-san-ga-ore-ni-dake-amai</link>
+    <description>Chapter 26 of Shiotaiou no Sato-san ga Ore ni dake Amai is now available on ComicK!</description>
+</item>
+<item>
     <title>Yakui yo! Alakshmi - Chapter 4</title>
     <link>https://comick.app/comic/yakui-yo-alakshmi</link>
     <description>Chapter 4 of Yakui yo! Alakshmi is now available on ComicK!</description>
@@ -289,11 +294,6 @@
     <title>Bishounen Club no Himitsu - Chapter 7</title>
     <link>https://comick.app/comic/bishounen-club-no-himitsu</link>
     <description>Chapter 7 of Bishounen Club no Himitsu is now available on ComicK!</description>
-</item>
-<item>
-    <title>Toketenai kara, Mou Ikkai Shite? - Chapter None</title>
-    <link>https://comick.app/comic/toketenai-kara-mou-ikkai-shite</link>
-    <description>Chapter None of Toketenai kara, Mou Ikkai Shite? is now available on ComicK!</description>
 </item>
 
 </channel>
