@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Boku no Diamond Star - Chapter 3</title>
+    <link>https://comick.app/comic/my-diamond-star</link>
+    <description>Chapter 3 of Boku no Diamond Star is now available on ComicK!</description>
+</item>
+<item>
+    <title>Komori-san and Yoshizawa-san - Chapter None</title>
+    <link>https://comick.app/comic/komori-san-and-yoshizawa-san</link>
+    <description>Chapter None of Komori-san and Yoshizawa-san is now available on ComicK!</description>
+</item>
+<item>
     <title>Tonikaku Kawaii - Chapter 223</title>
     <link>https://comick.app/comic/tonikaku-kawaii</link>
     <description>Chapter 223 of Tonikaku Kawaii is now available on ComicK!</description>
@@ -284,16 +294,6 @@
     <title>Level 1 Player - Chapter 46</title>
     <link>https://comick.app/comic/level-1-player</link>
     <description>Chapter 46 of Level 1 Player is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Reborn Witch Foretells Destruction - Chapter 17</title>
-    <link>https://comick.app/comic/the-reborn-witch-foretells-destruction</link>
-    <description>Chapter 17 of The Reborn Witch Foretells Destruction is now available on ComicK!</description>
-</item>
-<item>
-    <title>Magic Academy Survival Guide - Chapter 27</title>
-    <link>https://comick.app/comic/magic-academy-survival-guide</link>
-    <description>Chapter 27 of Magic Academy Survival Guide is now available on ComicK!</description>
 </item>
 
 </channel>
