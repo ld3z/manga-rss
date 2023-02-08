@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Show Me Your Bust - Chapter 9</title>
+    <link>https://comick.app/comic/show-me-your-bust</link>
+    <description>Chapter 9 of Show Me Your Bust is now available on ComicK!</description>
+</item>
+<item>
     <title>Detective Xeno and the Seven Locked Murder Rooms - Chapter 74</title>
     <link>https://comick.app/comic/detective-xeno-and-the-seven-locked-murder-rooms</link>
     <description>Chapter 74 of Detective Xeno and the Seven Locked Murder Rooms is now available on ComicK!</description>
@@ -299,11 +304,6 @@
     <title>Orange Chocolate - Chapter 39.2</title>
     <link>https://comick.app/comic/orange-chocolate</link>
     <description>Chapter 39.2 of Orange Chocolate is now available on ComicK!</description>
-</item>
-<item>
-    <title>Nidome ha Shoujiki - Chapter 2</title>
-    <link>https://comick.app/comic/nidome-ha-shoujiki</link>
-    <description>Chapter 2 of Nidome ha Shoujiki is now available on ComicK!</description>
 </item>
 
 </channel>
