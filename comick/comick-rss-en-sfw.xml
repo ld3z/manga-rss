@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Fate/stay night: Heaven's Feel - Chapter 84</title>
+    <link>https://comick.app/comic/fate-stay-night-heaven-s-feel</link>
+    <description>Chapter 84 of Fate/stay night: Heaven's Feel is now available on ComicK!</description>
+</item>
+<item>
     <title>Papa Told Me - Chapter 80.1</title>
     <link>https://comick.app/comic/papa-told-me</link>
     <description>Chapter 80.1 of Papa Told Me is now available on ComicK!</description>
@@ -254,11 +259,6 @@
     <title>Quest Supremacy - Chapter 59</title>
     <link>https://comick.app/comic/quest-supremacy</link>
     <description>Chapter 59 of Quest Supremacy is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Final Raid Boss - Chapter 53</title>
-    <link>https://comick.app/comic/final-boss</link>
-    <description>Chapter 53 of The Final Raid Boss is now available on ComicK!</description>
 </item>
 
 </channel>
