@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Light Dragon - Chapter 4</title>
+    <title>The Messenger - Chapter 1</title>
+    <link>https://comick.app/comic/the-messenger</link>
+    <description>Chapter 1 of The Messenger is now available on ComicK!</description>
+</item>
+<item>
+    <title>Light Dragon - Chapter 6</title>
     <link>https://comick.app/comic/light-dragonO99r</link>
-    <description>Chapter 4 of Light Dragon is now available on ComicK!</description>
+    <description>Chapter 6 of Light Dragon is now available on ComicK!</description>
+</item>
+<item>
+    <title>MookHyang - Dark Lady - Chapter 168</title>
+    <link>https://comick.app/comic/mook-hyang-dark-lady-jy28q0d1</link>
+    <description>Chapter 168 of MookHyang - Dark Lady is now available on ComicK!</description>
 </item>
 <item>
     <title>Sound Asleep: Forgotten Memories - Chapter 868</title>
@@ -319,21 +329,6 @@
     <title>Pure Villain - Chapter 36</title>
     <link>https://comick.app/comic/pure-villain</link>
     <description>Chapter 36 of Pure Villain is now available on ComicK!</description>
-</item>
-<item>
-    <title>Nine Peaks - Chapter 14</title>
-    <link>https://comick.app/comic/nine-peaks</link>
-    <description>Chapter 14 of Nine Peaks is now available on ComicK!</description>
-</item>
-<item>
-    <title>Above All Gods - Chapter 441</title>
-    <link>https://comick.app/comic/above-all-gods</link>
-    <description>Chapter 441 of Above All Gods is now available on ComicK!</description>
-</item>
-<item>
-    <title>Princess of Doom - Chapter 74</title>
-    <link>https://comick.app/comic/princess-of-doom</link>
-    <description>Chapter 74 of Princess of Doom is now available on ComicK!</description>
 </item>
 
 </channel>

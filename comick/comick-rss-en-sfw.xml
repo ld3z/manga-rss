@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Light Dragon - Chapter 4</title>
+    <title>The Messenger - Chapter 1</title>
+    <link>https://comick.app/comic/the-messenger</link>
+    <description>Chapter 1 of The Messenger is now available on ComicK!</description>
+</item>
+<item>
+    <title>Light Dragon - Chapter 6</title>
     <link>https://comick.app/comic/light-dragonO99r</link>
-    <description>Chapter 4 of Light Dragon is now available on ComicK!</description>
+    <description>Chapter 6 of Light Dragon is now available on ComicK!</description>
+</item>
+<item>
+    <title>MookHyang - Dark Lady - Chapter 168</title>
+    <link>https://comick.app/comic/mook-hyang-dark-lady-jy28q0d1</link>
+    <description>Chapter 168 of MookHyang - Dark Lady is now available on ComicK!</description>
 </item>
 <item>
     <title>Sound Asleep: Forgotten Memories - Chapter 868</title>
@@ -314,21 +324,6 @@
     <title>Angel or Villainess - Chapter 100</title>
     <link>https://comick.app/comic/angelic-lady</link>
     <description>Chapter 100 of Angel or Villainess is now available on ComicK!</description>
-</item>
-<item>
-    <title>Why the King Needs a Secretary - Chapter 84</title>
-    <link>https://comick.app/comic/why-the-king-needs-a-secretary</link>
-    <description>Chapter 84 of Why the King Needs a Secretary is now available on ComicK!</description>
-</item>
-<item>
-    <title>Suki na Ko ga Megane wo Wasureta - Chapter 52</title>
-    <link>https://comick.app/comic/suki-na-ko-ga-megane-wo-wasureta</link>
-    <description>Chapter 52 of Suki na Ko ga Megane wo Wasureta is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Ancient Magus' Bride - Chapter 80</title>
-    <link>https://comick.app/comic/the-ancient-magus-bride</link>
-    <description>Chapter 80 of The Ancient Magus' Bride is now available on ComicK!</description>
 </item>
 
 </channel>
