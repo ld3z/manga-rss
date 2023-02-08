@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Heavenly Master - Chapter 11</title>
+    <title>Taixu Apartment - Chapter 1</title>
+    <link>https://comick.app/comic/taixu-apartment</link>
+    <description>Chapter 1 of Taixu Apartment is now available on ComicK!</description>
+</item>
+<item>
+    <title>Heavenly Master - Chapter 12</title>
     <link>https://comick.app/comic/heavenly-master</link>
-    <description>Chapter 11 of Heavenly Master is now available on ComicK!</description>
+    <description>Chapter 12 of Heavenly Master is now available on ComicK!</description>
 </item>
 <item>
     <title>Orange Chocolate - Chapter 39.2</title>
