@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>The Messenger - Chapter 1</title>
+    <title>The Messenger - Chapter 2</title>
     <link>https://comick.app/comic/the-messenger</link>
-    <description>Chapter 1 of The Messenger is now available on ComicK!</description>
+    <description>Chapter 2 of The Messenger is now available on ComicK!</description>
+</item>
+<item>
+    <title>Takako-san - Chapter 28</title>
+    <link>https://comick.app/comic/takako-san</link>
+    <description>Chapter 28 of Takako-san is now available on ComicK!</description>
+</item>
+<item>
+    <title>Empress Hunt - Chapter 27</title>
+    <link>https://comick.app/comic/empress-hunt</link>
+    <description>Chapter 27 of Empress Hunt is now available on ComicK!</description>
 </item>
 <item>
     <title>Light Dragon - Chapter 6</title>
@@ -309,21 +319,6 @@
     <title>Nine Peaks - Chapter 14</title>
     <link>https://comick.app/comic/nine-peaks</link>
     <description>Chapter 14 of Nine Peaks is now available on ComicK!</description>
-</item>
-<item>
-    <title>Above All Gods - Chapter 441</title>
-    <link>https://comick.app/comic/above-all-gods</link>
-    <description>Chapter 441 of Above All Gods is now available on ComicK!</description>
-</item>
-<item>
-    <title>Princess of Doom - Chapter 74</title>
-    <link>https://comick.app/comic/princess-of-doom</link>
-    <description>Chapter 74 of Princess of Doom is now available on ComicK!</description>
-</item>
-<item>
-    <title>Angel or Villainess - Chapter 100</title>
-    <link>https://comick.app/comic/angelic-lady</link>
-    <description>Chapter 100 of Angel or Villainess is now available on ComicK!</description>
 </item>
 
 </channel>
