@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Heavenly Master - Chapter 7</title>
+    <title>Heavenly Master - Chapter 11</title>
     <link>https://comick.app/comic/heavenly-master</link>
-    <description>Chapter 7 of Heavenly Master is now available on ComicK!</description>
+    <description>Chapter 11 of Heavenly Master is now available on ComicK!</description>
+</item>
+<item>
+    <title>Orange Chocolate - Chapter 39.2</title>
+    <link>https://comick.app/comic/orange-chocolate</link>
+    <description>Chapter 39.2 of Orange Chocolate is now available on ComicK!</description>
+</item>
+<item>
+    <title>Nidome ha Shoujiki - Chapter 2</title>
+    <link>https://comick.app/comic/nidome-ha-shoujiki</link>
+    <description>Chapter 2 of Nidome ha Shoujiki is now available on ComicK!</description>
 </item>
 <item>
     <title>Policewoman and Assassin - Chapter 9</title>
@@ -179,11 +189,6 @@
     <title>Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life - Chapter 25</title>
     <link>https://comick.app/comic/lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life</link>
     <description>Chapter 25 of Lv2 kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tonikaku Kawaii - Chapter 147</title>
-    <link>https://comick.app/comic/tonikaku-kawaii</link>
-    <description>Chapter 147 of Tonikaku Kawaii is now available on ComicK!</description>
 </item>
 
 </channel>
