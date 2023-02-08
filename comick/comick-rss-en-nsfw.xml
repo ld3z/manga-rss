@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Lady and Oldman - Chapter 26.1</title>
+    <link>https://comick.app/comic/lady-and-oldman</link>
+    <description>Chapter 26.1 of Lady and Oldman is now available on ComicK!</description>
+</item>
+<item>
     <title>Bocchi Tenseiki - Chapter 12</title>
     <link>https://comick.app/comic/bocchi-tenseiki</link>
     <description>Chapter 12 of Bocchi Tenseiki is now available on ComicK!</description>
@@ -329,11 +334,6 @@
     <title>The Ancient Magus' Bride - Chapter 80</title>
     <link>https://comick.app/comic/the-ancient-magus-bride</link>
     <description>Chapter 80 of The Ancient Magus' Bride is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bakemonogatari - Chapter 148</title>
-    <link>https://comick.app/comic/bakemonogatari</link>
-    <description>Chapter 148 of Bakemonogatari is now available on ComicK!</description>
 </item>
 
 </channel>
