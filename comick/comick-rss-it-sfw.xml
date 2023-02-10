@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Omniscient Reader's Viewpoint - Chapter 139</title>
+    <link>https://comick.app/comic/omniscient-reader-s-viewpoint</link>
+    <description>Chapter 139 of Omniscient Reader's Viewpoint is now available on ComicK!</description>
+</item>
+<item>
+    <title>The New Gate - Chapter 67</title>
+    <link>https://comick.app/comic/the-new-gate</link>
+    <description>Chapter 67 of The New Gate is now available on ComicK!</description>
+</item>
+<item>
     <title>Kokou no Hito - Chapter 7</title>
     <link>https://comick.app/comic/kokou-no-hito</link>
     <description>Chapter 7 of Kokou no Hito is now available on ComicK!</description>
@@ -209,11 +219,6 @@
     <title>Boku to Majo ni Tsuite no Bibouroku - Chapter 17</title>
     <link>https://comick.app/comic/boku-to-majo-ni-tsuite-no-bibouroku</link>
     <description>Chapter 17 of Boku to Majo ni Tsuite no Bibouroku is now available on ComicK!</description>
-</item>
-<item>
-    <title>Cavalier of the Abyss - Chapter 149</title>
-    <link>https://comick.app/comic/cavalier-of-the-abyss</link>
-    <description>Chapter 149 of Cavalier of the Abyss is now available on ComicK!</description>
 </item>
 
 </channel>
