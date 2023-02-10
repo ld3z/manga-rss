@@ -10,7 +10,7 @@ for example links to each languages sfw feed:
 | English(SFW): https://raw.githubusercontent.com/ld3z/manga-rss/main/comick/comick-rss-en-sfw.xml |
 | ------------------------------------------------------------ |
 | **Spanish(SFW): https://raw.githubusercontent.com/ld3z/manga-rss/main/comick/comick-rss-es-sfw.xml** |
-| **French(SFW): https://raw.githubusercontent.com/ld3z/manga-rss/main/comick/comick-rss-en-sfw.xml** |
+| **French(SFW): https://raw.githubusercontent.com/ld3z/manga-rss/main/comick/comick-rss-fr-sfw.xml** |
 | **Italian(SFW): https://raw.githubusercontent.com/ld3z/manga-rss/main/comick/comick-rss-it-sfw.xml** |
 | **Polish(SFW): https://raw.githubusercontent.com/ld3z/manga-rss/main/comick/comick-rss-pl-sfw.xml** |
 | **Turkish(SFW): https://raw.githubusercontent.com/ld3z/manga-rss/main/comick/comick-rss-tr-sfw.xml** |
