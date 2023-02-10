@@ -26,9 +26,29 @@ jobs:
         python -m pip install --upgrade pip
         python -m pip install -r requirements.txt
 
-    - name: Generate rss (comick-en)
+    - name: Generate rss (comick-english)
       run: |
         python ./comick/generate-en.py
+        
+    - name: Generate rss (comick-spanish)
+      run: |
+        python ./comick/generate-es.py
+        
+    - name: Generate rss (comick-french)
+      run: |
+        python ./comick/generate-fr.py
+        
+    - name: Generate rss (comick-italian)
+      run: |
+        python ./comick/generate-it.py
+        
+    - name: Generate rss (comick-polish)
+      run: |
+        python ./comick/generate-pl.py
+        
+    - name: Generate rss (comick-turkish)
+      run: |
+        python ./comick/generate-tr.py
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
