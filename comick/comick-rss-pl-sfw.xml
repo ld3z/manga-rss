@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Vagabond - Chapter 118</title>
+    <link>https://comick.app/comic/vagabond</link>
+    <description>Chapter 118 of Vagabond is now available on ComicK!</description>
+</item>
+<item>
     <title>JoJo's Bizarre Adventure Part 1 - Phantom Blood - Chapter 4</title>
     <link>https://comick.app/comic/jo-jo-s-bizarre-adventure-part-1-phantom-blood</link>
     <description>Chapter 4 of JoJo's Bizarre Adventure Part 1 - Phantom Blood is now available on ComicK!</description>
@@ -136,11 +141,6 @@
     <description>Chapter 11 of Ichinose-ke no Taizai is now available on ComicK!</description>
 </item>
 <item>
-    <title>Vagabond - Chapter 117</title>
-    <link>https://comick.app/comic/vagabond</link>
-    <description>Chapter 117 of Vagabond is now available on ComicK!</description>
-</item>
-<item>
     <title>I Am a Hero - Chapter 103</title>
     <link>https://comick.app/comic/i-am-a-hero</link>
     <description>Chapter 103 of I Am a Hero is now available on ComicK!</description>
@@ -159,11 +159,6 @@
     <title>I'm Mortal - Chapter 1</title>
     <link>https://comick.app/comic/i-m-mortal</link>
     <description>Chapter 1 of I'm Mortal is now available on ComicK!</description>
-</item>
-<item>
-    <title>Lips on the Tip of a Knife - Chapter 9</title>
-    <link>https://comick.app/comic/lips-on-the-tip-of-a-knife</link>
-    <description>Chapter 9 of Lips on the Tip of a Knife is now available on ComicK!</description>
 </item>
 
 </channel>
