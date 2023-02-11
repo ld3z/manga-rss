@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Nextworld - Chapter 19</title>
+    <title>Nextworld - Chapter 34</title>
     <link>https://comick.app/comic/kitarubeki-sekai</link>
-    <description>Chapter 19 of Nextworld is now available on ComicK!</description>
+    <description>Chapter 34 of Nextworld is now available on ComicK!</description>
+</item>
+<item>
+    <title>Outlaw Star - Chapter 14</title>
+    <link>https://comick.app/comic/outlaw-star</link>
+    <description>Chapter 14 of Outlaw Star is now available on ComicK!</description>
+</item>
+<item>
+    <title>Zombie Fight - Chapter 29</title>
+    <link>https://comick.app/comic/zombie-fight</link>
+    <description>Chapter 29 of Zombie Fight is now available on ComicK!</description>
 </item>
 <item>
     <title>Yofukashi no Uta - Chapter 159</title>
@@ -184,31 +194,6 @@
     <title>Yamaguchi-kun wa Warukunai - Chapter 28</title>
     <link>https://comick.app/comic/yamaguchi-kun-wa-warukunai</link>
     <description>Chapter 28 of Yamaguchi-kun wa Warukunai is now available on ComicK!</description>
-</item>
-<item>
-    <title>Neko Youkai - Chapter None</title>
-    <link>https://comick.app/comic/neko-youkai</link>
-    <description>Chapter None of Neko Youkai is now available on ComicK!</description>
-</item>
-<item>
-    <title>Musume Janakute, Watashi (Mama) ga Suki Nano?! - Chapter 10</title>
-    <link>https://comick.app/comic/musume-janakute-watashi-mama-ga-suki-nano</link>
-    <description>Chapter 10 of Musume Janakute, Watashi (Mama) ga Suki Nano?! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Yozakura Quartet - Chapter 167</title>
-    <link>https://comick.app/comic/yozakura-quartet</link>
-    <description>Chapter 167 of Yozakura Quartet is now available on ComicK!</description>
-</item>
-<item>
-    <title>Chi to Hai no Joou - Chapter 160</title>
-    <link>https://comick.app/comic/chi-to-hai-no-joou</link>
-    <description>Chapter 160 of Chi to Hai no Joou is now available on ComicK!</description>
-</item>
-<item>
-    <title>Youkai Gurentai - Chapter 9</title>
-    <link>https://comick.app/comic/youkai-gurentai</link>
-    <description>Chapter 9 of Youkai Gurentai is now available on ComicK!</description>
 </item>
 
 </channel>
