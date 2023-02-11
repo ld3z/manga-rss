@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Omega Tribe - Chapter 2</title>
+    <link>https://comick.app/comic/omega-tribe</link>
+    <description>Chapter 2 of Omega Tribe is now available on ComicK!</description>
+</item>
+<item>
+    <title>Tokyo Duel - Chapter 86</title>
+    <link>https://comick.app/comic/tokyo-duel</link>
+    <description>Chapter 86 of Tokyo Duel is now available on ComicK!</description>
+</item>
+<item>
     <title>Onward - Chapter 25</title>
     <link>https://comick.app/comic/onward</link>
     <description>Chapter 25 of Onward is now available on ComicK!</description>
@@ -239,21 +249,6 @@
     <title>Cinderella's Revenge - Chapter 88</title>
     <link>https://comick.app/comic/cinderella-s-revenge</link>
     <description>Chapter 88 of Cinderella's Revenge is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Reborn Super Doctor - Chapter 156</title>
-    <link>https://comick.app/comic/the-reborn-super-doctor</link>
-    <description>Chapter 156 of The Reborn Super Doctor is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Super Doctor From 2089 - Chapter 230</title>
-    <link>https://comick.app/comic/the-super-doctor-from-2089</link>
-    <description>Chapter 230 of The Super Doctor From 2089 is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Eunuch's Consort Rules the World - Chapter 257</title>
-    <link>https://comick.app/comic/the-eunuch-s-consort-rules-the-world</link>
-    <description>Chapter 257 of The Eunuch's Consort Rules the World is now available on ComicK!</description>
 </item>
 
 </channel>
