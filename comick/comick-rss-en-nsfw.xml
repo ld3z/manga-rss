@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Ake no Tobari - Chapter 267</title>
+    <title>Weak Hero - Chapter 232</title>
+    <link>https://comick.app/comic/weak-hero</link>
+    <description>Chapter 232 of Weak Hero is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Villainess Wants to Turn Over a New Leaf - Chapter 3</title>
+    <link>https://comick.app/comic/the-villainess-wants-to-turn-over-a-new-leaf</link>
+    <description>Chapter 3 of The Villainess Wants to Turn Over a New Leaf is now available on ComicK!</description>
+</item>
+<item>
+    <title>Ake no Tobari - Chapter 269</title>
     <link>https://comick.app/comic/ake-no-tobari</link>
-    <description>Chapter 267 of Ake no Tobari is now available on ComicK!</description>
+    <description>Chapter 269 of Ake no Tobari is now available on ComicK!</description>
+</item>
+<item>
+    <title>Red Pegasus - Chapter 1</title>
+    <link>https://comick.app/comic/akai-pegasus</link>
+    <description>Chapter 1 of Red Pegasus is now available on ComicK!</description>
 </item>
 <item>
     <title>Ikemen Joshi to Josou Danshi - Chapter 99</title>
@@ -59,11 +74,6 @@
     <title>Metro Hunter - Chapter 76</title>
     <link>https://comick.app/comic/metro-hunter</link>
     <description>Chapter 76 of Metro Hunter is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kawari Kawari no Kawagari - Chapter None</title>
-    <link>https://comick.app/comic/kawari-kawari-no-kawagari</link>
-    <description>Chapter None of Kawari Kawari no Kawagari is now available on ComicK!</description>
 </item>
 <item>
     <title>I Raised the Beast Well - Chapter 93.5</title>
@@ -314,11 +324,6 @@
     <title>Soredemo Ayumu wa Yosetekuru - Chapter 121</title>
     <link>https://comick.app/comic/soredemo-ayumu-wa-yosetekuru</link>
     <description>Chapter 121 of Soredemo Ayumu wa Yosetekuru is now available on ComicK!</description>
-</item>
-<item>
-    <title>Shiro Seijo to Kuro Bokushi - Chapter 61</title>
-    <link>https://comick.app/comic/saint-cecilia-and-pastor-lawrence</link>
-    <description>Chapter 61 of Shiro Seijo to Kuro Bokushi is now available on ComicK!</description>
 </item>
 
 </channel>
