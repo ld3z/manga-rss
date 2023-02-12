@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Higurashi no Naku Koro ni Meguri - Chapter 1.2</title>
+    <link>https://comick.app/comic/higurashi-no-naku-koro-ni-jun</link>
+    <description>Chapter 1.2 of Higurashi no Naku Koro ni Meguri is now available on ComicK!</description>
+</item>
+<item>
     <title>Hiiragi-san Chi no Kyuuketsu Jijou - Chapter 3</title>
     <link>https://comick.app/comic/hiiragi-san-chi-no-kyuuketsu-jijou</link>
     <description>Chapter 3 of Hiiragi-san Chi no Kyuuketsu Jijou is now available on ComicK!</description>
@@ -54,11 +59,6 @@
     <title>Ripple Rooter - Chapter 31</title>
     <link>https://comick.app/comic/ripple-rooter</link>
     <description>Chapter 31 of Ripple Rooter is now available on ComicK!</description>
-</item>
-<item>
-    <title>Higurashi no Naku Koro ni Meguri - Chapter 1</title>
-    <link>https://comick.app/comic/higurashi-no-naku-koro-ni-jun</link>
-    <description>Chapter 1 of Higurashi no Naku Koro ni Meguri is now available on ComicK!</description>
 </item>
 <item>
     <title>A Kind World - Chapter 22</title>
@@ -229,11 +229,6 @@
     <title>Umi no Misaki - Chapter 103</title>
     <link>https://comick.app/comic/umi-no-misaki</link>
     <description>Chapter 103 of Umi no Misaki is now available on ComicK!</description>
-</item>
-<item>
-    <title>Trinity Wonder - Chapter 37</title>
-    <link>https://comick.app/comic/trinity-wonder</link>
-    <description>Chapter 37 of Trinity Wonder is now available on ComicK!</description>
 </item>
 
 </channel>

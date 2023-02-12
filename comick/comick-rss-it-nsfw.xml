@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Higurashi no Naku Koro ni Meguri - Chapter 1.2</title>
+    <link>https://comick.app/comic/higurashi-no-naku-koro-ni-jun</link>
+    <description>Chapter 1.2 of Higurashi no Naku Koro ni Meguri is now available on ComicK!</description>
+</item>
+<item>
     <title>My Girlfriend's Friend - Chapter 13</title>
     <link>https://comick.app/comic/my-girlfriend-s-friend</link>
     <description>Chapter 13 of My Girlfriend's Friend is now available on ComicK!</description>
@@ -64,11 +69,6 @@
     <title>Ripple Rooter - Chapter 31</title>
     <link>https://comick.app/comic/ripple-rooter</link>
     <description>Chapter 31 of Ripple Rooter is now available on ComicK!</description>
-</item>
-<item>
-    <title>Higurashi no Naku Koro ni Meguri - Chapter 1</title>
-    <link>https://comick.app/comic/higurashi-no-naku-koro-ni-jun</link>
-    <description>Chapter 1 of Higurashi no Naku Koro ni Meguri is now available on ComicK!</description>
 </item>
 <item>
     <title>A Kind World - Chapter 22</title>
@@ -199,11 +199,6 @@
     <title>The Swordmaster's Son - Chapter 56</title>
     <link>https://comick.app/comic/swordmaster-s-youngest-son</link>
     <description>Chapter 56 of The Swordmaster's Son is now available on ComicK!</description>
-</item>
-<item>
-    <title>Into the Light Once Again - Chapter 53</title>
-    <link>https://comick.app/comic/into-the-light-once-again</link>
-    <description>Chapter 53 of Into the Light Once Again is now available on ComicK!</description>
 </item>
 
 </channel>
