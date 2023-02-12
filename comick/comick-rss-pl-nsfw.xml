@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Barbarian Quest - Chapter 6</title>
+    <link>https://comick.app/comic/barbarian-quest</link>
+    <description>Chapter 6 of Barbarian Quest is now available on ComicK!</description>
+</item>
+<item>
     <title>Wonder Cat Kyuu-chan - Chapter 201</title>
     <link>https://comick.app/comic/wonder-cat-kyuu-chan</link>
     <description>Chapter 201 of Wonder Cat Kyuu-chan is now available on ComicK!</description>
@@ -169,11 +174,6 @@
     <title>The Last Bloodline - Chapter 7</title>
     <link>https://comick.app/comic/the-last-bloodline</link>
     <description>Chapter 7 of The Last Bloodline is now available on ComicK!</description>
-</item>
-<item>
-    <title>How to Hide the Emperor's Child - Chapter 3</title>
-    <link>https://comick.app/comic/how-to-hide-the-emperor-s-child</link>
-    <description>Chapter 3 of How to Hide the Emperor's Child is now available on ComicK!</description>
 </item>
 
 </channel>
