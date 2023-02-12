@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Doctor’s Rebirth - Chapter 110</title>
+    <link>https://comick.app/comic/doctor-s-rebirth</link>
+    <description>Chapter 110 of Doctor’s Rebirth is now available on ComicK!</description>
+</item>
+<item>
     <title>Mercenary Enrollment - Chapter 107</title>
     <link>https://comick.app/comic/mercenary-enrollment</link>
     <description>Chapter 107 of Mercenary Enrollment is now available on ComicK!</description>
@@ -184,11 +189,6 @@
     <title>Akai Kiri no Naka kara - Chapter 12</title>
     <link>https://comick.app/comic/from-the-red-fog</link>
     <description>Chapter 12 of Akai Kiri no Naka kara is now available on ComicK!</description>
-</item>
-<item>
-    <title>Oh, My Sweet Alien! - Chapter 10</title>
-    <link>https://comick.app/comic/oh-my-sweet-alien</link>
-    <description>Chapter 10 of Oh, My Sweet Alien! is now available on ComicK!</description>
 </item>
 
 </channel>
