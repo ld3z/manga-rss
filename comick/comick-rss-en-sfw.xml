@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Futari Escape - Chapter 23</title>
+    <title>Zettai ni NTR Nai Kasshoku Osananajimi! - Chapter 9</title>
+    <link>https://comick.app/comic/zettai-ntr-nai-kasshoku-osananajimi</link>
+    <description>Chapter 9 of Zettai ni NTR Nai Kasshoku Osananajimi! is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kasane and Subaru - Chapter 10</title>
+    <link>https://comick.app/comic/kasane-to-subaru</link>
+    <description>Chapter 10 of Kasane and Subaru is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Blood Princess and the Knight - Chapter 213</title>
+    <link>https://comick.app/comic/the-blood-princess-and-the-knight</link>
+    <description>Chapter 213 of The Blood Princess and the Knight is now available on ComicK!</description>
+</item>
+<item>
+    <title>Futari Escape - Chapter 32</title>
     <link>https://comick.app/comic/futari-escape</link>
-    <description>Chapter 23 of Futari Escape is now available on ComicK!</description>
+    <description>Chapter 32 of Futari Escape is now available on ComicK!</description>
 </item>
 <item>
     <title>The Lazy Lord Masters the Sword - Chapter 83</title>
@@ -224,11 +239,6 @@
     <title>Kyou kara Tsukaeru Yakugakuteki Osewa - Chapter 4</title>
     <link>https://comick.app/comic/kyou-kara-tsukaeru-yakugakuteki-osewa</link>
     <description>Chapter 4 of Kyou kara Tsukaeru Yakugakuteki Osewa is now available on ComicK!</description>
-</item>
-<item>
-    <title>Return to Player - Chapter 109</title>
-    <link>https://comick.app/comic/return-to-player</link>
-    <description>Chapter 109 of Return to Player is now available on ComicK!</description>
 </item>
 
 </channel>
