@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Bocchi the Rock! - Chapter 48</title>
+    <link>https://comick.app/comic/bocchi-the-rock</link>
+    <description>Chapter 48 of Bocchi the Rock! is now available on ComicK!</description>
+</item>
+<item>
     <title>Book Eater - Chapter 46</title>
     <link>https://comick.app/comic/the-book-eating-magician</link>
     <description>Chapter 46 of Book Eater is now available on ComicK!</description>
@@ -84,11 +89,6 @@
     <title>A Girl Whose Dark Circles in Her Eyes Disappear as the Story Progresses - Chapter 3</title>
     <link>https://comick.app/comic/a-girl-whose-dark-circles-in-her-eyes-disappear-as-the-story-progresses</link>
     <description>Chapter 3 of A Girl Whose Dark Circles in Her Eyes Disappear as the Story Progresses is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bocchi the Rock! - Chapter 47</title>
-    <link>https://comick.app/comic/bocchi-the-rock</link>
-    <description>Chapter 47 of Bocchi the Rock! is now available on ComicK!</description>
 </item>
 <item>
     <title>Tale of a Scribe Who Retires to the Countryside - Chapter 142</title>
@@ -229,11 +229,6 @@
     <title>Villain to Kill - Chapter 45</title>
     <link>https://comick.app/comic/villain-to-kill</link>
     <description>Chapter 45 of Villain to Kill is now available on ComicK!</description>
-</item>
-<item>
-    <title>Chainsaw Man - Digital Colored Comics - Chapter 40</title>
-    <link>https://comick.app/comic/chainsaw-man-digital-colored-comics</link>
-    <description>Chapter 40 of Chainsaw Man - Digital Colored Comics is now available on ComicK!</description>
 </item>
 
 </channel>

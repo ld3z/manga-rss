@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Bocchi the Rock! - Chapter 48</title>
+    <link>https://comick.app/comic/bocchi-the-rock</link>
+    <description>Chapter 48 of Bocchi the Rock! is now available on ComicK!</description>
+</item>
+<item>
     <title>Book Eater - Chapter 46</title>
     <link>https://comick.app/comic/the-book-eating-magician</link>
     <description>Chapter 46 of Book Eater is now available on ComicK!</description>
@@ -99,11 +104,6 @@
     <title>A Girl Whose Dark Circles in Her Eyes Disappear as the Story Progresses - Chapter 3</title>
     <link>https://comick.app/comic/a-girl-whose-dark-circles-in-her-eyes-disappear-as-the-story-progresses</link>
     <description>Chapter 3 of A Girl Whose Dark Circles in Her Eyes Disappear as the Story Progresses is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bocchi the Rock! - Chapter 47</title>
-    <link>https://comick.app/comic/bocchi-the-rock</link>
-    <description>Chapter 47 of Bocchi the Rock! is now available on ComicK!</description>
 </item>
 <item>
     <title>Tale of a Scribe Who Retires to the Countryside - Chapter 142</title>
@@ -224,11 +224,6 @@
     <title>Akane-banashi - Chapter 10</title>
     <link>https://comick.app/comic/akane-banashi</link>
     <description>Chapter 10 of Akane-banashi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Isekai Kenkokuki - Chapter 56.1</title>
-    <link>https://comick.app/comic/isekai-kenkokuki</link>
-    <description>Chapter 56.1 of Isekai Kenkokuki is now available on ComicK!</description>
 </item>
 
 </channel>
