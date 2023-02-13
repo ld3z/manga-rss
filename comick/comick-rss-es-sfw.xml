@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Zatch Bell! 2 - Chapter 10</title>
+    <link>https://comick.app/comic/zatch-bell-2</link>
+    <description>Chapter 10 of Zatch Bell! 2 is now available on ComicK!</description>
+</item>
+<item>
     <title>Otome Sensou - Chapter 37</title>
     <link>https://comick.app/comic/otome-sensou</link>
     <description>Chapter 37 of Otome Sensou is now available on ComicK!</description>
@@ -184,11 +189,6 @@
     <title>Made in Abyss - Chapter 63</title>
     <link>https://comick.app/comic/made-in-abyss</link>
     <description>Chapter 63 of Made in Abyss is now available on ComicK!</description>
-</item>
-<item>
-    <title>Jigokuraku - Chapter 120</title>
-    <link>https://comick.app/comic/jigokuraku</link>
-    <description>Chapter 120 of Jigokuraku is now available on ComicK!</description>
 </item>
 
 </channel>
