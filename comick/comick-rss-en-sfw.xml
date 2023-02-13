@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Irregulars - Chapter 8.2</title>
+    <link>https://comick.app/comic/irregulars</link>
+    <description>Chapter 8.2 of Irregulars is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kubera - Chapter 267</title>
+    <link>https://comick.app/comic/kubera</link>
+    <description>Chapter 267 of Kubera is now available on ComicK!</description>
+</item>
+<item>
     <title>Bite-Sized Bestiary - Chapter 10</title>
     <link>https://comick.app/comic/bite-sized-bestiary</link>
     <description>Chapter 10 of Bite-Sized Bestiary is now available on ComicK!</description>
@@ -89,11 +99,6 @@
     <title>Signal To Love - Chapter 2</title>
     <link>https://comick.app/comic/signal-to-love</link>
     <description>Chapter 2 of Signal To Love is now available on ComicK!</description>
-</item>
-<item>
-    <title>Satsui no Senki - Chapter 7</title>
-    <link>https://comick.app/comic/satsui-no-senki</link>
-    <description>Chapter 7 of Satsui no Senki is now available on ComicK!</description>
 </item>
 
 </channel>
