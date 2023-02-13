@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Tamon-kun ima docchi!? - Chapter 2</title>
+    <title>Seoul Station Necromancer - Chapter 80</title>
+    <link>https://comick.app/comic/seoul-station-necromancer</link>
+    <description>Chapter 80 of Seoul Station Necromancer is now available on ComicK!</description>
+</item>
+<item>
+    <title>Sigrid - Chapter 36</title>
+    <link>https://comick.app/comic/sigrid</link>
+    <description>Chapter 36 of Sigrid is now available on ComicK!</description>
+</item>
+<item>
+    <title>Tamon-kun ima docchi!? - Chapter 4</title>
     <link>https://comick.app/comic/tamon-kun-ima-docchi</link>
-    <description>Chapter 2 of Tamon-kun ima docchi!? is now available on ComicK!</description>
+    <description>Chapter 4 of Tamon-kun ima docchi!? is now available on ComicK!</description>
+</item>
+<item>
+    <title>Onii-chan Is Done For! Official Anthology Comic - Chapter 9</title>
+    <link>https://comick.app/comic/onii-chan-is-done-for-official-anthology-comic</link>
+    <description>Chapter 9 of Onii-chan Is Done For! Official Anthology Comic is now available on ComicK!</description>
 </item>
 <item>
     <title>Hajime no Koi - Chapter 1</title>
@@ -279,11 +294,6 @@
     <title>Kuso Zako Fuuki Iinchou Kaeri-chan - Chapter 20</title>
     <link>https://comick.app/comic/kuso-zako-fuuki-iinchou-kaeri-chan</link>
     <description>Chapter 20 of Kuso Zako Fuuki Iinchou Kaeri-chan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hectopascal - Chapter 10</title>
-    <link>https://comick.app/comic/hectopascals</link>
-    <description>Chapter 10 of Hectopascal is now available on ComicK!</description>
 </item>
 
 </channel>
