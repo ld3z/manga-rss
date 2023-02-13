@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Type-Moon Gakuen - Chibi Chuki! - Chapter 16</title>
+    <link>https://comick.app/comic/type-moon-gakuen-chibi-chuki</link>
+    <description>Chapter 16 of Type-Moon Gakuen - Chibi Chuki! is now available on ComicK!</description>
+</item>
+<item>
     <title>Childhood Friendship Is Hard - Chapter 8.4</title>
     <link>https://comick.app/comic/childhood-friendship-is-hard</link>
     <description>Chapter 8.4 of Childhood Friendship Is Hard is now available on ComicK!</description>
@@ -344,11 +349,6 @@
     <title>Fate/Grand Order - Daily Chaldea (Doujinshi) - Chapter 1386</title>
     <link>https://comick.app/comic/fategrand-order-daily-chaldea-doujinshi</link>
     <description>Chapter 1386 of Fate/Grand Order - Daily Chaldea (Doujinshi) is now available on ComicK!</description>
-</item>
-<item>
-    <title>Busy Panda - Chapter 26</title>
-    <link>https://comick.app/comic/busy-panda</link>
-    <description>Chapter 26 of Busy Panda is now available on ComicK!</description>
 </item>
 
 </channel>
