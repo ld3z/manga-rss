@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Pool - Chapter 2</title>
+    <link>https://comick.app/comic/pool</link>
+    <description>Chapter 2 of Pool is now available on ComicK!</description>
+</item>
+<item>
     <title>Diamond no Ace - Happy Life (Doujinshi) - Chapter None</title>
     <link>https://comick.app/comic/diamond-no-ace-happy-life-doujinshi</link>
     <description>Chapter None of Diamond no Ace - Happy Life (Doujinshi) is now available on ComicK!</description>
@@ -299,11 +304,6 @@
     <title>Mushroom Hero - Chapter 87</title>
     <link>https://comick.app/comic/mushroom-brave</link>
     <description>Chapter 87 of Mushroom Hero is now available on ComicK!</description>
-</item>
-<item>
-    <title>Onna dakara, to Party wo Tsuihou Sareta no de Densetsu no Majo to Saikyou Tag wo Kumimashita - Chapter 16.3</title>
-    <link>https://comick.app/comic/onna-dakara-to-party-wo-tsuihou-sareta-no-de-densetsu-no-majo-to-saikyou-tag-wo-kumimashita</link>
-    <description>Chapter 16.3 of Onna dakara, to Party wo Tsuihou Sareta no de Densetsu no Majo to Saikyou Tag wo Kumimashita is now available on ComicK!</description>
 </item>
 
 </channel>

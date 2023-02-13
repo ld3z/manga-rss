@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Pool - Chapter 2</title>
+    <link>https://comick.app/comic/pool</link>
+    <description>Chapter 2 of Pool is now available on ComicK!</description>
+</item>
+<item>
     <title>Diamond no Ace - Happy Life (Doujinshi) - Chapter None</title>
     <link>https://comick.app/comic/diamond-no-ace-happy-life-doujinshi</link>
     <description>Chapter None of Diamond no Ace - Happy Life (Doujinshi) is now available on ComicK!</description>
@@ -309,11 +314,6 @@
     <title>The Undefeated Newbie - Chapter 48</title>
     <link>https://comick.app/comic/undefeated-ranker</link>
     <description>Chapter 48 of The Undefeated Newbie is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ousama Ranking - Chapter 181</title>
-    <link>https://comick.app/comic/ousama-ranking</link>
-    <description>Chapter 181 of Ousama Ranking is now available on ComicK!</description>
 </item>
 
 </channel>
