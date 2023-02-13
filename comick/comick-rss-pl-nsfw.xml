@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>The Last Bloodline - Chapter 8</title>
+    <title>School Days - Chapter 4</title>
+    <link>https://comick.app/comic/school-days</link>
+    <description>Chapter 4 of School Days is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Last Bloodline - Chapter 9</title>
     <link>https://comick.app/comic/the-last-bloodline</link>
-    <description>Chapter 8 of The Last Bloodline is now available on ComicK!</description>
+    <description>Chapter 9 of The Last Bloodline is now available on ComicK!</description>
 </item>
 <item>
     <title>10 Years That I Loved You the Most - Chapter 0</title>
@@ -189,21 +194,6 @@
     <title>Estio - Chapter 38</title>
     <link>https://comick.app/comic/estio</link>
     <description>Chapter 38 of Estio is now available on ComicK!</description>
-</item>
-<item>
-    <title>Max Level Returner - Chapter 70</title>
-    <link>https://comick.app/comic/max-level-returner</link>
-    <description>Chapter 70 of Max Level Returner is now available on ComicK!</description>
-</item>
-<item>
-    <title>There Must Be Happy Endings - Chapter 42</title>
-    <link>https://comick.app/comic/surely-a-happy-ending</link>
-    <description>Chapter 42 of There Must Be Happy Endings is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Player That Can't Level Up - Chapter 11</title>
-    <link>https://comick.app/comic/the-player-that-can-t-level-up</link>
-    <description>Chapter 11 of The Player That Can't Level Up is now available on ComicK!</description>
 </item>
 
 </channel>
