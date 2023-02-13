@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ranker - Chapter 12</title>
+    <link>https://comick.app/comic/ranker</link>
+    <description>Chapter 12 of Ranker is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Monstrous Gui - Chapter 31</title>
+    <link>https://comick.app/comic/the-monstrous-gui</link>
+    <description>Chapter 31 of The Monstrous Gui is now available on ComicK!</description>
+</item>
+<item>
     <title>Pool - Chapter 2</title>
     <link>https://comick.app/comic/pool</link>
     <description>Chapter 2 of Pool is now available on ComicK!</description>
@@ -294,16 +304,6 @@
     <title>He Can't Be This Dumb! - Chapter 85</title>
     <link>https://comick.app/comic/he-can-t-be-this-dumb</link>
     <description>Chapter 85 of He Can't Be This Dumb! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kitchen Soldier - Chapter 45</title>
-    <link>https://comick.app/comic/kitchen-soldier</link>
-    <description>Chapter 45 of Kitchen Soldier is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mushroom Hero - Chapter 87</title>
-    <link>https://comick.app/comic/mushroom-brave</link>
-    <description>Chapter 87 of Mushroom Hero is now available on ComicK!</description>
 </item>
 
 </channel>
