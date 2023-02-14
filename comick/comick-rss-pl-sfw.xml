@@ -6,14 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Secret Lady - Chapter 47</title>
+    <link>https://comick.app/comic/secret-lady</link>
+    <description>Chapter 47 of Secret Lady is now available on ComicK!</description>
+</item>
+<item>
     <title>I'm a Villainess But I Became a Mother - Chapter 4</title>
     <link>https://comick.app/comic/i-m-a-villainess-but-i-became-a-mother</link>
     <description>Chapter 4 of I'm a Villainess But I Became a Mother is now available on ComicK!</description>
-</item>
-<item>
-    <title>Secret Lady - Chapter 46</title>
-    <link>https://comick.app/comic/secret-lady</link>
-    <description>Chapter 46 of Secret Lady is now available on ComicK!</description>
 </item>
 <item>
     <title>Kekkaishi - Chapter 144</title>
@@ -124,11 +124,6 @@
     <title>Peerless Dad - Chapter 19</title>
     <link>https://comick.app/comic/peerless-dad</link>
     <description>Chapter 19 of Peerless Dad is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Last Bloodline - Chapter 9</title>
-    <link>https://comick.app/comic/the-last-bloodline</link>
-    <description>Chapter 9 of The Last Bloodline is now available on ComicK!</description>
 </item>
 
 </channel>
