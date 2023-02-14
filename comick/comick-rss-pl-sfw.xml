@@ -6,14 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kekkaishi - Chapter 139</title>
+    <link>https://comick.app/comic/kekkaishi</link>
+    <description>Chapter 139 of Kekkaishi is now available on ComicK!</description>
+</item>
+<item>
     <title>I'm a Villainess But I Became a Mother - Chapter 3</title>
     <link>https://comick.app/comic/i-m-a-villainess-but-i-became-a-mother</link>
     <description>Chapter 3 of I'm a Villainess But I Became a Mother is now available on ComicK!</description>
 </item>
 <item>
-    <title>Secret Lady - Chapter 44</title>
+    <title>Secret Lady - Chapter 45</title>
     <link>https://comick.app/comic/secret-lady</link>
-    <description>Chapter 44 of Secret Lady is now available on ComicK!</description>
+    <description>Chapter 45 of Secret Lady is now available on ComicK!</description>
 </item>
 <item>
     <title>Hoarding in Hell - Chapter 5</title>
@@ -24,11 +29,6 @@
     <title>Black Clover - Chapter 290</title>
     <link>https://comick.app/comic/black-clover</link>
     <description>Chapter 290 of Black Clover is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kekkaishi - Chapter 123</title>
-    <link>https://comick.app/comic/kekkaishi</link>
-    <description>Chapter 123 of Kekkaishi is now available on ComicK!</description>
 </item>
 <item>
     <title>To Tame a Fire - Chapter 8</title>
@@ -139,36 +139,6 @@
     <title>Übel Blatt - Chapter 167</title>
     <link>https://comick.app/comic/uebel-blatt</link>
     <description>Chapter 167 of Übel Blatt is now available on ComicK!</description>
-</item>
-<item>
-    <title>Doctor’s Rebirth - Chapter 110</title>
-    <link>https://comick.app/comic/doctor-s-rebirth</link>
-    <description>Chapter 110 of Doctor’s Rebirth is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mercenary Enrollment - Chapter 107</title>
-    <link>https://comick.app/comic/mercenary-enrollment</link>
-    <description>Chapter 107 of Mercenary Enrollment is now available on ComicK!</description>
-</item>
-<item>
-    <title>Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru ~Level Up wa Jinsei wo Kaeta~ - Chapter 19</title>
-    <link>https://comick.app/comic/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta</link>
-    <description>Chapter 19 of Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru ~Level Up wa Jinsei wo Kaeta~ is now available on ComicK!</description>
-</item>
-<item>
-    <title>Return Survival - Chapter 50</title>
-    <link>https://comick.app/comic/return-survival</link>
-    <description>Chapter 50 of Return Survival is now available on ComicK!</description>
-</item>
-<item>
-    <title>No Longer Human (ITO Junji) - Chapter 12</title>
-    <link>https://comick.app/comic/ningen-shikkaku-klc7h620</link>
-    <description>Chapter 12 of No Longer Human (ITO Junji) is now available on ComicK!</description>
-</item>
-<item>
-    <title>Raqiya - Chapter 50</title>
-    <link>https://comick.app/comic/raqiya</link>
-    <description>Chapter 50 of Raqiya is now available on ComicK!</description>
 </item>
 
 </channel>
