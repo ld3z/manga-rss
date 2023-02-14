@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Hero the Maximum - Chapter 5</title>
+    <link>https://comick.app/comic/hero-the-maximum</link>
+    <description>Chapter 5 of Hero the Maximum is now available on ComicK!</description>
+</item>
+<item>
     <title>Taiyo no Mokushiroku - Chapter 61</title>
     <link>https://comick.app/comic/taiyou-no-mokishiroku</link>
     <description>Chapter 61 of Taiyo no Mokushiroku is now available on ComicK!</description>
@@ -274,31 +279,6 @@
     <title>ZomGan - Chapter 35</title>
     <link>https://comick.app/comic/zom-gan</link>
     <description>Chapter 35 of ZomGan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Candy and Cigarettes - Chapter 44</title>
-    <link>https://comick.app/comic/candy-and-cigarettes</link>
-    <description>Chapter 44 of Candy and Cigarettes is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Am the Main Characters' Child - Chapter 33</title>
-    <link>https://comick.app/comic/i-was-born-as-the-lead-characters-child</link>
-    <description>Chapter 33 of I Am the Main Characters' Child is now available on ComicK!</description>
-</item>
-<item>
-    <title>Eleceed - Chapter 233</title>
-    <link>https://comick.app/comic/eleceed-1</link>
-    <description>Chapter 233 of Eleceed is now available on ComicK!</description>
-</item>
-<item>
-    <title>Top Tier Providence - Chapter 82</title>
-    <link>https://comick.app/comic/top-tier-providence</link>
-    <description>Chapter 82 of Top Tier Providence is now available on ComicK!</description>
-</item>
-<item>
-    <title>Duke Pendragon - Chapter 73</title>
-    <link>https://comick.app/comic/duke-pendragon</link>
-    <description>Chapter 73 of Duke Pendragon is now available on ComicK!</description>
 </item>
 
 </channel>
