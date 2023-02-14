@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Pokemon - Festival of Champions (Doujinshi) - Chapter 6</title>
+    <link>https://comick.app/comic/festival-of-champions-doujinshi</link>
+    <description>Chapter 6 of Pokemon - Festival of Champions (Doujinshi) is now available on ComicK!</description>
+</item>
+<item>
     <title>What Did You Eat Yesterday? - Chapter 12</title>
     <link>https://comick.app/comic/kinou-nani-tabeta</link>
     <description>Chapter 12 of What Did You Eat Yesterday? is now available on ComicK!</description>
@@ -184,11 +189,6 @@
     <title>Masters of Lightning Knives - Chapter 47</title>
     <link>https://comick.app/comic/lightning-degree</link>
     <description>Chapter 47 of Masters of Lightning Knives is now available on ComicK!</description>
-</item>
-<item>
-    <title>A Poisonous Lily - Chapter 5</title>
-    <link>https://comick.app/comic/a-poisonous-lily</link>
-    <description>Chapter 5 of A Poisonous Lily is now available on ComicK!</description>
 </item>
 
 </channel>
