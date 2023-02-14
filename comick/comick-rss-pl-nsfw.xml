@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Secret Lady - Chapter 42</title>
+    <title>To Tame a Fire - Chapter 8</title>
+    <link>https://comick.app/comic/to-tame-a-fire</link>
+    <description>Chapter 8 of To Tame a Fire is now available on ComicK!</description>
+</item>
+<item>
+    <title>10 Years That I Loved You the Most - Chapter 1</title>
+    <link>https://comick.app/comic/10-years-that-i-loved-you-the-most</link>
+    <description>Chapter 1 of 10 Years That I Loved You the Most is now available on ComicK!</description>
+</item>
+<item>
+    <title>Secret Lady - Chapter 43</title>
     <link>https://comick.app/comic/secret-lady</link>
-    <description>Chapter 42 of Secret Lady is now available on ComicK!</description>
+    <description>Chapter 43 of Secret Lady is now available on ComicK!</description>
 </item>
 <item>
     <title>Hoarding in Hell - Chapter 4</title>
@@ -104,11 +114,6 @@
     <title>The Last Bloodline - Chapter 9</title>
     <link>https://comick.app/comic/the-last-bloodline</link>
     <description>Chapter 9 of The Last Bloodline is now available on ComicK!</description>
-</item>
-<item>
-    <title>10 Years That I Loved You the Most - Chapter 0</title>
-    <link>https://comick.app/comic/10-years-that-i-loved-you-the-most</link>
-    <description>Chapter 0 of 10 Years That I Loved You the Most is now available on ComicK!</description>
 </item>
 <item>
     <title>Global Examination - Chapter 12</title>
@@ -224,11 +229,6 @@
     <title>Azur Lane 4-koma: Slow Ahead! - Chapter 6</title>
     <link>https://comick.app/comic/azur-lane-4-koma-slow-ahead</link>
     <description>Chapter 6 of Azur Lane 4-koma: Slow Ahead! is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Alcoholic Escape from Reality - Chapter 7</title>
-    <link>https://comick.app/comic/my-alcoholic-escape-from-reality</link>
-    <description>Chapter 7 of My Alcoholic Escape from Reality is now available on ComicK!</description>
 </item>
 
 </channel>
