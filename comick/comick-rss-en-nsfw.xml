@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Taiyo no Mokushiroku - Chapter 61</title>
+    <link>https://comick.app/comic/taiyou-no-mokishiroku</link>
+    <description>Chapter 61 of Taiyo no Mokushiroku is now available on ComicK!</description>
+</item>
+<item>
     <title>My Magician Senior - Chapter 26.1</title>
     <link>https://comick.app/comic/my-magician-enior</link>
     <description>Chapter 26.1 of My Magician Senior is now available on ComicK!</description>
@@ -294,11 +299,6 @@
     <title>Duke Pendragon - Chapter 73</title>
     <link>https://comick.app/comic/duke-pendragon</link>
     <description>Chapter 73 of Duke Pendragon is now available on ComicK!</description>
-</item>
-<item>
-    <title>Omniscient Reader's Viewpoint - Chapter 145</title>
-    <link>https://comick.app/comic/omniscient-reader-s-viewpoint</link>
-    <description>Chapter 145 of Omniscient Reader's Viewpoint is now available on ComicK!</description>
 </item>
 
 </channel>
