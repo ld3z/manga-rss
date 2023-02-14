@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Black Clover - Chapter 290</title>
+    <link>https://comick.app/comic/black-clover</link>
+    <description>Chapter 290 of Black Clover is now available on ComicK!</description>
+</item>
+<item>
     <title>Kekkaishi - Chapter 123</title>
     <link>https://comick.app/comic/kekkaishi</link>
     <description>Chapter 123 of Kekkaishi is now available on ComicK!</description>
@@ -169,11 +174,6 @@
     <title>Tougen Anki - Chapter 98</title>
     <link>https://comick.app/comic/tougen-anki</link>
     <description>Chapter 98 of Tougen Anki is now available on ComicK!</description>
-</item>
-<item>
-    <title>Roses and Champagne - Chapter 26</title>
-    <link>https://comick.app/comic/roses-and-champagne</link>
-    <description>Chapter 26 of Roses and Champagne is now available on ComicK!</description>
 </item>
 
 </channel>

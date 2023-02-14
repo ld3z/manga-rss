@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ichinose-ke no Taizai - Chapter 9</title>
+    <link>https://comick.app/comic/ichinose-ke-no-taizai</link>
+    <description>Chapter 9 of Ichinose-ke no Taizai is now available on ComicK!</description>
+</item>
+<item>
     <title>Isekai Maou to Shoukan Shoujo no Dorei Majutsu - Chapter 84.1</title>
     <link>https://comick.app/comic/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu</link>
     <description>Chapter 84.1 of Isekai Maou to Shoukan Shoujo no Dorei Majutsu is now available on ComicK!</description>
@@ -234,11 +239,6 @@
     <title>Akane-banashi - Chapter 10</title>
     <link>https://comick.app/comic/akane-banashi</link>
     <description>Chapter 10 of Akane-banashi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Isekai Kenkokuki - Chapter 56.1</title>
-    <link>https://comick.app/comic/isekai-kenkokuki</link>
-    <description>Chapter 56.1 of Isekai Kenkokuki is now available on ComicK!</description>
 </item>
 
 </channel>

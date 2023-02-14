@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ichinose-ke no Taizai - Chapter 9</title>
+    <link>https://comick.app/comic/ichinose-ke-no-taizai</link>
+    <description>Chapter 9 of Ichinose-ke no Taizai is now available on ComicK!</description>
+</item>
+<item>
     <title>Isekai Maou to Shoukan Shoujo no Dorei Majutsu - Chapter 84.1</title>
     <link>https://comick.app/comic/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu</link>
     <description>Chapter 84.1 of Isekai Maou to Shoukan Shoujo no Dorei Majutsu is now available on ComicK!</description>
@@ -229,11 +234,6 @@
     <title>Solo Spell Caster - Chapter 1</title>
     <link>https://comick.app/comic/solo-spell-caster</link>
     <description>Chapter 1 of Solo Spell Caster is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bleach - Digital Colored Comics - Chapter 85</title>
-    <link>https://comick.app/comic/bleach-digital-colored-comics</link>
-    <description>Chapter 85 of Bleach - Digital Colored Comics is now available on ComicK!</description>
 </item>
 
 </channel>
