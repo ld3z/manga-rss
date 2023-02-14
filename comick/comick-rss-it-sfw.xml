@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Girlfriend Can't Lie - Chapter None</title>
+    <link>https://comick.app/comic/the-girlfriend-can-t-lie</link>
+    <description>Chapter None of The Girlfriend Can't Lie is now available on ComicK!</description>
+</item>
+<item>
     <title>Book Eater - Chapter 47</title>
     <link>https://comick.app/comic/the-book-eating-magician</link>
     <description>Chapter 47 of Book Eater is now available on ComicK!</description>
@@ -239,11 +244,6 @@
     <title>The Swordmaster's Son - Chapter 56</title>
     <link>https://comick.app/comic/swordmaster-s-youngest-son</link>
     <description>Chapter 56 of The Swordmaster's Son is now available on ComicK!</description>
-</item>
-<item>
-    <title>Into the Light Once Again - Chapter 53</title>
-    <link>https://comick.app/comic/into-the-light-once-again</link>
-    <description>Chapter 53 of Into the Light Once Again is now available on ComicK!</description>
 </item>
 
 </channel>

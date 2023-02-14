@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Girlfriend Can't Lie - Chapter None</title>
+    <link>https://comick.app/comic/the-girlfriend-can-t-lie</link>
+    <description>Chapter None of The Girlfriend Can't Lie is now available on ComicK!</description>
+</item>
+<item>
     <title>Book Eater - Chapter 47</title>
     <link>https://comick.app/comic/the-book-eating-magician</link>
     <description>Chapter 47 of Book Eater is now available on ComicK!</description>
@@ -224,11 +229,6 @@
     <title>Detective Conan - Chapter 1107</title>
     <link>https://comick.app/comic/detective-conan</link>
     <description>Chapter 1107 of Detective Conan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Aki Sora - Chapter 18</title>
-    <link>https://comick.app/comic/aki-sora</link>
-    <description>Chapter 18 of Aki Sora is now available on ComicK!</description>
 </item>
 
 </channel>
