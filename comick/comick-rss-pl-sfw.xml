@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Kekkaishi - Chapter 170</title>
+    <title>Kekkaishi - Chapter 177</title>
     <link>https://comick.app/comic/kekkaishi</link>
-    <description>Chapter 170 of Kekkaishi is now available on ComicK!</description>
+    <description>Chapter 177 of Kekkaishi is now available on ComicK!</description>
+</item>
+<item>
+    <title>Ichinose-ke no Taizai - Chapter 12</title>
+    <link>https://comick.app/comic/ichinose-ke-no-taizai</link>
+    <description>Chapter 12 of Ichinose-ke no Taizai is now available on ComicK!</description>
 </item>
 <item>
     <title>The Youngest Daughter of the Villainous Duke - Chapter 2</title>
@@ -54,11 +59,6 @@
     <title>Black Clover - Chapter 290</title>
     <link>https://comick.app/comic/black-clover</link>
     <description>Chapter 290 of Black Clover is now available on ComicK!</description>
-</item>
-<item>
-    <title>To Tame a Fire - Chapter 8</title>
-    <link>https://comick.app/comic/to-tame-a-fire</link>
-    <description>Chapter 8 of To Tame a Fire is now available on ComicK!</description>
 </item>
 
 </channel>
