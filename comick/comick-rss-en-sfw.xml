@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Henkyou Toshi no Ikuseisha - Chapter 5</title>
+    <link>https://comick.app/comic/henkyou-toshi-no-ikuseisha</link>
+    <description>Chapter 5 of Henkyou Toshi no Ikuseisha is now available on ComicK!</description>
+</item>
+<item>
     <title>Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta - Chapter 10.2</title>
     <link>https://comick.app/comic/i-m-getting-married-to-a-girl-i-hate-in-my-class</link>
     <description>Chapter 10.2 of Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta is now available on ComicK!</description>
@@ -319,11 +324,6 @@
     <title>That House Where I Live With You - Chapter 60</title>
     <link>https://comick.app/comic/that-house-where-i-live-with-you</link>
     <description>Chapter 60 of That House Where I Live With You is now available on ComicK!</description>
-</item>
-<item>
-    <title>Quest Supremacy - Chapter 60</title>
-    <link>https://comick.app/comic/quest-supremacy</link>
-    <description>Chapter 60 of Quest Supremacy is now available on ComicK!</description>
 </item>
 
 </channel>

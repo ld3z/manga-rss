@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Henkyou Toshi no Ikuseisha - Chapter 5</title>
+    <link>https://comick.app/comic/henkyou-toshi-no-ikuseisha</link>
+    <description>Chapter 5 of Henkyou Toshi no Ikuseisha is now available on ComicK!</description>
+</item>
+<item>
     <title>Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta - Chapter 10.2</title>
     <link>https://comick.app/comic/i-m-getting-married-to-a-girl-i-hate-in-my-class</link>
     <description>Chapter 10.2 of Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta is now available on ComicK!</description>
@@ -319,11 +324,6 @@
     <title>Housekeeper - Chapter 43</title>
     <link>https://comick.app/comic/housekeeper</link>
     <description>Chapter 43 of Housekeeper is now available on ComicK!</description>
-</item>
-<item>
-    <title>Infinite Leveling: Murim - Chapter 94</title>
-    <link>https://comick.app/comic/infinite-level-up-in-murim</link>
-    <description>Chapter 94 of Infinite Leveling: Murim is now available on ComicK!</description>
 </item>
 
 </channel>
