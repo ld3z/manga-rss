@@ -6,9 +6,29 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Making Progress on Yuri Before the Deadline - Chapter 8</title>
+    <title>VShojo Comic - Chapter 18.5</title>
+    <link>https://comick.app/comic/v-shojo-comic</link>
+    <description>Chapter 18.5 of VShojo Comic is now available on ComicK!</description>
+</item>
+<item>
+    <title>Azur Lane: Queen's Orders - Chapter 207</title>
+    <link>https://comick.app/comic/azur-lane-queen-s-orders</link>
+    <description>Chapter 207 of Azur Lane: Queen's Orders is now available on ComicK!</description>
+</item>
+<item>
+    <title>Making Progress on Yuri Before the Deadline - Chapter 13</title>
     <link>https://comick.app/comic/shimekiri-mae-niwa-yuri-ga-hakadoru</link>
-    <description>Chapter 8 of Making Progress on Yuri Before the Deadline is now available on ComicK!</description>
+    <description>Chapter 13 of Making Progress on Yuri Before the Deadline is now available on ComicK!</description>
+</item>
+<item>
+    <title>Yurizukushi no Kyoushitsu de - Chapter 1</title>
+    <link>https://comick.app/comic/yurizukushi-no-kyoushitsu-de</link>
+    <description>Chapter 1 of Yurizukushi no Kyoushitsu de is now available on ComicK!</description>
+</item>
+<item>
+    <title>Martial Peak - Chapter 3056</title>
+    <link>https://comick.app/comic/martial-peak</link>
+    <description>Chapter 3056 of Martial Peak is now available on ComicK!</description>
 </item>
 <item>
     <title>Momoiro Trance - Chapter 12</title>
@@ -249,16 +269,6 @@
     <title>Spider Silk - Chapter 8</title>
     <link>https://comick.app/comic/spider-web</link>
     <description>Chapter 8 of Spider Silk is now available on ComicK!</description>
-</item>
-<item>
-    <title>Orange Chocolate - Chapter 41.2</title>
-    <link>https://comick.app/comic/orange-chocolate</link>
-    <description>Chapter 41.2 of Orange Chocolate is now available on ComicK!</description>
-</item>
-<item>
-    <title>Zipang - Chapter 160</title>
-    <link>https://comick.app/comic/zipang</link>
-    <description>Chapter 160 of Zipang is now available on ComicK!</description>
 </item>
 
 </channel>
