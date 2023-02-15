@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>The Spark in Your Eyes - Chapter 47</title>
+    <title>The Spark in Your Eyes - Chapter 49</title>
     <link>https://comick.app/comic/blinded-by-the-setting-sun</link>
-    <description>Chapter 47 of The Spark in Your Eyes is now available on ComicK!</description>
+    <description>Chapter 49 of The Spark in Your Eyes is now available on ComicK!</description>
+</item>
+<item>
+    <title>Designated Bully - Chapter 50</title>
+    <link>https://comick.app/comic/the-bully-in-charge</link>
+    <description>Chapter 50 of Designated Bully is now available on ComicK!</description>
 </item>
 <item>
     <title>Inspector Nishikida Likes The Thief - Chapter 5</title>
@@ -254,11 +259,6 @@
     <title>Top Tier Providence - Chapter 82</title>
     <link>https://comick.app/comic/top-tier-providence</link>
     <description>Chapter 82 of Top Tier Providence is now available on ComicK!</description>
-</item>
-<item>
-    <title>Beyond Myriad Peoples - Chapter 189</title>
-    <link>https://comick.app/comic/beyond-myriad-peoples</link>
-    <description>Chapter 189 of Beyond Myriad Peoples is now available on ComicK!</description>
 </item>
 
 </channel>

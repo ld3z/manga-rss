@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>The Spark in Your Eyes - Chapter 47</title>
+    <title>The Spark in Your Eyes - Chapter 49</title>
     <link>https://comick.app/comic/blinded-by-the-setting-sun</link>
-    <description>Chapter 47 of The Spark in Your Eyes is now available on ComicK!</description>
+    <description>Chapter 49 of The Spark in Your Eyes is now available on ComicK!</description>
+</item>
+<item>
+    <title>Designated Bully - Chapter 50</title>
+    <link>https://comick.app/comic/the-bully-in-charge</link>
+    <description>Chapter 50 of Designated Bully is now available on ComicK!</description>
 </item>
 <item>
     <title>Inspector Nishikida Likes The Thief - Chapter 5</title>
@@ -259,16 +264,6 @@
     <title>Irregulars - Chapter 10.1</title>
     <link>https://comick.app/comic/irregulars</link>
     <description>Chapter 10.1 of Irregulars is now available on ComicK!</description>
-</item>
-<item>
-    <title>This is the Law - Chapter 72</title>
-    <link>https://comick.app/comic/this-is-the-law</link>
-    <description>Chapter 72 of This is the Law is now available on ComicK!</description>
-</item>
-<item>
-    <title>Power!! - Chapter 30</title>
-    <link>https://comick.app/comic/power</link>
-    <description>Chapter 30 of Power!! is now available on ComicK!</description>
 </item>
 
 </channel>
