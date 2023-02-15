@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>TSUYOSHI - Chapter 22</title>
+    <link>https://comick.app/comic/tsuyoshi</link>
+    <description>Chapter 22 of TSUYOSHI is now available on ComicK!</description>
+</item>
+<item>
     <title>Repair Boy - Chapter 16</title>
     <link>https://comick.app/comic/repair-boy</link>
     <description>Chapter 16 of Repair Boy is now available on ComicK!</description>
@@ -284,11 +289,6 @@
     <title>Please Don't Eat Me! - Chapter 87</title>
     <link>https://comick.app/comic/please-don-t-eat-me</link>
     <description>Chapter 87 of Please Don't Eat Me! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Cave Boy Ryu - Chapter 4</title>
-    <link>https://comick.app/comic/genshi-shounen-ryuu</link>
-    <description>Chapter 4 of Cave Boy Ryu is now available on ComicK!</description>
 </item>
 
 </channel>
