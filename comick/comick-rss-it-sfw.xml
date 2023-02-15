@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Tomo-chan wa Onna no ko! - Chapter 163</title>
+    <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
+    <description>Chapter 163 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
+</item>
+<item>
     <title>Ichinose-ke no Taizai - Chapter 9</title>
     <link>https://comick.app/comic/ichinose-ke-no-taizai</link>
     <description>Chapter 9 of Ichinose-ke no Taizai is now available on ComicK!</description>
@@ -166,11 +171,6 @@
     <description>Chapter 14 of Hirayasumi is now available on ComicK!</description>
 </item>
 <item>
-    <title>Tomo-chan wa Onna no ko! - Chapter 151</title>
-    <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
-    <description>Chapter 151 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
-</item>
-<item>
     <title>Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! - Chapter 213</title>
     <link>https://comick.app/comic/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui</link>
     <description>Chapter 213 of Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! is now available on ComicK!</description>
@@ -214,31 +214,6 @@
     <title>Will You Marry Me Again If You Are Reborn? - Chapter 4</title>
     <link>https://comick.app/comic/umarekawatte-mo-mata-watashi-to-kekkon-shite-kuremasu-ka</link>
     <description>Chapter 4 of Will You Marry Me Again If You Are Reborn? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Solo Spell Caster - Chapter 1</title>
-    <link>https://comick.app/comic/solo-spell-caster</link>
-    <description>Chapter 1 of Solo Spell Caster is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bleach - Digital Colored Comics - Chapter 85</title>
-    <link>https://comick.app/comic/bleach-digital-colored-comics</link>
-    <description>Chapter 85 of Bleach - Digital Colored Comics is now available on ComicK!</description>
-</item>
-<item>
-    <title>How Many Light-Years to Babylon? - Chapter 15</title>
-    <link>https://comick.app/comic/how-many-light-years-to-babylon</link>
-    <description>Chapter 15 of How Many Light-Years to Babylon? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Touhou - Itadakimasu! (Doujinshi) - Chapter None</title>
-    <link>https://comick.app/comic/touhou-itadakimasu</link>
-    <description>Chapter None of Touhou - Itadakimasu! (Doujinshi) is now available on ComicK!</description>
-</item>
-<item>
-    <title>Akane-banashi - Chapter 10</title>
-    <link>https://comick.app/comic/akane-banashi</link>
-    <description>Chapter 10 of Akane-banashi is now available on ComicK!</description>
 </item>
 
 </channel>
