@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Baek XX - Chapter 10</title>
+    <link>https://comick.app/comic/baek-xx</link>
+    <description>Chapter 10 of Baek XX is now available on ComicK!</description>
+</item>
+<item>
     <title>Léviathan - Chapter 13</title>
     <link>https://comick.app/comic/leviathanfaUu</link>
     <description>Chapter 13 of Léviathan is now available on ComicK!</description>
@@ -269,11 +274,6 @@
     <title>Irregulars - Chapter 10.2</title>
     <link>https://comick.app/comic/irregulars</link>
     <description>Chapter 10.2 of Irregulars is now available on ComicK!</description>
-</item>
-<item>
-    <title>Long-Awaited Feelings - Chapter 27</title>
-    <link>https://comick.app/comic/long-awaited-feelings</link>
-    <description>Chapter 27 of Long-Awaited Feelings is now available on ComicK!</description>
 </item>
 
 </channel>
