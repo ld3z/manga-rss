@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Internet Explorer - Chapter 86</title>
+    <link>https://comick.app/comic/internet-explorer</link>
+    <description>Chapter 86 of Internet Explorer is now available on ComicK!</description>
+</item>
+<item>
     <title>Heroine wa Zetsubou shimashita. - Chapter 40</title>
     <link>https://comick.app/comic/heroine-wa-zetsubou-shimashita</link>
     <description>Chapter 40 of Heroine wa Zetsubou shimashita. is now available on ComicK!</description>
@@ -344,11 +349,6 @@
     <title>Jun de zenbu ushinau ts musume - Chapter 1</title>
     <link>https://comick.app/comic/shun-de-zenbu-ushinau-ts-musume</link>
     <description>Chapter 1 of Jun de zenbu ushinau ts musume is now available on ComicK!</description>
-</item>
-<item>
-    <title>2.5 Dimensional Seduction - Chapter 88</title>
-    <link>https://comick.app/comic/2-5-dimensional-seduction</link>
-    <description>Chapter 88 of 2.5 Dimensional Seduction is now available on ComicK!</description>
 </item>
 
 </channel>
