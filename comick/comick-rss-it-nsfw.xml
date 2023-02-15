@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Chainsaw Man - Chapter None</title>
+    <link>https://comick.app/comic/chainsaw-man</link>
+    <description>Chapter None of Chainsaw Man is now available on ComicK!</description>
+</item>
+<item>
     <title>Tomo-chan wa Onna no ko! - Chapter 163</title>
     <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
     <description>Chapter 163 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
@@ -219,11 +224,6 @@
     <title>Telework Yotabanashi - Chapter 11</title>
     <link>https://comick.app/comic/telework-yotabanashi</link>
     <description>Chapter 11 of Telework Yotabanashi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Please Put These On, Takamine-san - Chapter 13</title>
-    <link>https://comick.app/comic/please-put-these-on-takamine-san</link>
-    <description>Chapter 13 of Please Put These On, Takamine-san is now available on ComicK!</description>
 </item>
 
 </channel>
