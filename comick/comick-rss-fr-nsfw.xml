@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Tale of Samjang - Chapter 1</title>
+    <link>https://comick.app/comic/the-tale-of-samjang</link>
+    <description>Chapter 1 of The Tale of Samjang is now available on ComicK!</description>
+</item>
+<item>
     <title>Temptation of Shiro Gal and Kuro Gal - Chapter 17</title>
     <link>https://comick.app/comic/shiro-gyaru-to-kuro-gyaru</link>
     <description>Chapter 17 of Temptation of Shiro Gal and Kuro Gal is now available on ComicK!</description>
@@ -204,21 +209,6 @@
     <title>Shota Oni - Chapter 34</title>
     <link>https://comick.app/comic/shota-oni-kh9pz6i2</link>
     <description>Chapter 34 of Shota Oni is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dragon Ball Side Stories - Chapter 1</title>
-    <link>https://comick.app/comic/dragon-ball-side-stories</link>
-    <description>Chapter 1 of Dragon Ball Side Stories is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Death Flags Show No Sign of Ending - Chapter 8</title>
-    <link>https://comick.app/comic/my-death-flags-show-no-sign-of-ending</link>
-    <description>Chapter 8 of My Death Flags Show No Sign of Ending is now available on ComicK!</description>
-</item>
-<item>
-    <title>Super Vegeta Den - Chapter 1</title>
-    <link>https://comick.app/comic/super-vegeta-den</link>
-    <description>Chapter 1 of Super Vegeta Den is now available on ComicK!</description>
 </item>
 
 </channel>
