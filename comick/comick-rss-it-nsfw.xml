@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Himekishi ga Classmate! - Chapter 46</title>
+    <link>https://comick.app/comic/himekishi-ga-classmate</link>
+    <description>Chapter 46 of Himekishi ga Classmate! is now available on ComicK!</description>
+</item>
+<item>
     <title>Her Tale of Shim Chong - Chapter 4</title>
     <link>https://comick.app/comic/her-shim-cheong</link>
     <description>Chapter 4 of Her Tale of Shim Chong is now available on ComicK!</description>
@@ -229,11 +234,6 @@
     <title>NieR: Automata: YoRHa Shinjuwan Kouka Sakusen Kiroku - Chapter 9</title>
     <link>https://comick.app/comic/nier-automata-yo-r-ha-shinjuwan-kouka-sakusen-kiroku</link>
     <description>Chapter 9 of NieR: Automata: YoRHa Shinjuwan Kouka Sakusen Kiroku is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dai Tokyo Oniyome-den - Chapter 21</title>
-    <link>https://comick.app/comic/dai-tokyo-oniyome-den</link>
-    <description>Chapter 21 of Dai Tokyo Oniyome-den is now available on ComicK!</description>
 </item>
 
 </channel>
