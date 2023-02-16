@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Flower of Worship - Chapter 6</title>
+    <link>https://comick.app/comic/flower-of-worship</link>
+    <description>Chapter 6 of Flower of Worship is now available on ComicK!</description>
+</item>
+<item>
     <title>JoJo's Bizarre Adventure Part 9 - The JOJOLands - Chapter 1</title>
     <link>https://comick.app/comic/jo-jo-s-bizarre-adventure-part-9-the-jo-jo-lands</link>
     <description>Chapter 1 of JoJo's Bizarre Adventure Part 9 - The JOJOLands is now available on ComicK!</description>
@@ -324,11 +329,6 @@
     <title>Archmage Who Transcends by Returning - Chapter 38</title>
     <link>https://comick.app/comic/archmage-who-transcends-by-returning</link>
     <description>Chapter 38 of Archmage Who Transcends by Returning is now available on ComicK!</description>
-</item>
-<item>
-    <title>Standard of Reincarnation - Chapter 47</title>
-    <link>https://comick.app/comic/standard-of-reincarnation</link>
-    <description>Chapter 47 of Standard of Reincarnation is now available on ComicK!</description>
 </item>
 
 </channel>
