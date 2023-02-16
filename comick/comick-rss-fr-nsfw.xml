@@ -6,14 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Pink Lady - Chapter 16</title>
-    <link>https://comick.app/comic/pink-lady</link>
-    <description>Chapter 16 of Pink Lady is now available on ComicK!</description>
-</item>
-<item>
     <title>JoJo's Bizarre Adventure Part 9 - The JOJOLands - Chapter 1</title>
     <link>https://comick.app/comic/jo-jo-s-bizarre-adventure-part-9-the-jo-jo-lands</link>
     <description>Chapter 1 of JoJo's Bizarre Adventure Part 9 - The JOJOLands is now available on ComicK!</description>
+</item>
+<item>
+    <title>Pink Lady - Chapter 16</title>
+    <link>https://comick.app/comic/pink-lady</link>
+    <description>Chapter 16 of Pink Lady is now available on ComicK!</description>
 </item>
 <item>
     <title>Cheerful Amnesia - Chapter 28</title>
