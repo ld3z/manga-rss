@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Little Friend - Chapter 1</title>
+    <link>https://comick.app/comic/little-friend</link>
+    <description>Chapter 1 of Little Friend is now available on ComicK!</description>
+</item>
+<item>
+    <title>Dungeon Meshi - Chapter 91</title>
+    <link>https://comick.app/comic/dungeon-meshi</link>
+    <description>Chapter 91 of Dungeon Meshi is now available on ComicK!</description>
+</item>
+<item>
     <title>Level 1 Player - Chapter 47</title>
     <link>https://comick.app/comic/level-1-player</link>
     <description>Chapter 47 of Level 1 Player is now available on ComicK!</description>
@@ -379,16 +389,6 @@
     <title>Orange Chocolate - Chapter 42.1</title>
     <link>https://comick.app/comic/orange-chocolate</link>
     <description>Chapter 42.1 of Orange Chocolate is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hataraku Maou-sama! - Chapter 109</title>
-    <link>https://comick.app/comic/hataraku-maou-sama</link>
-    <description>Chapter 109 of Hataraku Maou-sama! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Act Like You Love Me! - Chapter 92</title>
-    <link>https://comick.app/comic/my-butler-not-lover</link>
-    <description>Chapter 92 of Act Like You Love Me! is now available on ComicK!</description>
 </item>
 
 </channel>
