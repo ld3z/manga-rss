@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ura Baito: Toubou Kinshi - Chapter 17</title>
+    <link>https://comick.app/comic/ura-baito-toubou-kinshi</link>
+    <description>Chapter 17 of Ura Baito: Toubou Kinshi is now available on ComicK!</description>
+</item>
+<item>
     <title>Little Friend - Chapter 1</title>
     <link>https://comick.app/comic/little-friend</link>
     <description>Chapter 1 of Little Friend is now available on ComicK!</description>
@@ -301,9 +306,9 @@
     <description>Chapter 72 of Sacrificed is now available on ComicK!</description>
 </item>
 <item>
-    <title>Jun de zenbu ushinau ts musume - Chapter 3</title>
+    <title>Jun de zenbu ushinau ts-ko - Chapter 3</title>
     <link>https://comick.app/comic/shun-de-zenbu-ushinau-ts-musume</link>
-    <description>Chapter 3 of Jun de zenbu ushinau ts musume is now available on ComicK!</description>
+    <description>Chapter 3 of Jun de zenbu ushinau ts-ko is now available on ComicK!</description>
 </item>
 <item>
     <title>Yankee JK KuzuHana-chan - Chapter 141</title>
@@ -384,11 +389,6 @@
     <title>Hataraku Maou-sama! - Chapter 109</title>
     <link>https://comick.app/comic/hataraku-maou-sama</link>
     <description>Chapter 109 of Hataraku Maou-sama! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Act Like You Love Me! - Chapter 92</title>
-    <link>https://comick.app/comic/my-butler-not-lover</link>
-    <description>Chapter 92 of Act Like You Love Me! is now available on ComicK!</description>
 </item>
 
 </channel>
