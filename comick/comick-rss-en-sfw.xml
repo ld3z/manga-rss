@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>JoJo's Bizarre Adventure Part 9 - The JOJOLands - Chapter 1</title>
+    <link>https://comick.app/comic/jo-jo-s-bizarre-adventure-part-9-the-jo-jo-lands</link>
+    <description>Chapter 1 of JoJo's Bizarre Adventure Part 9 - The JOJOLands is now available on ComicK!</description>
+</item>
+<item>
+    <title>Sono Bisque Doll wa Koi wo Suru - Chapter 88</title>
+    <link>https://comick.app/comic/sono-bisque-doll-wa-koi-wo-suru</link>
+    <description>Chapter 88 of Sono Bisque Doll wa Koi wo Suru is now available on ComicK!</description>
+</item>
+<item>
     <title>Ottoman - Chapter 29</title>
     <link>https://comick.app/comic/ottoman</link>
     <description>Chapter 29 of Ottoman is now available on ComicK!</description>
@@ -319,11 +329,6 @@
     <title>Standard of Reincarnation - Chapter 47</title>
     <link>https://comick.app/comic/standard-of-reincarnation</link>
     <description>Chapter 47 of Standard of Reincarnation is now available on ComicK!</description>
-</item>
-<item>
-    <title>Murim Login - Chapter 143</title>
-    <link>https://comick.app/comic/murim-login</link>
-    <description>Chapter 143 of Murim Login is now available on ComicK!</description>
 </item>
 
 </channel>

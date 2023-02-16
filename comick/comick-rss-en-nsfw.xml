@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>JoJo's Bizarre Adventure Part 9 - The JOJOLands - Chapter 1</title>
+    <link>https://comick.app/comic/jo-jo-s-bizarre-adventure-part-9-the-jo-jo-lands</link>
+    <description>Chapter 1 of JoJo's Bizarre Adventure Part 9 - The JOJOLands is now available on ComicK!</description>
+</item>
+<item>
+    <title>Sono Bisque Doll wa Koi wo Suru - Chapter 88</title>
+    <link>https://comick.app/comic/sono-bisque-doll-wa-koi-wo-suru</link>
+    <description>Chapter 88 of Sono Bisque Doll wa Koi wo Suru is now available on ComicK!</description>
+</item>
+<item>
     <title>Ottoman - Chapter 29</title>
     <link>https://comick.app/comic/ottoman</link>
     <description>Chapter 29 of Ottoman is now available on ComicK!</description>
@@ -314,11 +324,6 @@
     <title>Lookism - Chapter 436</title>
     <link>https://comick.app/comic/lookism</link>
     <description>Chapter 436 of Lookism is now available on ComicK!</description>
-</item>
-<item>
-    <title>Jitsu wa Ore, Saikyou Deshita? - Chapter 54</title>
-    <link>https://comick.app/comic/jitsu-wa-ore-saikyou-deshita</link>
-    <description>Chapter 54 of Jitsu wa Ore, Saikyou Deshita? is now available on ComicK!</description>
 </item>
 
 </channel>
