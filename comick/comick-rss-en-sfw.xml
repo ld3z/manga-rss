@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>LBX Girls - Chapter 3</title>
+    <link>https://comick.app/comic/lbx-girls</link>
+    <description>Chapter 3 of LBX Girls is now available on ComicK!</description>
+</item>
+<item>
     <title>Modern Konosuba (Doujinshi) - Chapter 5</title>
     <link>https://comick.app/comic/modern-konosuba</link>
     <description>Chapter 5 of Modern Konosuba (Doujinshi) is now available on ComicK!</description>
@@ -379,11 +384,6 @@
     <title>Leveling Up My Husband to the Max - Chapter 73</title>
     <link>https://comick.app/comic/leveling-up-my-husband-to-the-max</link>
     <description>Chapter 73 of Leveling Up My Husband to the Max is now available on ComicK!</description>
-</item>
-<item>
-    <title>So You're Raising a Warrior - Chapter 74</title>
-    <link>https://comick.app/comic/there-was-a-hero</link>
-    <description>Chapter 74 of So You're Raising a Warrior is now available on ComicK!</description>
 </item>
 
 </channel>
