@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Official "Test" Manga - Chapter 1</title>
+    <link>https://comick.app/comic/official-test-manga</link>
+    <description>Chapter 1 of Official "Test" Manga is now available on ComicK!</description>
+</item>
+<item>
     <title>Mines and Monster Girls - Chapter 1</title>
     <link>https://comick.app/comic/mines-and-monster-girls</link>
     <description>Chapter 1 of Mines and Monster Girls is now available on ComicK!</description>
