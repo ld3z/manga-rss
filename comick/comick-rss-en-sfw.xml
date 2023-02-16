@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ottoman - Chapter 29</title>
+    <link>https://comick.app/comic/ottoman</link>
+    <description>Chapter 29 of Ottoman is now available on ComicK!</description>
+</item>
+<item>
     <title>The king Is Back - Chapter 22</title>
     <link>https://comick.app/comic/the-king-is-back</link>
     <description>Chapter 22 of The king Is Back is now available on ComicK!</description>
@@ -319,11 +324,6 @@
     <title>Murim Login - Chapter 143</title>
     <link>https://comick.app/comic/murim-login</link>
     <description>Chapter 143 of Murim Login is now available on ComicK!</description>
-</item>
-<item>
-    <title>BJ Archmage - Chapter 54</title>
-    <link>https://comick.app/comic/bj-archmage</link>
-    <description>Chapter 54 of BJ Archmage is now available on ComicK!</description>
 </item>
 
 </channel>
