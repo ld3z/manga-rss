@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>PPPPPP - Chapter 59</title>
+    <title>PPPPPP - Chapter 62</title>
     <link>https://comick.app/comic/pppppp</link>
-    <description>Chapter 59 of PPPPPP is now available on ComicK!</description>
+    <description>Chapter 62 of PPPPPP is now available on ComicK!</description>
+</item>
+<item>
+    <title>Minority - Chapter 6</title>
+    <link>https://comick.app/comic/minority-2</link>
+    <description>Chapter 6 of Minority is now available on ComicK!</description>
 </item>
 <item>
     <title>Isekai Kenkokuki - Chapter 34.1</title>
@@ -174,16 +179,6 @@
     <title>I Upgrade by Rewarding Apprentices - Chapter 1</title>
     <link>https://comick.app/comic/i-upgrade-by-rewarding-apprentices</link>
     <description>Chapter 1 of I Upgrade by Rewarding Apprentices is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Tale of Samjang - Chapter 1</title>
-    <link>https://comick.app/comic/the-tale-of-samjang</link>
-    <description>Chapter 1 of The Tale of Samjang is now available on ComicK!</description>
-</item>
-<item>
-    <title>Temptation of Shiro Gal and Kuro Gal - Chapter 17</title>
-    <link>https://comick.app/comic/shiro-gyaru-to-kuro-gyaru</link>
-    <description>Chapter 17 of Temptation of Shiro Gal and Kuro Gal is now available on ComicK!</description>
 </item>
 
 </channel>
