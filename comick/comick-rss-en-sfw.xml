@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Police Returner's Reset Life - Chapter 3</title>
+    <title>My Hero Academia - Chapter 380</title>
+    <link>https://comick.app/comic/boku-no-hero-academia</link>
+    <description>Chapter 380 of My Hero Academia is now available on ComicK!</description>
+</item>
+<item>
+    <title>Jibaku Shounen Hanako-kun - Chapter 99</title>
+    <link>https://comick.app/comic/jibaku-shounen-hanako-kun</link>
+    <description>Chapter 99 of Jibaku Shounen Hanako-kun is now available on ComicK!</description>
+</item>
+<item>
+    <title>Occhoko Doji Onee-san - Chapter 6</title>
+    <link>https://comick.app/comic/occhoko-doji-onee-san</link>
+    <description>Chapter 6 of Occhoko Doji Onee-san is now available on ComicK!</description>
+</item>
+<item>
+    <title>Police Returner's Reset Life - Chapter 4</title>
     <link>https://comick.app/comic/reset-life-of-regression-police</link>
-    <description>Chapter 3 of Police Returner's Reset Life is now available on ComicK!</description>
+    <description>Chapter 4 of Police Returner's Reset Life is now available on ComicK!</description>
 </item>
 <item>
     <title>It All Starts with Playing Game Seriously - Chapter 52</title>
@@ -304,26 +319,6 @@
     <title>Bitten Contract - Chapter 64</title>
     <link>https://comick.app/comic/bitten-contract</link>
     <description>Chapter 64 of Bitten Contract is now available on ComicK!</description>
-</item>
-<item>
-    <title>Chasing Tails - Chapter 73</title>
-    <link>https://comick.app/comic/chasing-tails</link>
-    <description>Chapter 73 of Chasing Tails is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hwarang: Flower Knights of the Underworld - Chapter 56</title>
-    <link>https://comick.app/comic/hwarang-flower-knights-of-the-underworld</link>
-    <description>Chapter 56 of Hwarang: Flower Knights of the Underworld is now available on ComicK!</description>
-</item>
-<item>
-    <title>Lullaby - Chapter 44</title>
-    <link>https://comick.app/comic/lullaby</link>
-    <description>Chapter 44 of Lullaby is now available on ComicK!</description>
-</item>
-<item>
-    <title>No scope - Chapter 199</title>
-    <link>https://comick.app/comic/no-scope</link>
-    <description>Chapter 199 of No scope is now available on ComicK!</description>
 </item>
 
 </channel>
