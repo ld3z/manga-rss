@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>PPPPPP - Chapter 41</title>
+    <title>PPPPPP - Chapter 47</title>
     <link>https://comick.app/comic/pppppp</link>
-    <description>Chapter 41 of PPPPPP is now available on ComicK!</description>
+    <description>Chapter 47 of PPPPPP is now available on ComicK!</description>
+</item>
+<item>
+    <title>Isekai Kenkokuki - Chapter 34.1</title>
+    <link>https://comick.app/comic/isekai-kenkokuki</link>
+    <description>Chapter 34.1 of Isekai Kenkokuki is now available on ComicK!</description>
 </item>
 <item>
     <title>Nega-kun and Posi-chan - Chapter 13</title>
@@ -209,16 +214,6 @@
     <title>Sentai Daishikkaku - Chapter 83</title>
     <link>https://comick.app/comic/ranger-reject</link>
     <description>Chapter 83 of Sentai Daishikkaku is now available on ComicK!</description>
-</item>
-<item>
-    <title>[Oshi no Ko] - Chapter 100.5</title>
-    <link>https://comick.app/comic/oshi-no-ko</link>
-    <description>Chapter 100.5 of [Oshi no Ko] is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Tried Asking a Hot-Tempered Gal Out on a Date - Chapter 7</title>
-    <link>https://comick.app/comic/i-tried-asking-a-hot-tempered-gal-out-on-a-date</link>
-    <description>Chapter 7 of I Tried Asking a Hot-Tempered Gal Out on a Date is now available on ComicK!</description>
 </item>
 
 </channel>
