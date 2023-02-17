@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Karakai Jouzu no Takagi-san - Chapter 169</title>
+    <link>https://comick.app/comic/karakai-jouzu-no-takagi-san</link>
+    <description>Chapter 169 of Karakai Jouzu no Takagi-san is now available on ComicK!</description>
+</item>
+<item>
     <title>Osananajimi to Sefure Keiyaku - Chapter 24</title>
     <link>https://comick.app/comic/osananajimi-to-sefure-keiyaku</link>
     <description>Chapter 24 of Osananajimi to Sefure Keiyaku is now available on ComicK!</description>
@@ -334,11 +339,6 @@
     <title>It's My Baby! - Chapter 45</title>
     <link>https://comick.app/comic/it-s-my-baby</link>
     <description>Chapter 45 of It's My Baby! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Papa Told Me - Chapter 83.1</title>
-    <link>https://comick.app/comic/papa-told-me</link>
-    <description>Chapter 83.1 of Papa Told Me is now available on ComicK!</description>
 </item>
 
 </channel>
