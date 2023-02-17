@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Slam Dunk! - Chapter 24</title>
+    <link>https://comick.app/comic/slam-dunk</link>
+    <description>Chapter 24 of Slam Dunk! is now available on ComicK!</description>
+</item>
+<item>
     <title>Peach and Musk - Chapter 4</title>
     <link>https://comick.app/comic/peach-and-musk</link>
     <description>Chapter 4 of Peach and Musk is now available on ComicK!</description>
@@ -14,11 +19,6 @@
     <title>Kekkaishi - Chapter 204</title>
     <link>https://comick.app/comic/kekkaishi</link>
     <description>Chapter 204 of Kekkaishi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Slam Dunk! - Chapter 23</title>
-    <link>https://comick.app/comic/slam-dunk</link>
-    <description>Chapter 23 of Slam Dunk! is now available on ComicK!</description>
 </item>
 <item>
     <title>Wicked Young Master's Forceful Love: Training the Runaway Wife - Chapter 1</title>
@@ -59,11 +59,6 @@
     <title>Double 11 Cats Raising - Chapter 1</title>
     <link>https://comick.app/comic/double-11-cats-raising</link>
     <description>Chapter 1 of Double 11 Cats Raising is now available on ComicK!</description>
-</item>
-<item>
-    <title>Myungwol Bathhouse - Chapter 5</title>
-    <link>https://comick.app/comic/myungwol-bathhouse</link>
-    <description>Chapter 5 of Myungwol Bathhouse is now available on ComicK!</description>
 </item>
 
 </channel>
