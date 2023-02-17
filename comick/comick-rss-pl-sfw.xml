@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>K-ON! High School - Chapter 8</title>
+    <link>https://comick.app/comic/k-on-high-school</link>
+    <description>Chapter 8 of K-ON! High School is now available on ComicK!</description>
+</item>
+<item>
     <title>Vagabond - Chapter 120</title>
     <link>https://comick.app/comic/vagabond</link>
     <description>Chapter 120 of Vagabond is now available on ComicK!</description>
@@ -109,16 +114,6 @@
     <title>Ichinose-ke no Taizai - Chapter 12</title>
     <link>https://comick.app/comic/ichinose-ke-no-taizai</link>
     <description>Chapter 12 of Ichinose-ke no Taizai is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Youngest Daughter of the Villainous Duke - Chapter 2</title>
-    <link>https://comick.app/comic/the-youngest-daughter-of-the-villainous-duke</link>
-    <description>Chapter 2 of The Youngest Daughter of the Villainous Duke is now available on ComicK!</description>
-</item>
-<item>
-    <title>10 Years That I Loved You the Most - Chapter 2</title>
-    <link>https://comick.app/comic/10-years-that-i-loved-you-the-most-2</link>
-    <description>Chapter 2 of 10 Years That I Loved You the Most is now available on ComicK!</description>
 </item>
 
 </channel>
