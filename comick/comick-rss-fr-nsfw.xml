@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Tokimori-san ga Muboubi desu!! - Chapter 2</title>
+    <title>Genjitsu no Yohane: Unpolarized Reflexion - Chapter 11</title>
+    <link>https://comick.app/comic/parhelion-of-yohane-unpolarized-reflexion</link>
+    <description>Chapter 11 of Genjitsu no Yohane: Unpolarized Reflexion is now available on ComicK!</description>
+</item>
+<item>
+    <title>Tokimori-san ga Muboubi desu!! - Chapter 3</title>
     <link>https://comick.app/comic/tokimori-san-ga-muboubi-desu</link>
-    <description>Chapter 2 of Tokimori-san ga Muboubi desu!! is now available on ComicK!</description>
+    <description>Chapter 3 of Tokimori-san ga Muboubi desu!! is now available on ComicK!</description>
 </item>
 <item>
     <title>Occhoko Doji Onee-san - Chapter 5</title>
@@ -279,11 +284,6 @@
     <title>Suki na Ko ga Megane wo Wasureta - Chapter 35</title>
     <link>https://comick.app/comic/suki-na-ko-ga-megane-wo-wasureta</link>
     <description>Chapter 35 of Suki na Ko ga Megane wo Wasureta is now available on ComicK!</description>
-</item>
-<item>
-    <title>A Trip to a Different World on a Rainy Day - Chapter 1</title>
-    <link>https://comick.app/comic/a-trip-to-a-different-world-on-a-rainy-day</link>
-    <description>Chapter 1 of A Trip to a Different World on a Rainy Day is now available on ComicK!</description>
 </item>
 
 </channel>

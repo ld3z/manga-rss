@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Tokimori-san ga Muboubi desu!! - Chapter 2</title>
+    <title>Genjitsu no Yohane: Unpolarized Reflexion - Chapter 11</title>
+    <link>https://comick.app/comic/parhelion-of-yohane-unpolarized-reflexion</link>
+    <description>Chapter 11 of Genjitsu no Yohane: Unpolarized Reflexion is now available on ComicK!</description>
+</item>
+<item>
+    <title>Tokimori-san ga Muboubi desu!! - Chapter 3</title>
     <link>https://comick.app/comic/tokimori-san-ga-muboubi-desu</link>
-    <description>Chapter 2 of Tokimori-san ga Muboubi desu!! is now available on ComicK!</description>
+    <description>Chapter 3 of Tokimori-san ga Muboubi desu!! is now available on ComicK!</description>
 </item>
 <item>
     <title>Occhoko Doji Onee-san - Chapter 5</title>
@@ -269,16 +274,6 @@
     <title>A Trip to a Different World on a Rainy Day - Chapter 1</title>
     <link>https://comick.app/comic/a-trip-to-a-different-world-on-a-rainy-day</link>
     <description>Chapter 1 of A Trip to a Different World on a Rainy Day is now available on ComicK!</description>
-</item>
-<item>
-    <title>With All Kins, Have No Pity - Chapter 54</title>
-    <link>https://comick.app/comic/with-all-kins-have-no-pity</link>
-    <description>Chapter 54 of With All Kins, Have No Pity is now available on ComicK!</description>
-</item>
-<item>
-    <title>Guide For A Princess-To-Be - Chapter 73</title>
-    <link>https://comick.app/comic/guide-for-a-princess-to-be-2</link>
-    <description>Chapter 73 of Guide For A Princess-To-Be is now available on ComicK!</description>
 </item>
 
 </channel>
