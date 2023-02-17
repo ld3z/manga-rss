@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Welcome Back, Alice - Chapter 34</title>
+    <link>https://comick.app/comic/welcome-back-alice</link>
+    <description>Chapter 34 of Welcome Back, Alice is now available on ComicK!</description>
+</item>
+<item>
     <title>Bocchi the Rock! - Chapter 49.1</title>
     <link>https://comick.app/comic/bocchi-the-rock</link>
     <description>Chapter 49.1 of Bocchi the Rock! is now available on ComicK!</description>
@@ -234,11 +239,6 @@
     <title>Lycoris Recoil - Chapter 3</title>
     <link>https://comick.app/comic/lycoris-recoil</link>
     <description>Chapter 3 of Lycoris Recoil is now available on ComicK!</description>
-</item>
-<item>
-    <title>NieR: Automata: YoRHa Shinjuwan Kouka Sakusen Kiroku - Chapter 9</title>
-    <link>https://comick.app/comic/nier-automata-yo-r-ha-shinjuwan-kouka-sakusen-kiroku</link>
-    <description>Chapter 9 of NieR: Automata: YoRHa Shinjuwan Kouka Sakusen Kiroku is now available on ComicK!</description>
 </item>
 
 </channel>
