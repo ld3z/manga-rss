@@ -6,9 +6,9 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Bocchi the Rock! - Chapter 49</title>
+    <title>Bocchi the Rock! - Chapter 49.1</title>
     <link>https://comick.app/comic/bocchi-the-rock</link>
-    <description>Chapter 49 of Bocchi the Rock! is now available on ComicK!</description>
+    <description>Chapter 49.1 of Bocchi the Rock! is now available on ComicK!</description>
 </item>
 <item>
     <title>Dai Tokyo Oniyome-den - Chapter 22</title>
@@ -244,11 +244,6 @@
     <title>Hirayasumi - Chapter 14</title>
     <link>https://comick.app/comic/hirayasumi</link>
     <description>Chapter 14 of Hirayasumi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! - Chapter 213</title>
-    <link>https://comick.app/comic/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui</link>
-    <description>Chapter 213 of Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! is now available on ComicK!</description>
 </item>
 
 </channel>
