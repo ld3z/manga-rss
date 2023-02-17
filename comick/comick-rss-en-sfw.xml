@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Limitless - Chapter 4</title>
+    <title>Lookism - Chapter 436</title>
+    <link>https://comick.app/comic/lookism</link>
+    <description>Chapter 436 of Lookism is now available on ComicK!</description>
+</item>
+<item>
+    <title>I, The Invincible Villain Master With My Apprentices - Chapter 51</title>
+    <link>https://comick.app/comic/i-the-invincible-villain-master-with-my-apprentices</link>
+    <description>Chapter 51 of I, The Invincible Villain Master With My Apprentices is now available on ComicK!</description>
+</item>
+<item>
+    <title>Limitless - Chapter 6</title>
     <link>https://comick.app/comic/limitless</link>
-    <description>Chapter 4 of Limitless is now available on ComicK!</description>
+    <description>Chapter 6 of Limitless is now available on ComicK!</description>
 </item>
 <item>
     <title>Villain - Chapter 1</title>
@@ -319,11 +329,6 @@
     <title>Warrior Executioner - Chapter 44</title>
     <link>https://comick.app/comic/warrior-executioner</link>
     <description>Chapter 44 of Warrior Executioner is now available on ComicK!</description>
-</item>
-<item>
-    <title>Apex Future Martial Arts - Chapter 7</title>
-    <link>https://comick.app/comic/apex-future-martial-arts</link>
-    <description>Chapter 7 of Apex Future Martial Arts is now available on ComicK!</description>
 </item>
 
 </channel>
