@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Ningen Deshita - Chapter 3</title>
+    <title>Bokkonrinri - Chapter 5</title>
+    <link>https://comick.app/comic/bokkonrinri</link>
+    <description>Chapter 5 of Bokkonrinri is now available on ComicK!</description>
+</item>
+<item>
+    <title>Love Zipper - Chapter 4</title>
+    <link>https://comick.app/comic/love-zipper</link>
+    <description>Chapter 4 of Love Zipper is now available on ComicK!</description>
+</item>
+<item>
+    <title>Ningen Deshita - Chapter 5</title>
     <link>https://comick.app/comic/ningen-deshita</link>
-    <description>Chapter 3 of Ningen Deshita is now available on ComicK!</description>
+    <description>Chapter 5 of Ningen Deshita is now available on ComicK!</description>
 </item>
 <item>
     <title>Rebirth of the Urban Immortal Cultivator - Chapter 19</title>
@@ -174,26 +184,6 @@
     <title>Kekkaishi - Chapter 204</title>
     <link>https://comick.app/comic/kekkaishi</link>
     <description>Chapter 204 of Kekkaishi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mines and Monster Girls - Chapter 2</title>
-    <link>https://comick.app/comic/mines-and-monster-girls</link>
-    <description>Chapter 2 of Mines and Monster Girls is now available on ComicK!</description>
-</item>
-<item>
-    <title>For My Derelict Beloved - Chapter 44</title>
-    <link>https://comick.app/comic/for-my-derelict-favorite-2</link>
-    <description>Chapter 44 of For My Derelict Beloved is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hoarding in Hell - Chapter 7</title>
-    <link>https://comick.app/comic/hoarding-in-hell</link>
-    <description>Chapter 7 of Hoarding in Hell is now available on ComicK!</description>
-</item>
-<item>
-    <title>Double 11 Cats Raising - Chapter 1</title>
-    <link>https://comick.app/comic/double-11-cats-raising</link>
-    <description>Chapter 1 of Double 11 Cats Raising is now available on ComicK!</description>
 </item>
 
 </channel>

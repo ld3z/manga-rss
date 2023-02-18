@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Ningen Deshita - Chapter 3</title>
+    <title>Bokkonrinri - Chapter 5</title>
+    <link>https://comick.app/comic/bokkonrinri</link>
+    <description>Chapter 5 of Bokkonrinri is now available on ComicK!</description>
+</item>
+<item>
+    <title>Love Zipper - Chapter 4</title>
+    <link>https://comick.app/comic/love-zipper</link>
+    <description>Chapter 4 of Love Zipper is now available on ComicK!</description>
+</item>
+<item>
+    <title>Ningen Deshita - Chapter 5</title>
     <link>https://comick.app/comic/ningen-deshita</link>
-    <description>Chapter 3 of Ningen Deshita is now available on ComicK!</description>
+    <description>Chapter 5 of Ningen Deshita is now available on ComicK!</description>
 </item>
 <item>
     <title>Rebirth of the Urban Immortal Cultivator - Chapter 19</title>
@@ -139,11 +149,6 @@
     <title>Wicked Young Master's Forceful Love: Training the Runaway Wife - Chapter 259</title>
     <link>https://comick.app/comic/wicked-young-master-s-forceful-love-training-the-runaway-wife-2</link>
     <description>Chapter 259 of Wicked Young Master's Forceful Love: Training the Runaway Wife is now available on ComicK!</description>
-</item>
-<item>
-    <title>Vagabond - Chapter 120</title>
-    <link>https://comick.app/comic/vagabond</link>
-    <description>Chapter 120 of Vagabond is now available on ComicK!</description>
 </item>
 
 </channel>
