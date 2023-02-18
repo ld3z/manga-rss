@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Graineliers - Chapter 9.5</title>
+    <title>Inochi Mijikashi, Koi seyo Furyou Shounen! - Chapter 4</title>
+    <link>https://comick.app/comic/inochi-mijikashi-koi-seyo-furyou-shounen</link>
+    <description>Chapter 4 of Inochi Mijikashi, Koi seyo Furyou Shounen! is now available on ComicK!</description>
+</item>
+<item>
+    <title>Graineliers - Chapter 17</title>
     <link>https://comick.app/comic/graineliers</link>
-    <description>Chapter 9.5 of Graineliers is now available on ComicK!</description>
+    <description>Chapter 17 of Graineliers is now available on ComicK!</description>
 </item>
 <item>
     <title>Boku to Senpai no Tekken Kousai - Chapter 16</title>
@@ -139,16 +144,6 @@
     <title>Resetting Lady - Chapter 19</title>
     <link>https://comick.app/comic/resetting-lady</link>
     <description>Chapter 19 of Resetting Lady is now available on ComicK!</description>
-</item>
-<item>
-    <title>JoJo's Bizarre Adventure Part 9 - The JOJOLands - Chapter 1</title>
-    <link>https://comick.app/comic/jo-jo-s-bizarre-adventure-part-9-the-jo-jo-lands</link>
-    <description>Chapter 1 of JoJo's Bizarre Adventure Part 9 - The JOJOLands is now available on ComicK!</description>
-</item>
-<item>
-    <title>K-ON! High School - Chapter 10</title>
-    <link>https://comick.app/comic/k-on-high-school</link>
-    <description>Chapter 10 of K-ON! High School is now available on ComicK!</description>
 </item>
 
 </channel>
