@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Boku to Senpai no Tekken Kousai - Chapter 15</title>
+    <title>Graineliers - Chapter 9.5</title>
+    <link>https://comick.app/comic/graineliers</link>
+    <description>Chapter 9.5 of Graineliers is now available on ComicK!</description>
+</item>
+<item>
+    <title>Boku to Senpai no Tekken Kousai - Chapter 16</title>
     <link>https://comick.app/comic/boku-to-senpai-no-tekken-kousai</link>
-    <description>Chapter 15 of Boku to Senpai no Tekken Kousai is now available on ComicK!</description>
+    <description>Chapter 16 of Boku to Senpai no Tekken Kousai is now available on ComicK!</description>
 </item>
 <item>
     <title>Bokkonrinri - Chapter 5</title>
@@ -144,51 +149,6 @@
     <title>K-ON! High School - Chapter 10</title>
     <link>https://comick.app/comic/k-on-high-school</link>
     <description>Chapter 10 of K-ON! High School is now available on ComicK!</description>
-</item>
-<item>
-    <title>Vagabond - Chapter 120</title>
-    <link>https://comick.app/comic/vagabond</link>
-    <description>Chapter 120 of Vagabond is now available on ComicK!</description>
-</item>
-<item>
-    <title>TenPuru -No One Can Live on Loneliness- - Chapter 61</title>
-    <link>https://comick.app/comic/temple</link>
-    <description>Chapter 61 of TenPuru -No One Can Live on Loneliness- is now available on ComicK!</description>
-</item>
-<item>
-    <title>Boku no Kokoro no Yabai Yatsu - Chapter 34</title>
-    <link>https://comick.app/comic/boku-no-kokoro-no-yabai-yatsu</link>
-    <description>Chapter 34 of Boku no Kokoro no Yabai Yatsu is now available on ComicK!</description>
-</item>
-<item>
-    <title>Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! - Chapter 185</title>
-    <link>https://comick.app/comic/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui</link>
-    <description>Chapter 185 of Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Pharaoh's Concubine - Chapter 44</title>
-    <link>https://comick.app/comic/pharaoh-s-concubine</link>
-    <description>Chapter 44 of Pharaoh's Concubine is now available on ComicK!</description>
-</item>
-<item>
-    <title>Wonder Cat Kyuu-chan - Chapter 207</title>
-    <link>https://comick.app/comic/wonder-cat-kyuu-chan</link>
-    <description>Chapter 207 of Wonder Cat Kyuu-chan is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Am a Hero - Chapter 104</title>
-    <link>https://comick.app/comic/i-am-a-hero</link>
-    <description>Chapter 104 of I Am a Hero is now available on ComicK!</description>
-</item>
-<item>
-    <title>Slam Dunk! - Chapter 24</title>
-    <link>https://comick.app/comic/slam-dunk</link>
-    <description>Chapter 24 of Slam Dunk! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kekkaishi - Chapter 204</title>
-    <link>https://comick.app/comic/kekkaishi</link>
-    <description>Chapter 204 of Kekkaishi is now available on ComicK!</description>
 </item>
 
 </channel>
