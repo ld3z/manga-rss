@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Love So Life - Chapter 79</title>
+    <link>https://comick.app/comic/love-so-life</link>
+    <description>Chapter 79 of Love So Life is now available on ComicK!</description>
+</item>
+<item>
     <title>Bronze Angel - Chapter 2</title>
     <link>https://comick.app/comic/bronze-no-tenshi</link>
     <description>Chapter 2 of Bronze Angel is now available on ComicK!</description>
@@ -114,11 +119,6 @@
     <title>Hinamatsuri - Chapter 9</title>
     <link>https://comick.app/comic/hinamatsuri</link>
     <description>Chapter 9 of Hinamatsuri is now available on ComicK!</description>
-</item>
-<item>
-    <title>Not Simple - Chapter 5</title>
-    <link>https://comick.app/comic/not-simple</link>
-    <description>Chapter 5 of Not Simple is now available on ComicK!</description>
 </item>
 
 </channel>
