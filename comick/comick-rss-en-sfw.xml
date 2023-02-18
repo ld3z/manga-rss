@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Blue Archive Dengeki Comics Anthology - Chapter 5</title>
+    <link>https://comick.app/comic/blue-archive-dengeki-comics-anthology</link>
+    <description>Chapter 5 of Blue Archive Dengeki Comics Anthology is now available on ComicK!</description>
+</item>
+<item>
     <title>I Became the Tyrant of a Defense Game - Chapter 35</title>
     <link>https://comick.app/comic/i-became-the-tyrant-of-a-defense-game-2</link>
     <description>Chapter 35 of I Became the Tyrant of a Defense Game is now available on ComicK!</description>
@@ -259,11 +264,6 @@
     <title>Welcome Home, Papa - Chapter 6</title>
     <link>https://comick.app/comic/welcome-home-papa</link>
     <description>Chapter 6 of Welcome Home, Papa is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Charming Bandit - Chapter 30</title>
-    <link>https://comick.app/comic/beauty-in-my-bed-2</link>
-    <description>Chapter 30 of My Charming Bandit is now available on ComicK!</description>
 </item>
 
 </channel>
