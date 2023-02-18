@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Modern Konosuba (Doujinshi) - Chapter 2</title>
+    <link>https://comick.app/comic/modern-konosuba</link>
+    <description>Chapter 2 of Modern Konosuba (Doujinshi) is now available on ComicK!</description>
+</item>
+<item>
     <title>Kakkou no Iinazuke - Chapter 145</title>
     <link>https://comick.app/comic/a-couple-of-cuckoos</link>
     <description>Chapter 145 of Kakkou no Iinazuke is now available on ComicK!</description>
@@ -259,11 +264,6 @@
     <title>I Picked up an Attribute - Chapter 253</title>
     <link>https://comick.app/comic/i-picked-up-an-attribute-2</link>
     <description>Chapter 253 of I Picked up an Attribute is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kanojo no Imouto to Kiss shita❤️ - Chapter 4</title>
-    <link>https://comick.app/comic/kanojo-no-imouto-to-kiss-shita</link>
-    <description>Chapter 4 of Kanojo no Imouto to Kiss shita❤️ is now available on ComicK!</description>
 </item>
 
 </channel>
