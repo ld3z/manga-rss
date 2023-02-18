@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kingdom - Chapter 1</title>
+    <link>https://comick.app/comic/kingdom</link>
+    <description>Chapter 1 of Kingdom is now available on ComicK!</description>
+</item>
+<item>
     <title>Solo Leveling - Chapter 181</title>
     <link>https://comick.app/comic/solo-leveling-2</link>
     <description>Chapter 181 of Solo Leveling is now available on ComicK!</description>
@@ -179,11 +184,6 @@
     <title>My In-laws Are Obsessed With Me - Chapter 55</title>
     <link>https://comick.app/comic/my-in-laws-are-obsessed-with-me-2</link>
     <description>Chapter 55 of My In-laws Are Obsessed With Me is now available on ComicK!</description>
-</item>
-<item>
-    <title>JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored) - Chapter 10</title>
-    <link>https://comick.app/comic/jo-jo-s-bizarre-adventure-part-8-jo-jolion-official-colored</link>
-    <description>Chapter 10 of JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored) is now available on ComicK!</description>
 </item>
 
 </channel>
