@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Kyuuketsuki no Uruwashiki Kekkon - Chapter 3</title>
+    <title>Bloody Cross - Chapter 1</title>
+    <link>https://comick.app/comic/bloody-cross</link>
+    <description>Chapter 1 of Bloody Cross is now available on ComicK!</description>
+</item>
+<item>
+    <title>Jinja no Mori no Nora Neko-kun - Chapter 3</title>
+    <link>https://comick.app/comic/jinja-no-mori-no-nora-neko-kun</link>
+    <description>Chapter 3 of Jinja no Mori no Nora Neko-kun is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kyuuketsuki no Uruwashiki Kekkon - Chapter 2</title>
     <link>https://comick.app/comic/kyuuketsuki-no-uruwashiki-kekkon</link>
-    <description>Chapter 3 of Kyuuketsuki no Uruwashiki Kekkon is now available on ComicK!</description>
+    <description>Chapter 2 of Kyuuketsuki no Uruwashiki Kekkon is now available on ComicK!</description>
 </item>
 <item>
     <title>Mou Shoujo Manga Nante - Chapter 5</title>
@@ -99,16 +109,6 @@
     <title>Bokkonrinri - Chapter 5</title>
     <link>https://comick.app/comic/bokkonrinri</link>
     <description>Chapter 5 of Bokkonrinri is now available on ComicK!</description>
-</item>
-<item>
-    <title>Love Zipper - Chapter 4</title>
-    <link>https://comick.app/comic/love-zipper</link>
-    <description>Chapter 4 of Love Zipper is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ningen Deshita - Chapter 5</title>
-    <link>https://comick.app/comic/ningen-deshita</link>
-    <description>Chapter 5 of Ningen Deshita is now available on ComicK!</description>
 </item>
 
 </channel>
