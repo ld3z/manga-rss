@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Nihonkoku Shoukan - Chapter 35</title>
+    <link>https://comick.app/comic/nihonkoku-shoukan</link>
+    <description>Chapter 35 of Nihonkoku Shoukan is now available on ComicK!</description>
+</item>
+<item>
     <title>A story about a former classmate who showed up when I ordered a prostitute. - Chapter 1</title>
     <link>https://comick.app/comic/a-story-about-a-former-classmate-who-showed-up-when-i-ordered-a-prostitute</link>
     <description>Chapter 1 of A story about a former classmate who showed up when I ordered a prostitute. is now available on ComicK!</description>
@@ -134,11 +139,6 @@
     <title>Genjitsu no Yohane: Unpolarized Reflexion - Chapter 11</title>
     <link>https://comick.app/comic/parhelion-of-yohane-unpolarized-reflexion</link>
     <description>Chapter 11 of Genjitsu no Yohane: Unpolarized Reflexion is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tokimori-san ga Muboubi desu!! - Chapter 3</title>
-    <link>https://comick.app/comic/tokimori-san-ga-muboubi-desu</link>
-    <description>Chapter 3 of Tokimori-san ga Muboubi desu!! is now available on ComicK!</description>
 </item>
 
 </channel>
