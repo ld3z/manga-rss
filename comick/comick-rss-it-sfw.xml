@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Taisho Maiden Fairytale - Chapter 1</title>
+    <link>https://comick.app/comic/taishou-otome-otogibanashi</link>
+    <description>Chapter 1 of Taisho Maiden Fairytale is now available on ComicK!</description>
+</item>
+<item>
     <title>Hirayasumi - Chapter 15</title>
     <link>https://comick.app/comic/hirayasumi</link>
     <description>Chapter 15 of Hirayasumi is now available on ComicK!</description>
@@ -209,11 +214,6 @@
     <title>Hiiragi-san Chi no Kyuuketsu Jijou - Chapter 3</title>
     <link>https://comick.app/comic/hiiragi-san-chi-no-kyuuketsu-jijou</link>
     <description>Chapter 3 of Hiiragi-san Chi no Kyuuketsu Jijou is now available on ComicK!</description>
-</item>
-<item>
-    <title>A Returner's Magic Should Be Special - Chapter 65</title>
-    <link>https://comick.app/comic/a-returner-s-magic-should-be-special-2</link>
-    <description>Chapter 65 of A Returner's Magic Should Be Special is now available on ComicK!</description>
 </item>
 
 </channel>
