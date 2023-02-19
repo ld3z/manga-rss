@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Nobody Knows - Chapter 9</title>
+    <title>Kimi ga Suki - Chapter 10</title>
+    <link>https://comick.app/comic/kimi-ga-suki</link>
+    <description>Chapter 10 of Kimi ga Suki is now available on ComicK!</description>
+</item>
+<item>
+    <title>Nobody Knows - Chapter 25</title>
     <link>https://comick.app/comic/nobody-knows-1</link>
-    <description>Chapter 9 of Nobody Knows is now available on ComicK!</description>
+    <description>Chapter 25 of Nobody Knows is now available on ComicK!</description>
 </item>
 <item>
     <title>Meikyuu Romantica - Chapter 2</title>
@@ -39,21 +44,6 @@
     <title>Rain Gaiden - Vampire Master - Chapter 3</title>
     <link>https://comick.app/comic/rain-gaiden-vampire-master</link>
     <description>Chapter 3 of Rain Gaiden - Vampire Master is now available on ComicK!</description>
-</item>
-<item>
-    <title>Junketsu + Kareshi - Chapter 11</title>
-    <link>https://comick.app/comic/junketsu-kareshi</link>
-    <description>Chapter 11 of Junketsu + Kareshi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Netoge no Yome wa Onnanoko ja Nai to Omotta? - Chapter 4</title>
-    <link>https://comick.app/comic/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta</link>
-    <description>Chapter 4 of Netoge no Yome wa Onnanoko ja Nai to Omotta? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Seifuku de Vanilla Kiss - Chapter 5</title>
-    <link>https://comick.app/comic/seifuku-de-vanilla-kiss</link>
-    <description>Chapter 5 of Seifuku de Vanilla Kiss is now available on ComicK!</description>
 </item>
 
 </channel>
