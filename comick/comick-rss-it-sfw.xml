@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Bocchi the Rock! - Chapter 50</title>
+    <link>https://comick.app/comic/bocchi-the-rock</link>
+    <description>Chapter 50 of Bocchi the Rock! is now available on ComicK!</description>
+</item>
+<item>
     <title>Umi no Misaki - Chapter 106</title>
     <link>https://comick.app/comic/umi-no-misaki</link>
     <description>Chapter 106 of Umi no Misaki is now available on ComicK!</description>
@@ -74,11 +79,6 @@
     <title>Welcome Back, Alice - Chapter 34</title>
     <link>https://comick.app/comic/welcome-back-alice</link>
     <description>Chapter 34 of Welcome Back, Alice is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bocchi the Rock! - Chapter 49.1</title>
-    <link>https://comick.app/comic/bocchi-the-rock</link>
-    <description>Chapter 49.1 of Bocchi the Rock! is now available on ComicK!</description>
 </item>
 <item>
     <title>Dai Tokyo Oniyome-den - Chapter 22</title>
@@ -204,11 +204,6 @@
     <title>Mercenary Enrollment - Chapter 122</title>
     <link>https://comick.app/comic/mercenary-enrollment-2</link>
     <description>Chapter 122 of Mercenary Enrollment is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Survival Story of the Sword King in Another World - Chapter 78</title>
-    <link>https://comick.app/comic/survival-story-of-a-sword-king-in-a-fantasy-world-2</link>
-    <description>Chapter 78 of The Survival Story of the Sword King in Another World is now available on ComicK!</description>
 </item>
 
 </channel>

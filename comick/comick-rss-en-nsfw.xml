@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Yanpapa to Tenshi to Ore - Chapter None</title>
+    <link>https://comick.app/comic/yanpapa-to-tenshi-to-ore</link>
+    <description>Chapter None of Yanpapa to Tenshi to Ore is now available on ComicK!</description>
+</item>
+<item>
     <title>Kamiyama-san No Kamibukuro No Naka Ni wa - Chapter 10</title>
     <link>https://comick.app/comic/kamiyama-san-no-kamibukuro-no-naka-ni</link>
     <description>Chapter 10 of Kamiyama-san No Kamibukuro No Naka Ni wa is now available on ComicK!</description>
@@ -299,11 +304,6 @@
     <title>Peerless Battle Spirit - Chapter 550</title>
     <link>https://comick.app/comic/peerless-battle-spirit</link>
     <description>Chapter 550 of Peerless Battle Spirit is now available on ComicK!</description>
-</item>
-<item>
-    <title>Martial Peak - Chapter 3070</title>
-    <link>https://comick.app/comic/martial-peak-2</link>
-    <description>Chapter 3070 of Martial Peak is now available on ComicK!</description>
 </item>
 
 </channel>
