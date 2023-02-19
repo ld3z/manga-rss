@@ -6,6 +6,26 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Devil Clutch - Chapter None</title>
+    <link>https://comick.app/comic/devil-clutch</link>
+    <description>Chapter None of Devil Clutch is now available on ComicK!</description>
+</item>
+<item>
+    <title>Boku no Idol - Chapter None</title>
+    <link>https://comick.app/comic/boku-no-idol</link>
+    <description>Chapter None of Boku no Idol is now available on ComicK!</description>
+</item>
+<item>
+    <title>Uchuu no Sparrow - Chapter None</title>
+    <link>https://comick.app/comic/uchuu-no-sparrow</link>
+    <description>Chapter None of Uchuu no Sparrow is now available on ComicK!</description>
+</item>
+<item>
+    <title>Enma Gavel - Chapter None</title>
+    <link>https://comick.app/comic/enma-gavel</link>
+    <description>Chapter None of Enma Gavel is now available on ComicK!</description>
+</item>
+<item>
     <title>Paradox Live Stage Battle "Comic" - Chapter 1</title>
     <link>https://comick.app/comic/paradox-live-stage-battle-comic</link>
     <description>Chapter 1 of Paradox Live Stage Battle "Comic" is now available on ComicK!</description>
@@ -119,21 +139,6 @@
     <title>Homunculus - Chapter None</title>
     <link>https://comick.app/comic/homunculus</link>
     <description>Chapter None of Homunculus is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hades and Persephone ficlets - Chapter 130</title>
-    <link>https://comick.app/comic/hades-and-persephone-ficlets</link>
-    <description>Chapter 130 of Hades and Persephone ficlets is now available on ComicK!</description>
-</item>
-<item>
-    <title>VS EVIL - Chapter 11</title>
-    <link>https://comick.app/comic/vs-evil</link>
-    <description>Chapter 11 of VS EVIL is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ichirei Shite, Kiss - Chapter 4.5</title>
-    <link>https://comick.app/comic/ichirei-shite-kiss</link>
-    <description>Chapter 4.5 of Ichirei Shite, Kiss is now available on ComicK!</description>
 </item>
 
 </channel>
