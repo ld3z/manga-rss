@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Sayonara Piano Sonata - Chapter 12</title>
+    <link>https://comick.app/comic/sayonara-piano-sonata</link>
+    <description>Chapter 12 of Sayonara Piano Sonata is now available on ComicK!</description>
+</item>
+<item>
     <title>Kimi ga Suki - Chapter 10</title>
     <link>https://comick.app/comic/kimi-ga-suki</link>
     <description>Chapter 10 of Kimi ga Suki is now available on ComicK!</description>
@@ -39,11 +44,6 @@
     <title>Chocolate - Chapter 6</title>
     <link>https://comick.app/comic/chocolate-1</link>
     <description>Chapter 6 of Chocolate is now available on ComicK!</description>
-</item>
-<item>
-    <title>Shurabara! - Chapter 3</title>
-    <link>https://comick.app/comic/shurabara</link>
-    <description>Chapter 3 of Shurabara! is now available on ComicK!</description>
 </item>
 
 </channel>
