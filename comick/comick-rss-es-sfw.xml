@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Otome Sensou - Chapter 38</title>
+    <link>https://comick.app/comic/otome-sensou</link>
+    <description>Chapter 38 of Otome Sensou is now available on ComicK!</description>
+</item>
+<item>
     <title>Please Bully Me, Miss Villainess! - Chapter 18</title>
     <link>https://comick.app/comic/please-bully-me-miss-villainess-2</link>
     <description>Chapter 18 of Please Bully Me, Miss Villainess! is now available on ComicK!</description>
@@ -54,11 +59,6 @@
     <title>Zatch Bell! 2 - Chapter 10</title>
     <link>https://comick.app/comic/zatch-bell-2</link>
     <description>Chapter 10 of Zatch Bell! 2 is now available on ComicK!</description>
-</item>
-<item>
-    <title>Otome Sensou - Chapter 37</title>
-    <link>https://comick.app/comic/otome-sensou</link>
-    <description>Chapter 37 of Otome Sensou is now available on ComicK!</description>
 </item>
 <item>
     <title>Tsundere Osananajimi no Ongaeshi - Chapter None</title>
@@ -189,11 +189,6 @@
     <title>Tonikaku Kawaii - Chapter 219</title>
     <link>https://comick.app/comic/tonikaku-kawaii</link>
     <description>Chapter 219 of Tonikaku Kawaii is now available on ComicK!</description>
-</item>
-<item>
-    <title>Toraware Voice - Chapter None</title>
-    <link>https://comick.app/comic/toraware-voice</link>
-    <description>Chapter None of Toraware Voice is now available on ComicK!</description>
 </item>
 
 </channel>
