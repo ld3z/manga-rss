@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Higurashi no Naku Koro ni Meguri - Chapter 2.1</title>
+    <link>https://comick.app/comic/higurashi-no-naku-koro-ni-jun</link>
+    <description>Chapter 2.1 of Higurashi no Naku Koro ni Meguri is now available on ComicK!</description>
+</item>
+<item>
     <title>Tomo-chan wa Onna no ko! - Chapter 189</title>
     <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
     <description>Chapter 189 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
@@ -194,11 +199,6 @@
     <title>Level Up with the Gods - Chapter 19</title>
     <link>https://comick.app/comic/leveling-up-with-the-gods-2</link>
     <description>Chapter 19 of Level Up with the Gods is now available on ComicK!</description>
-</item>
-<item>
-    <title>Higurashi no Naku Koro ni Meguri - Chapter 1.2</title>
-    <link>https://comick.app/comic/higurashi-no-naku-koro-ni-jun</link>
-    <description>Chapter 1.2 of Higurashi no Naku Koro ni Meguri is now available on ComicK!</description>
 </item>
 <item>
     <title>Hiiragi-san Chi no Kyuuketsu Jijou - Chapter 3</title>
