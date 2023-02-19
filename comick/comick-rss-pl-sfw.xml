@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Nobody Knows - Chapter 4</title>
+    <link>https://comick.app/comic/nobody-knows-1</link>
+    <description>Chapter 4 of Nobody Knows is now available on ComicK!</description>
+</item>
+<item>
     <title>Meikyuu Romantica - Chapter 2</title>
     <link>https://comick.app/comic/meikyuu-romantica</link>
     <description>Chapter 2 of Meikyuu Romantica is now available on ComicK!</description>
@@ -54,16 +59,6 @@
     <title>Norn 9 - Norn + Nonet - Chapter 4</title>
     <link>https://comick.app/comic/norn-9-norn-nonet</link>
     <description>Chapter 4 of Norn 9 - Norn + Nonet is now available on ComicK!</description>
-</item>
-<item>
-    <title>Goong - Chapter 101</title>
-    <link>https://comick.app/comic/goong-2</link>
-    <description>Chapter 101 of Goong is now available on ComicK!</description>
-</item>
-<item>
-    <title>Nishiki-kun no Nasugamama - Chapter 2</title>
-    <link>https://comick.app/comic/nishiki-kun-no-nasugamama</link>
-    <description>Chapter 2 of Nishiki-kun no Nasugamama is now available on ComicK!</description>
 </item>
 
 </channel>
