@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Rocky - Chapter 2</title>
+    <link>https://comick.app/comic/rocky</link>
+    <description>Chapter 2 of Rocky is now available on ComicK!</description>
+</item>
+<item>
     <title>Otome Sensou - Chapter 38</title>
     <link>https://comick.app/comic/otome-sensou</link>
     <description>Chapter 38 of Otome Sensou is now available on ComicK!</description>
@@ -184,11 +189,6 @@
     <title>Sukinako ga Megane wo Wasureta - Pixiv Side Stories - Chapter 1</title>
     <link>https://comick.app/comic/sukinako-ga-megane-wo-wasureta-pixiv-side-stories</link>
     <description>Chapter 1 of Sukinako ga Megane wo Wasureta - Pixiv Side Stories is now available on ComicK!</description>
-</item>
-<item>
-    <title>Golden Boy II - Sasurai no Obenkyou Yarou Geinoukai Ooabare-hen - Chapter 4</title>
-    <link>https://comick.app/comic/golden-boy-ii</link>
-    <description>Chapter 4 of Golden Boy II - Sasurai no Obenkyou Yarou Geinoukai Ooabare-hen is now available on ComicK!</description>
 </item>
 
 </channel>

@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Rocky - Chapter 2</title>
+    <link>https://comick.app/comic/rocky</link>
+    <description>Chapter 2 of Rocky is now available on ComicK!</description>
+</item>
+<item>
     <title>Otome Sensou - Chapter 38</title>
     <link>https://comick.app/comic/otome-sensou</link>
     <description>Chapter 38 of Otome Sensou is now available on ComicK!</description>
@@ -184,11 +189,6 @@
     <title>Binetsu Kuukan - Chapter 3.5</title>
     <link>https://comick.app/comic/binetsu-kuukan</link>
     <description>Chapter 3.5 of Binetsu Kuukan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tonikaku Kawaii - Chapter 219</title>
-    <link>https://comick.app/comic/tonikaku-kawaii</link>
-    <description>Chapter 219 of Tonikaku Kawaii is now available on ComicK!</description>
 </item>
 
 </channel>
