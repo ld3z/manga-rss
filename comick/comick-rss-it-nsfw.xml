@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>My Girlfriend's Friend - Chapter 14</title>
+    <link>https://comick.app/comic/my-girlfriend-s-friend</link>
+    <description>Chapter 14 of My Girlfriend's Friend is now available on ComicK!</description>
+</item>
+<item>
     <title>Bocchi the Rock! - Chapter 50</title>
     <link>https://comick.app/comic/bocchi-the-rock</link>
     <description>Chapter 50 of Bocchi the Rock! is now available on ComicK!</description>
@@ -204,11 +209,6 @@
     <title>My Life as Inukai-san's Dog - Chapter 7</title>
     <link>https://comick.app/comic/my-life-as-inukai-san-s-dog</link>
     <description>Chapter 7 of My Life as Inukai-san's Dog is now available on ComicK!</description>
-</item>
-<item>
-    <title>Majo-senpai Nippou - Chapter 57</title>
-    <link>https://comick.app/comic/majo-senpai-nippou</link>
-    <description>Chapter 57 of Majo-senpai Nippou is now available on ComicK!</description>
 </item>
 
 </channel>
