@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>MADK - Chapter 1</title>
+    <link>https://comick.app/comic/madk</link>
+    <description>Chapter 1 of MADK is now available on ComicK!</description>
+</item>
+<item>
     <title>Devil Clutch - Chapter None</title>
     <link>https://comick.app/comic/devil-clutch</link>
     <description>Chapter None of Devil Clutch is now available on ComicK!</description>
