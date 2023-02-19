@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Hirayasumi - Chapter 15</title>
+    <link>https://comick.app/comic/hirayasumi</link>
+    <description>Chapter 15 of Hirayasumi is now available on ComicK!</description>
+</item>
+<item>
     <title>Higurashi no Naku Koro ni Meguri - Chapter 2.1</title>
     <link>https://comick.app/comic/higurashi-no-naku-koro-ni-jun</link>
     <description>Chapter 2.1 of Higurashi no Naku Koro ni Meguri is now available on ComicK!</description>
@@ -209,11 +214,6 @@
     <title>A Returner's Magic Should Be Special - Chapter 65</title>
     <link>https://comick.app/comic/a-returner-s-magic-should-be-special-2</link>
     <description>Chapter 65 of A Returner's Magic Should Be Special is now available on ComicK!</description>
-</item>
-<item>
-    <title>Cavalier of the Abyss - Chapter 150</title>
-    <link>https://comick.app/comic/cavalier-of-the-abyss</link>
-    <description>Chapter 150 of Cavalier of the Abyss is now available on ComicK!</description>
 </item>
 
 </channel>
