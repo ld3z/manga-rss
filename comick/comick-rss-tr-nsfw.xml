@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Monster - Chapter 15</title>
+    <link>https://comick.app/comic/monster</link>
+    <description>Chapter 15 of Monster is now available on ComicK!</description>
+</item>
+<item>
     <title>Love So Life - Chapter 84.1</title>
     <link>https://comick.app/comic/love-so-life</link>
     <description>Chapter 84.1 of Love So Life is now available on ComicK!</description>
@@ -64,11 +69,6 @@
     <title>Chi no Wadachi - Chapter 138</title>
     <link>https://comick.app/comic/chi-no-wadachi</link>
     <description>Chapter 138 of Chi no Wadachi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Monster - Chapter 13</title>
-    <link>https://comick.app/comic/monster</link>
-    <description>Chapter 13 of Monster is now available on ComicK!</description>
 </item>
 <item>
     <title>Lycoris Recoil - Chapter 1</title>
