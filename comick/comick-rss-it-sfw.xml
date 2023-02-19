@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Level-Up Doctor - Chapter 0</title>
+    <link>https://comick.app/comic/level-up-doctor</link>
+    <description>Chapter 0 of Level-Up Doctor is now available on ComicK!</description>
+</item>
+<item>
     <title>Taisho Maiden Fairytale - Chapter 1</title>
     <link>https://comick.app/comic/taishou-otome-otogibanashi</link>
     <description>Chapter 1 of Taisho Maiden Fairytale is now available on ComicK!</description>
@@ -209,11 +214,6 @@
     <title>Level Up with the Gods - Chapter 19</title>
     <link>https://comick.app/comic/leveling-up-with-the-gods-2</link>
     <description>Chapter 19 of Level Up with the Gods is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hiiragi-san Chi no Kyuuketsu Jijou - Chapter 3</title>
-    <link>https://comick.app/comic/hiiragi-san-chi-no-kyuuketsu-jijou</link>
-    <description>Chapter 3 of Hiiragi-san Chi no Kyuuketsu Jijou is now available on ComicK!</description>
 </item>
 
 </channel>

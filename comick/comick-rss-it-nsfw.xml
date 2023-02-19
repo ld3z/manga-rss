@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Level-Up Doctor - Chapter 0</title>
+    <link>https://comick.app/comic/level-up-doctor</link>
+    <description>Chapter 0 of Level-Up Doctor is now available on ComicK!</description>
+</item>
+<item>
     <title>Taisho Maiden Fairytale - Chapter 1</title>
     <link>https://comick.app/comic/taishou-otome-otogibanashi</link>
     <description>Chapter 1 of Taisho Maiden Fairytale is now available on ComicK!</description>
@@ -209,16 +214,6 @@
     <title>The Survival Story of the Sword King in Another World - Chapter 78</title>
     <link>https://comick.app/comic/survival-story-of-a-sword-king-in-a-fantasy-world-2</link>
     <description>Chapter 78 of The Survival Story of the Sword King in Another World is now available on ComicK!</description>
-</item>
-<item>
-    <title>D.Gray-man - Chapter 246</title>
-    <link>https://comick.app/comic/d-gray-man</link>
-    <description>Chapter 246 of D.Gray-man is now available on ComicK!</description>
-</item>
-<item>
-    <title>Level Up with the Gods - Chapter 19</title>
-    <link>https://comick.app/comic/leveling-up-with-the-gods-2</link>
-    <description>Chapter 19 of Level Up with the Gods is now available on ComicK!</description>
 </item>
 
 </channel>
