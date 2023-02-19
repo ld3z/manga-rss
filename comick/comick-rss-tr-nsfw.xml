@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Mihanada Pectolite - Chapter 6</title>
+    <link>https://comick.app/comic/mihanada-pectolite</link>
+    <description>Chapter 6 of Mihanada Pectolite is now available on ComicK!</description>
+</item>
+<item>
     <title>Yotsubaand! - Chapter 108</title>
     <link>https://comick.app/comic/yotsuba-to</link>
     <description>Chapter 108 of Yotsubaand! is now available on ComicK!</description>
@@ -124,11 +129,6 @@
     <title>Aioi Wakaba to ita Hitotsuki ni tsuite - Chapter None</title>
     <link>https://comick.app/comic/aioi-wakaba-to-ita-hitogetsu-ni-tsuite</link>
     <description>Chapter None of Aioi Wakaba to ita Hitotsuki ni tsuite is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Girl Getting Less and Less Tsun Day by Day - Chapter 4</title>
-    <link>https://comick.app/comic/the-tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere-girl-getting-less-and-less-tsun-day-by-day</link>
-    <description>Chapter 4 of The Tsuntsuntsuntsuntsuntsuntsuntsuntsuntsuntsundere Girl Getting Less and Less Tsun Day by Day is now available on ComicK!</description>
 </item>
 
 </channel>
