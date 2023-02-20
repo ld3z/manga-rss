@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Day Off - Chapter 32</title>
+    <link>https://comick.app/comic/day-off</link>
+    <description>Chapter 32 of Day Off is now available on ComicK!</description>
+</item>
+<item>
     <title>One Piece - Digital Colored Comics - Chapter 849</title>
     <link>https://comick.app/comic/one-piece-digital-colored-comics</link>
     <description>Chapter 849 of One Piece - Digital Colored Comics is now available on ComicK!</description>
@@ -111,19 +116,9 @@
     <description>Chapter 2 of Sakamoto Days is now available on ComicK!</description>
 </item>
 <item>
-    <title>Day Off - Chapter 31</title>
-    <link>https://comick.app/comic/day-off</link>
-    <description>Chapter 31 of Day Off is now available on ComicK!</description>
-</item>
-<item>
     <title>I'll Be Here for You - Chapter 26</title>
     <link>https://comick.app/comic/i-ll-be-here-for-you</link>
     <description>Chapter 26 of I'll Be Here for You is now available on ComicK!</description>
-</item>
-<item>
-    <title>GIGANT - Chapter 2</title>
-    <link>https://comick.app/comic/gigant</link>
-    <description>Chapter 2 of GIGANT is now available on ComicK!</description>
 </item>
 
 </channel>
