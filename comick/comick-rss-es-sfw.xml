@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>K-ON! Shuffle - Chapter 38</title>
+    <link>https://comick.app/comic/k-on-shuffle</link>
+    <description>Chapter 38 of K-ON! Shuffle is now available on ComicK!</description>
+</item>
+<item>
     <title>Rocky - Chapter 2</title>
     <link>https://comick.app/comic/rocky</link>
     <description>Chapter 2 of Rocky is now available on ComicK!</description>
@@ -184,11 +189,6 @@
     <title>Golden Boy II - Sasurai no Obenkyou Yarou Geinoukai Ooabare-hen - Chapter 4</title>
     <link>https://comick.app/comic/golden-boy-ii</link>
     <description>Chapter 4 of Golden Boy II - Sasurai no Obenkyou Yarou Geinoukai Ooabare-hen is now available on ComicK!</description>
-</item>
-<item>
-    <title>Binetsu Kuukan - Chapter 3.5</title>
-    <link>https://comick.app/comic/binetsu-kuukan</link>
-    <description>Chapter 3.5 of Binetsu Kuukan is now available on ComicK!</description>
 </item>
 
 </channel>
