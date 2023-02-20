@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Jisatsutou - Chapter 7</title>
+    <title>Jisatsutou - Chapter 14</title>
     <link>https://comick.app/comic/jisatsutou</link>
-    <description>Chapter 7 of Jisatsutou is now available on ComicK!</description>
+    <description>Chapter 14 of Jisatsutou is now available on ComicK!</description>
+</item>
+<item>
+    <title>Master's Secret Baby - Chapter 1</title>
+    <link>https://comick.app/comic/master-s-secret-baby-2</link>
+    <description>Chapter 1 of Master's Secret Baby is now available on ComicK!</description>
 </item>
 <item>
     <title>Father, I Don't Want This Marriage! - Chapter 20</title>
@@ -69,26 +74,6 @@
     <title>Pyu to Fuku! Jaguar - Chapter 9</title>
     <link>https://comick.app/comic/pyu-to-fuku-jaguar</link>
     <description>Chapter 9 of Pyu to Fuku! Jaguar is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ninku - Chapter 1</title>
-    <link>https://comick.app/comic/ninku</link>
-    <description>Chapter 1 of Ninku is now available on ComicK!</description>
-</item>
-<item>
-    <title>Black and Blue Hungry Wolf - Fist of the North Star: Rei Gaiden - Chapter 8</title>
-    <link>https://comick.app/comic/soukoku-no-garou-hokuto-no-ken-rei-gaiden</link>
-    <description>Chapter 8 of Black and Blue Hungry Wolf - Fist of the North Star: Rei Gaiden is now available on ComicK!</description>
-</item>
-<item>
-    <title>I've Been Here From the Beginning - Chapter 28</title>
-    <link>https://comick.app/comic/i-was-here-from-the-beginningvr0O-2</link>
-    <description>Chapter 28 of I've Been Here From the Beginning is now available on ComicK!</description>
-</item>
-<item>
-    <title>Beelzebub - Chapter None</title>
-    <link>https://comick.app/comic/beelzebub</link>
-    <description>Chapter None of Beelzebub is now available on ComicK!</description>
 </item>
 
 </channel>
