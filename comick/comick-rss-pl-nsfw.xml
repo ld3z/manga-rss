@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Carrier Falcon Princess - Chapter 11</title>
+    <link>https://comick.app/comic/carrier-falcon-princess-2</link>
+    <description>Chapter 11 of Carrier Falcon Princess is now available on ComicK!</description>
+</item>
+<item>
     <title>Mines and Monster Girls - Chapter 3</title>
     <link>https://comick.app/comic/mines-and-monster-girls</link>
     <description>Chapter 3 of Mines and Monster Girls is now available on ComicK!</description>
@@ -159,11 +164,6 @@
     <title>EDENS ZERO - Chapter 225</title>
     <link>https://comick.app/comic/edens-zero</link>
     <description>Chapter 225 of EDENS ZERO is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Price of Breaking Up - Chapter 0</title>
-    <link>https://comick.app/comic/the-price-of-breaking-up</link>
-    <description>Chapter 0 of The Price of Breaking Up is now available on ComicK!</description>
 </item>
 
 </channel>
