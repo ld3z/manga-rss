@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Wendy the Florist - Chapter 79</title>
+    <title>Oni no Hanayome - Karada ni Kizamareta Emono no Shirushi - Chapter 7</title>
+    <link>https://comick.app/comic/oni-no-hanayome-karada-ni-kizamareta-emono-no-shirushi</link>
+    <description>Chapter 7 of Oni no Hanayome - Karada ni Kizamareta Emono no Shirushi is now available on ComicK!</description>
+</item>
+<item>
+    <title>Wendy the Florist - Chapter 82</title>
     <link>https://comick.app/comic/wendy-the-florist</link>
-    <description>Chapter 79 of Wendy the Florist is now available on ComicK!</description>
+    <description>Chapter 82 of Wendy the Florist is now available on ComicK!</description>
 </item>
 <item>
     <title>Carrier Falcon Princess - Chapter 28</title>
@@ -159,11 +164,6 @@
     <title>Anata to Senya Ichiya - Chapter 16.5</title>
     <link>https://comick.app/comic/anata-to-senya-ichiya</link>
     <description>Chapter 16.5 of Anata to Senya Ichiya is now available on ComicK!</description>
-</item>
-<item>
-    <title>I'm a Villainess But I Became a Mother - Chapter 8</title>
-    <link>https://comick.app/comic/i-m-a-villainess-but-i-became-a-mother</link>
-    <description>Chapter 8 of I'm a Villainess But I Became a Mother is now available on ComicK!</description>
 </item>
 
 </channel>
