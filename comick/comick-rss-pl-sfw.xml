@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Jisatsutou - Chapter 1</title>
+    <link>https://comick.app/comic/jisatsutou</link>
+    <description>Chapter 1 of Jisatsutou is now available on ComicK!</description>
+</item>
+<item>
     <title>Father, I Don't Want This Marriage! - Chapter 20</title>
     <link>https://comick.app/comic/father-i-don-t-want-to-get-married-2</link>
     <description>Chapter 20 of Father, I Don't Want This Marriage! is now available on ComicK!</description>
@@ -119,16 +124,6 @@
     <title>Enma Gavel - Chapter None</title>
     <link>https://comick.app/comic/enma-gavel</link>
     <description>Chapter None of Enma Gavel is now available on ComicK!</description>
-</item>
-<item>
-    <title>Paradox Live Stage Battle "Comic" - Chapter 1</title>
-    <link>https://comick.app/comic/paradox-live-stage-battle-comic</link>
-    <description>Chapter 1 of Paradox Live Stage Battle "Comic" is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tougen Anki - Chapter 99</title>
-    <link>https://comick.app/comic/tougen-anki</link>
-    <description>Chapter 99 of Tougen Anki is now available on ComicK!</description>
 </item>
 
 </channel>
