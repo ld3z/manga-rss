@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Solo Spell Caster - Chapter 3</title>
+    <link>https://comick.app/comic/solo-spell-caster-2</link>
+    <description>Chapter 3 of Solo Spell Caster is now available on ComicK!</description>
+</item>
+<item>
     <title>Nano Hazard - Chapter 1</title>
     <link>https://comick.app/comic/nano-hazard-jybqsrak</link>
     <description>Chapter 1 of Nano Hazard is now available on ComicK!</description>
@@ -156,11 +161,6 @@
     <description>Chapter 16 of How Many Light-Years to Babylon? is now available on ComicK!</description>
 </item>
 <item>
-    <title>Solo Spell Caster - Chapter 2</title>
-    <link>https://comick.app/comic/solo-spell-caster-2</link>
-    <description>Chapter 2 of Solo Spell Caster is now available on ComicK!</description>
-</item>
-<item>
     <title>Chainsaw Man - Chapter 120</title>
     <link>https://comick.app/comic/chainsaw-man</link>
     <description>Chapter 120 of Chainsaw Man is now available on ComicK!</description>
@@ -204,11 +204,6 @@
     <title>Solo Leveling - Chapter 181</title>
     <link>https://comick.app/comic/solo-leveling-2</link>
     <description>Chapter 181 of Solo Leveling is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Stack Experience Through Reading Books - Chapter 123</title>
-    <link>https://comick.app/comic/i-stack-experience-through-reading-books-2</link>
-    <description>Chapter 123 of I Stack Experience Through Reading Books is now available on ComicK!</description>
 </item>
 
 </channel>
