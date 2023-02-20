@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>I Tried Asking a Hot-Tempered Gal Out on a Date - Chapter 4</title>
+    <title>I Tried Asking a Hot-Tempered Gal Out on a Date - Chapter 6</title>
     <link>https://comick.app/comic/i-tried-asking-a-hot-tempered-gal-out-on-a-date</link>
-    <description>Chapter 4 of I Tried Asking a Hot-Tempered Gal Out on a Date is now available on ComicK!</description>
+    <description>Chapter 6 of I Tried Asking a Hot-Tempered Gal Out on a Date is now available on ComicK!</description>
+</item>
+<item>
+    <title>JoJo's Bizarre Adventure Part 9 - The JOJOLands - Chapter 1</title>
+    <link>https://comick.app/comic/jo-jo-s-bizarre-adventure-part-9-the-jo-jo-lands</link>
+    <description>Chapter 1 of JoJo's Bizarre Adventure Part 9 - The JOJOLands is now available on ComicK!</description>
 </item>
 <item>
     <title>Gong Heon Ja - Chapter 33</title>
@@ -79,21 +84,6 @@
     <title>Mines and Monster Girls - Chapter 3</title>
     <link>https://comick.app/comic/mines-and-monster-girls</link>
     <description>Chapter 3 of Mines and Monster Girls is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kagerou Project - Rainy Blue (Doujinshi) - Chapter 1</title>
-    <link>https://comick.app/comic/kagerou-project-rainy-blue-doujinshi</link>
-    <description>Chapter 1 of Kagerou Project - Rainy Blue (Doujinshi) is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tough - Chapter 1</title>
-    <link>https://comick.app/comic/tough</link>
-    <description>Chapter 1 of Tough is now available on ComicK!</description>
-</item>
-<item>
-    <title>The King of Fighters: Kyo - Chapter 2</title>
-    <link>https://comick.app/comic/the-king-of-fighters-kyo</link>
-    <description>Chapter 2 of The King of Fighters: Kyo is now available on ComicK!</description>
 </item>
 
 </channel>
