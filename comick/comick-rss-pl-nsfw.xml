@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Slam Dunk! - Chapter 40</title>
+    <title>Slam Dunk! - Chapter 95</title>
     <link>https://comick.app/comic/slam-dunk</link>
-    <description>Chapter 40 of Slam Dunk! is now available on ComicK!</description>
+    <description>Chapter 95 of Slam Dunk! is now available on ComicK!</description>
+</item>
+<item>
+    <title>Delusional Love - Chapter 11</title>
+    <link>https://comick.app/comic/delusional-love</link>
+    <description>Chapter 11 of Delusional Love is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Grandmaster of Demonic Cultivation - Chapter 186</title>
+    <link>https://comick.app/comic/the-grandmaster-of-demonic-cultivation</link>
+    <description>Chapter 186 of The Grandmaster of Demonic Cultivation is now available on ComicK!</description>
+</item>
+<item>
+    <title>MADK - Chapter 6</title>
+    <link>https://comick.app/comic/madk</link>
+    <description>Chapter 6 of MADK is now available on ComicK!</description>
 </item>
 <item>
     <title>Master's Secret Baby - Chapter 234</title>
@@ -24,11 +39,6 @@
     <title>JoJo's Bizarre Adventure Part 9 - The JOJOLands - Chapter 1</title>
     <link>https://comick.app/comic/jo-jo-s-bizarre-adventure-part-9-the-jo-jo-lands</link>
     <description>Chapter 1 of JoJo's Bizarre Adventure Part 9 - The JOJOLands is now available on ComicK!</description>
-</item>
-<item>
-    <title>Gong Heon Ja - Chapter 33</title>
-    <link>https://comick.app/comic/gong-heon-ja</link>
-    <description>Chapter 33 of Gong Heon Ja is now available on ComicK!</description>
 </item>
 
 </channel>
