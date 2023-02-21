@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ukongebbo - Chapter None</title>
+    <link>https://comick.app/comic/ukongebbo</link>
+    <description>Chapter None of Ukongebbo is now available on ComicK!</description>
+</item>
+<item>
+    <title>Iro Moyo Chotto Karimame - Chapter None</title>
+    <link>https://comick.app/comic/iro-moyo-chotto-karimame</link>
+    <description>Chapter None of Iro Moyo Chotto Karimame is now available on ComicK!</description>
+</item>
+<item>
     <title>New Bodies - Chapter 11</title>
     <link>https://comick.app/comic/new-bodies</link>
     <description>Chapter 11 of New Bodies is now available on ComicK!</description>
@@ -344,16 +354,6 @@
     <title>Transcension Academy - Chapter 49</title>
     <link>https://comick.app/comic/transcension-academy</link>
     <description>Chapter 49 of Transcension Academy is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - Chapter 79</title>
-    <link>https://comick.app/comic/kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai</link>
-    <description>Chapter 79 of Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai is now available on ComicK!</description>
-</item>
-<item>
-    <title>Infinite Mage - Chapter 25</title>
-    <link>https://comick.app/comic/infinite-mage</link>
-    <description>Chapter 25 of Infinite Mage is now available on ComicK!</description>
 </item>
 
 </channel>
