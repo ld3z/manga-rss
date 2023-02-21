@@ -6,9 +6,9 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Wan Gu Shen Wang - Chapter 1</title>
+    <title>Wan Gu Shen Wang - Chapter 10</title>
     <link>https://comick.app/comic/wan-gu-shen-wang-2</link>
-    <description>Chapter 1 of Wan Gu Shen Wang is now available on ComicK!</description>
+    <description>Chapter 10 of Wan Gu Shen Wang is now available on ComicK!</description>
 </item>
 <item>
     <title>Global Examination - Chapter 24</title>
@@ -79,11 +79,6 @@
     <title>Delusional Love - Chapter 11</title>
     <link>https://comick.app/comic/delusional-love</link>
     <description>Chapter 11 of Delusional Love is now available on ComicK!</description>
-</item>
-<item>
-    <title>MADK - Chapter 6</title>
-    <link>https://comick.app/comic/madk</link>
-    <description>Chapter 6 of MADK is now available on ComicK!</description>
 </item>
 
 </channel>
