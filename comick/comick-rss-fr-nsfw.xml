@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Kawaii Kanojo-chan - Chapter 2</title>
+    <title>[Oshi no Ko] - Chapter 109</title>
+    <link>https://comick.app/comic/oshi-no-ko</link>
+    <description>Chapter 109 of [Oshi no Ko] is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kawaii Kanojo-chan - Chapter 4</title>
     <link>https://comick.app/comic/a-cute-girlfriend</link>
-    <description>Chapter 2 of Kawaii Kanojo-chan is now available on ComicK!</description>
+    <description>Chapter 4 of Kawaii Kanojo-chan is now available on ComicK!</description>
 </item>
 <item>
     <title>Is It OK if We Live Together? - Chapter 1</title>
@@ -269,11 +274,6 @@
     <title>Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo - Chapter 4</title>
     <link>https://comick.app/comic/shuumatsu-no-valkyrie-kitan-jack-the-ripper-no-jikenbo</link>
     <description>Chapter 4 of Shuumatsu no Valkyrie Kitan - Jack the Ripper no Jikenbo is now available on ComicK!</description>
-</item>
-<item>
-    <title>Useless Wizard - Chapter 15</title>
-    <link>https://comick.app/comic/useless-wizard</link>
-    <description>Chapter 15 of Useless Wizard is now available on ComicK!</description>
 </item>
 
 </channel>
