@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Icare - Chapter 1</title>
+    <link>https://comick.app/comic/icare</link>
+    <description>Chapter 1 of Icare is now available on ComicK!</description>
+</item>
+<item>
     <title>Loving Reaper - Chapter 42</title>
     <link>https://comick.app/comic/loving-reaper</link>
     <description>Chapter 42 of Loving Reaper is now available on ComicK!</description>
@@ -129,11 +134,6 @@
     <title>Lycoris Recoil - Chapter 1</title>
     <link>https://comick.app/comic/lycoris-recoil</link>
     <description>Chapter 1 of Lycoris Recoil is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Fed Up Office Lady Wants to Serve the Villainess - Chapter 3</title>
-    <link>https://comick.app/comic/the-office-lady-at-her-limit-wants-to-serve-the-villainess</link>
-    <description>Chapter 3 of The Fed Up Office Lady Wants to Serve the Villainess is now available on ComicK!</description>
 </item>
 
 </channel>
