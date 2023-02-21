@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Detective Conan - Chapter 1109</title>
+    <link>https://comick.app/comic/detective-conan</link>
+    <description>Chapter 1109 of Detective Conan is now available on ComicK!</description>
+</item>
+<item>
     <title>Tomodachi o Tsukurou. - Chapter 23</title>
     <link>https://comick.app/comic/tomodachi-o-tsukurou</link>
     <description>Chapter 23 of Tomodachi o Tsukurou. is now available on ComicK!</description>
@@ -196,19 +201,9 @@
     <description>Chapter 84.1 of Isekai Maou to Shoukan Shoujo no Dorei Majutsu is now available on ComicK!</description>
 </item>
 <item>
-    <title>Detective Conan - Chapter 1108</title>
-    <link>https://comick.app/comic/detective-conan</link>
-    <description>Chapter 1108 of Detective Conan is now available on ComicK!</description>
-</item>
-<item>
     <title>The Girlfriend Can't Lie - Chapter None</title>
     <link>https://comick.app/comic/the-girlfriend-can-t-lie</link>
     <description>Chapter None of The Girlfriend Can't Lie is now available on ComicK!</description>
-</item>
-<item>
-    <title>First Time at Starbucks - Chapter None</title>
-    <link>https://comick.app/comic/first-time-at-starbucks</link>
-    <description>Chapter None of First Time at Starbucks is now available on ComicK!</description>
 </item>
 
 </channel>
