@@ -1,11 +1,11 @@
 # comick-rss
+Introducing **Comick-RSS**,
+an RSS feed that provides updates for comick.app. Usage is simple, just grab the raw link to a feed and put it into the reader. 
+We currently offer SFW feeds for various languages including English, Spanish, French, Italian, Polish, and Turkish.
 
-An rss feed for comick.app
+Note that the feed auto-updates every hour, and we plan to add more languages and websites in the future. 
 
-
-Just grab the raw link to a feed and put it into your rss reader
-
-for example links to each languages sfw feed: 
+Below are example links to each language's SFW feed: 
 
 | English(SFW): https://raw.githubusercontent.com/ld3z/manga-rss/main/comick/comick-rss-en-sfw.xml |
 | ------------------------------------------------------------ |
@@ -15,19 +15,11 @@ for example links to each languages sfw feed:
 | **Polish(SFW): https://raw.githubusercontent.com/ld3z/manga-rss/main/comick/comick-rss-pl-sfw.xml** |
 | **Turkish(SFW): https://raw.githubusercontent.com/ld3z/manga-rss/main/comick/comick-rss-tr-sfw.xml** |
 
-if you need help, open an issue. :)
-
-Note:
-
-it auto updates every hour
-
-and it now supports multiple languages with more coming soon!
-
-
+If you need any assistance, don't hesitate to open an issue. We're here to help! :)
 
 ## Roadmap:
 
-- [ ] Fix some code
 - [x] Add more feeds for each language on ComicK
+- [ ] Fix some code
 - [ ] Add issue enhancements
 - [ ] Add more websites?
