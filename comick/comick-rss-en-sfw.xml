@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Futago Complex - Chapter 27</title>
+    <link>https://comick.app/comic/futago-complex</link>
+    <description>Chapter 27 of Futago Complex is now available on ComicK!</description>
+</item>
+<item>
     <title>I Have Max Level Luck - Chapter 41</title>
     <link>https://comick.app/comic/i-have-max-level-luck</link>
     <description>Chapter 41 of I Have Max Level Luck is now available on ComicK!</description>
@@ -169,11 +174,6 @@
     <title>Killer Bang: The First Kill - Chapter 45</title>
     <link>https://comick.app/comic/killer-bang-the-first-kill-2</link>
     <description>Chapter 45 of Killer Bang: The First Kill is now available on ComicK!</description>
-</item>
-<item>
-    <title>Maya's World - Chapter 85</title>
-    <link>https://comick.app/comic/zona-maya</link>
-    <description>Chapter 85 of Maya's World is now available on ComicK!</description>
 </item>
 
 </channel>
