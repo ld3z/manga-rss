@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Max Level Hero Has Returned! - Chapter 52</title>
+    <link>https://comick.app/comic/the-max-level-hero-has-returned-2</link>
+    <description>Chapter 52 of The Max Level Hero Has Returned! is now available on ComicK!</description>
+</item>
+<item>
     <title>Slam Dunk! - Chapter 115</title>
     <link>https://comick.app/comic/slam-dunk</link>
     <description>Chapter 115 of Slam Dunk! is now available on ComicK!</description>
@@ -29,11 +34,6 @@
     <title>Global Examination - Chapter 24</title>
     <link>https://comick.app/comic/global-examination-2</link>
     <description>Chapter 24 of Global Examination is now available on ComicK!</description>
-</item>
-<item>
-    <title>Vagabond - Chapter 121</title>
-    <link>https://comick.app/comic/vagabond</link>
-    <description>Chapter 121 of Vagabond is now available on ComicK!</description>
 </item>
 
 </channel>
