@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Chainsaw Man - Chapter 121</title>
+    <link>https://comick.app/comic/chainsaw-man</link>
+    <description>Chapter 121 of Chainsaw Man is now available on ComicK!</description>
+</item>
+<item>
     <title>Tomo-chan wa Onna no ko! - Chapter 204</title>
     <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
     <description>Chapter 204 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
@@ -169,11 +174,6 @@
     <title>How Many Light-Years to Babylon? - Chapter 16</title>
     <link>https://comick.app/comic/how-many-light-years-to-babylon</link>
     <description>Chapter 16 of How Many Light-Years to Babylon? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Chainsaw Man - Chapter 120</title>
-    <link>https://comick.app/comic/chainsaw-man</link>
-    <description>Chapter 120 of Chainsaw Man is now available on ComicK!</description>
 </item>
 
 </channel>
