@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Mima of the Forest - Chapter 5</title>
+    <link>https://comick.app/comic/mima-of-the-forest</link>
+    <description>Chapter 5 of Mima of the Forest is now available on ComicK!</description>
+</item>
+<item>
     <title>Storm Inn - Chapter 106</title>
     <link>https://comick.app/comic/storm-inn</link>
     <description>Chapter 106 of Storm Inn is now available on ComicK!</description>
@@ -279,16 +284,6 @@
     <title>Apex Future Martial Arts - Chapter 7</title>
     <link>https://comick.app/comic/apex-future-martial-arts</link>
     <description>Chapter 7 of Apex Future Martial Arts is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Newbie is Too Strong - Chapter 46</title>
-    <link>https://comick.app/comic/the-newbie-is-too-strong-2</link>
-    <description>Chapter 46 of The Newbie is Too Strong is now available on ComicK!</description>
-</item>
-<item>
-    <title>Everyone Else Is a Returnee - Chapter 23</title>
-    <link>https://comick.app/comic/everyone-else-is-a-returnee</link>
-    <description>Chapter 23 of Everyone Else Is a Returnee is now available on ComicK!</description>
 </item>
 
 </channel>
