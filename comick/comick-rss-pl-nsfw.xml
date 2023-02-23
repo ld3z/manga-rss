@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Heat and Love - Chapter 9</title>
+    <link>https://comick.app/comic/heat-and-love</link>
+    <description>Chapter 9 of Heat and Love is now available on ComicK!</description>
+</item>
+<item>
     <title>Can We Become a Family? - Chapter 1</title>
     <link>https://comick.app/comic/can-we-become-a-family-2</link>
     <description>Chapter 1 of Can We Become a Family? is now available on ComicK!</description>
@@ -49,11 +54,6 @@
     <title>Wonder Cat Kyuu-chan - Chapter 208</title>
     <link>https://comick.app/comic/wonder-cat-kyuu-chan</link>
     <description>Chapter 208 of Wonder Cat Kyuu-chan is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Max Level Hero Has Returned! - Chapter 52</title>
-    <link>https://comick.app/comic/the-max-level-hero-has-returned-2</link>
-    <description>Chapter 52 of The Max Level Hero Has Returned! is now available on ComicK!</description>
 </item>
 
 </channel>

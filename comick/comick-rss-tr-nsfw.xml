@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>19 Days - Chapter 416.6</title>
+    <link>https://comick.app/comic/19-tian</link>
+    <description>Chapter 416.6 of 19 Days is now available on ComicK!</description>
+</item>
+<item>
     <title>Citrus + - Chapter 31</title>
     <link>https://comick.app/comic/citrus</link>
     <description>Chapter 31 of Citrus + is now available on ComicK!</description>
@@ -129,16 +134,6 @@
     <title>Mihanada Pectolite - Chapter 5.5</title>
     <link>https://comick.app/comic/mihanada-pectolite</link>
     <description>Chapter 5.5 of Mihanada Pectolite is now available on ComicK!</description>
-</item>
-<item>
-    <title>Yotsubaand! - Chapter 108</title>
-    <link>https://comick.app/comic/yotsuba-to</link>
-    <description>Chapter 108 of Yotsubaand! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Monster - Chapter 15</title>
-    <link>https://comick.app/comic/monster</link>
-    <description>Chapter 15 of Monster is now available on ComicK!</description>
 </item>
 
 </channel>
