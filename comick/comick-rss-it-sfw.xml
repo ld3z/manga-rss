@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Dragon Ball Super - Chapter 4</title>
+    <link>https://comick.app/comic/dragon-ball-super</link>
+    <description>Chapter 4 of Dragon Ball Super is now available on ComicK!</description>
+</item>
+<item>
     <title>Tomo-chan wa Onna no ko! - Chapter 232</title>
     <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
     <description>Chapter 232 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
@@ -99,36 +104,6 @@
     <title>Higurashi no Naku Koro ni Meguri - Chapter 2.1</title>
     <link>https://comick.app/comic/higurashi-no-naku-koro-ni-jun</link>
     <description>Chapter 2.1 of Higurashi no Naku Koro ni Meguri is now available on ComicK!</description>
-</item>
-<item>
-    <title>Omniscient Reader's Viewpoint - Chapter 140</title>
-    <link>https://comick.app/comic/omniscient-reader-s-viewpoint-2</link>
-    <description>Chapter 140 of Omniscient Reader's Viewpoint is now available on ComicK!</description>
-</item>
-<item>
-    <title>Nazo no Kanojo X - Chapter 74</title>
-    <link>https://comick.app/comic/nazo-no-kanojo-x</link>
-    <description>Chapter 74 of Nazo no Kanojo X is now available on ComicK!</description>
-</item>
-<item>
-    <title>A Girl Whose Dark Circles in Her Eyes Disappear as the Story Progresses - Chapter 5</title>
-    <link>https://comick.app/comic/a-girl-whose-dark-circles-in-her-eyes-disappear-as-the-story-progresses</link>
-    <description>Chapter 5 of A Girl Whose Dark Circles in Her Eyes Disappear as the Story Progresses is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ripple Rooter - Chapter 32</title>
-    <link>https://comick.app/comic/ripple-rooter-2</link>
-    <description>Chapter 32 of Ripple Rooter is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tale of a Scribe Who Retires to the Countryside - Chapter 143</title>
-    <link>https://comick.app/comic/tale-of-a-scribe-who-retires-to-the-countryside</link>
-    <description>Chapter 143 of Tale of a Scribe Who Retires to the Countryside is now available on ComicK!</description>
-</item>
-<item>
-    <title>Welcome Back, Alice - Chapter 34</title>
-    <link>https://comick.app/comic/welcome-back-alice</link>
-    <description>Chapter 34 of Welcome Back, Alice is now available on ComicK!</description>
 </item>
 
 </channel>
