@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Chitra - Chapter 160</title>
+    <title>The Most Beloved - Chapter 40</title>
+    <link>https://comick.app/comic/the-most-beloved</link>
+    <description>Chapter 40 of The Most Beloved is now available on ComicK!</description>
+</item>
+<item>
+    <title>Tiger’s Descent - Chapter 38</title>
+    <link>https://comick.app/comic/tiger-s-descent</link>
+    <description>Chapter 38 of Tiger’s Descent is now available on ComicK!</description>
+</item>
+<item>
+    <title>Chitra - Chapter 158</title>
     <link>https://comick.app/comic/chitra</link>
-    <description>Chapter 160 of Chitra is now available on ComicK!</description>
+    <description>Chapter 158 of Chitra is now available on ComicK!</description>
+</item>
+<item>
+    <title>Ponkotsu-chan Kenshouchuu - Chapter 36</title>
+    <link>https://comick.app/comic/ponkotsu-chan-kenshouchuu</link>
+    <description>Chapter 36 of Ponkotsu-chan Kenshouchuu is now available on ComicK!</description>
 </item>
 <item>
     <title>I've Never, Ever Learned This - Chapter 42</title>
@@ -164,26 +179,6 @@
     <title>Gakkou Gurashi! Otayori - Chapter 8</title>
     <link>https://comick.app/comic/gakkou-gurashi-otayori</link>
     <description>Chapter 8 of Gakkou Gurashi! Otayori is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kanojo ga Dekinai Onna - Chapter 6</title>
-    <link>https://comick.app/comic/kanojo-ga-dekinai-onna</link>
-    <description>Chapter 6 of Kanojo ga Dekinai Onna is now available on ComicK!</description>
-</item>
-<item>
-    <title>Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu - Chapter 56.2</title>
-    <link>https://comick.app/comic/gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu</link>
-    <description>Chapter 56.2 of Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu is now available on ComicK!</description>
-</item>
-<item>
-    <title>Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shite Mita - Chapter 24.2</title>
-    <link>https://comick.app/comic/yuusha-party-ni-kawaii-ko-ga-ita-no-de-kokuhaku-shite-mita</link>
-    <description>Chapter 24.2 of Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shite Mita is now available on ComicK!</description>
-</item>
-<item>
-    <title>Fuzoroi no Renri - Chapter None</title>
-    <link>https://comick.app/comic/fuzoroi-no-renri</link>
-    <description>Chapter None of Fuzoroi no Renri is now available on ComicK!</description>
 </item>
 
 </channel>
