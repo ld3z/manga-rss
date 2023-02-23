@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Wendy the Florist - Chapter 48</title>
+    <link>https://comick.app/comic/wendy-the-florist</link>
+    <description>Chapter 48 of Wendy the Florist is now available on ComicK!</description>
+</item>
+<item>
     <title>Secret Lady - Chapter 20</title>
     <link>https://comick.app/comic/secret-lady-2</link>
     <description>Chapter 20 of Secret Lady is now available on ComicK!</description>
@@ -44,16 +49,6 @@
     <title>Peach and Musk - Chapter 8</title>
     <link>https://comick.app/comic/peach-and-musk-2</link>
     <description>Chapter 8 of Peach and Musk is now available on ComicK!</description>
-</item>
-<item>
-    <title>Wendy the Florist - Chapter 69</title>
-    <link>https://comick.app/comic/wendy-the-florist</link>
-    <description>Chapter 69 of Wendy the Florist is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mines and Monster Girls - Chapter 4</title>
-    <link>https://comick.app/comic/mines-and-monster-girls</link>
-    <description>Chapter 4 of Mines and Monster Girls is now available on ComicK!</description>
 </item>
 
 </channel>
