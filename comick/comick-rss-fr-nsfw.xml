@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kekkaishi e no Tensei - Chapter 2</title>
+    <link>https://comick.app/comic/kekkaishi-e-no-tensei</link>
+    <description>Chapter 2 of Kekkaishi e no Tensei is now available on ComicK!</description>
+</item>
+<item>
     <title>Uma Musume: Cinderella Gray - Chapter 22</title>
     <link>https://comick.app/comic/uma-musume-cinderella-gray</link>
     <description>Chapter 22 of Uma Musume: Cinderella Gray is now available on ComicK!</description>
@@ -244,11 +249,6 @@
     <title>Yofukashi no Uta - Chapter 160</title>
     <link>https://comick.app/comic/yofukashi-no-uta-jzw5b8dg</link>
     <description>Chapter 160 of Yofukashi no Uta is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mo Shou Jian Sheng - Chapter 98</title>
-    <link>https://comick.app/comic/mo-shou-jian-sheng-2</link>
-    <description>Chapter 98 of Mo Shou Jian Sheng is now available on ComicK!</description>
 </item>
 
 </channel>
