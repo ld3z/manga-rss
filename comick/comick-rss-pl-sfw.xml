@@ -6,14 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Hoarding in Hell - Chapter 10</title>
+    <link>https://comick.app/comic/hoarding-in-hell</link>
+    <description>Chapter 10 of Hoarding in Hell is now available on ComicK!</description>
+</item>
+<item>
+    <title>Secret Lady - Chapter 17</title>
+    <link>https://comick.app/comic/secret-lady-2</link>
+    <description>Chapter 17 of Secret Lady is now available on ComicK!</description>
+</item>
+<item>
     <title>Dragon's Heaven - Chapter 2</title>
     <link>https://comick.app/comic/dragon-s-heaven</link>
     <description>Chapter 2 of Dragon's Heaven is now available on ComicK!</description>
-</item>
-<item>
-    <title>Secret Lady - Chapter 15</title>
-    <link>https://comick.app/comic/secret-lady-2</link>
-    <description>Chapter 15 of Secret Lady is now available on ComicK!</description>
 </item>
 <item>
     <title>The Perfect Ending for the Villainess of a Fairy Tale - Chapter 17</title>
@@ -44,11 +49,6 @@
     <title>Watashi no Oshi wa Akuyaku Reijou - Chapter 3</title>
     <link>https://comick.app/comic/i-favor-the-villainess</link>
     <description>Chapter 3 of Watashi no Oshi wa Akuyaku Reijou is now available on ComicK!</description>
-</item>
-<item>
-    <title>Villains Are Destined to Die - Chapter 31</title>
-    <link>https://comick.app/comic/death-is-the-only-ending-for-the-villainess-2</link>
-    <description>Chapter 31 of Villains Are Destined to Die is now available on ComicK!</description>
 </item>
 
 </channel>
