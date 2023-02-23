@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Bandit King - Chapter 34</title>
+    <link>https://comick.app/comic/bandit-king</link>
+    <description>Chapter 34 of Bandit King is now available on ComicK!</description>
+</item>
+<item>
     <title>200 M Saki no Netsu - Chapter 5</title>
     <link>https://comick.app/comic/200-m-saki-no-netsu</link>
     <description>Chapter 5 of 200 M Saki no Netsu is now available on ComicK!</description>
@@ -204,11 +209,6 @@
     <title>Aoi Uroko to Suna no Machi - Chapter 11</title>
     <link>https://comick.app/comic/aoi-uroko-to-suna-no-machi</link>
     <description>Chapter 11 of Aoi Uroko to Suna no Machi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Reincarnated as a Son of an Aristocrat - Chapter 31</title>
-    <link>https://comick.app/comic/reincarnated-as-a-son-of-an-aristocrat</link>
-    <description>Chapter 31 of Reincarnated as a Son of an Aristocrat is now available on ComicK!</description>
 </item>
 
 </channel>
