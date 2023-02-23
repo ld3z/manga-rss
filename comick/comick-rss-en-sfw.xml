@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>The Most Beloved - Chapter 40</title>
+    <title>Majin Tensei: The True Remembrance - Chapter 20</title>
+    <link>https://comick.app/comic/majin-tensei-the-true-remembrance</link>
+    <description>Chapter 20 of Majin Tensei: The True Remembrance is now available on ComicK!</description>
+</item>
+<item>
+    <title>To Not Die - Chapter 73</title>
+    <link>https://comick.app/comic/to-not-die-2</link>
+    <description>Chapter 73 of To Not Die is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Most Beloved - Chapter 49</title>
     <link>https://comick.app/comic/the-most-beloved</link>
-    <description>Chapter 40 of The Most Beloved is now available on ComicK!</description>
+    <description>Chapter 49 of The Most Beloved is now available on ComicK!</description>
 </item>
 <item>
     <title>Tiger’s Descent - Chapter 38</title>
@@ -159,16 +169,6 @@
     <title>Rose Guns Days - Aishuu no Cross Knife - Chapter 5</title>
     <link>https://comick.app/comic/rose-guns-days-aishuu-no-cross-knife</link>
     <description>Chapter 5 of Rose Guns Days - Aishuu no Cross Knife is now available on ComicK!</description>
-</item>
-<item>
-    <title>Gakkou Gurashi! Otayori - Chapter 8</title>
-    <link>https://comick.app/comic/gakkou-gurashi-otayori</link>
-    <description>Chapter 8 of Gakkou Gurashi! Otayori is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kanojo ga Dekinai Onna - Chapter 6</title>
-    <link>https://comick.app/comic/kanojo-ga-dekinai-onna</link>
-    <description>Chapter 6 of Kanojo ga Dekinai Onna is now available on ComicK!</description>
 </item>
 
 </channel>
