@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Uma Musume: Cinderella Gray - Chapter 22</title>
+    <link>https://comick.app/comic/uma-musume-cinderella-gray</link>
+    <description>Chapter 22 of Uma Musume: Cinderella Gray is now available on ComicK!</description>
+</item>
+<item>
     <title>Bad Thinking Diary - Chapter 19</title>
     <link>https://comick.app/comic/bad-thinking-diary</link>
     <description>Chapter 19 of Bad Thinking Diary is now available on ComicK!</description>
@@ -244,11 +249,6 @@
     <title>Mo Shou Jian Sheng - Chapter 98</title>
     <link>https://comick.app/comic/mo-shou-jian-sheng-2</link>
     <description>Chapter 98 of Mo Shou Jian Sheng is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Great Ruler - Chapter 250</title>
-    <link>https://comick.app/comic/the-great-ruler-2</link>
-    <description>Chapter 250 of The Great Ruler is now available on ComicK!</description>
 </item>
 
 </channel>
