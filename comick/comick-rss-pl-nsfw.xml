@@ -6,14 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Secret Lady - Chapter 20</title>
+    <link>https://comick.app/comic/secret-lady-2</link>
+    <description>Chapter 20 of Secret Lady is now available on ComicK!</description>
+</item>
+<item>
     <title>Hoarding in Hell - Chapter 10</title>
     <link>https://comick.app/comic/hoarding-in-hell</link>
     <description>Chapter 10 of Hoarding in Hell is now available on ComicK!</description>
-</item>
-<item>
-    <title>Secret Lady - Chapter 17</title>
-    <link>https://comick.app/comic/secret-lady-2</link>
-    <description>Chapter 17 of Secret Lady is now available on ComicK!</description>
 </item>
 <item>
     <title>Dragon's Heaven - Chapter 2</title>
@@ -54,11 +54,6 @@
     <title>Mines and Monster Girls - Chapter 4</title>
     <link>https://comick.app/comic/mines-and-monster-girls</link>
     <description>Chapter 4 of Mines and Monster Girls is now available on ComicK!</description>
-</item>
-<item>
-    <title>Watashi no Oshi wa Akuyaku Reijou - Chapter 3</title>
-    <link>https://comick.app/comic/i-favor-the-villainess</link>
-    <description>Chapter 3 of Watashi no Oshi wa Akuyaku Reijou is now available on ComicK!</description>
 </item>
 
 </channel>
