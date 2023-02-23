@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>LBX Girls - Chapter 6</title>
+    <link>https://comick.app/comic/lbx-girls</link>
+    <description>Chapter 6 of LBX Girls is now available on ComicK!</description>
+</item>
+<item>
     <title>Light of the Dawn - Chapter 3</title>
     <link>https://comick.app/comic/light-of-the-dawn</link>
     <description>Chapter 3 of Light of the Dawn is now available on ComicK!</description>
@@ -49,11 +54,6 @@
     <title>The Last Human - Chapter 509</title>
     <link>https://comick.app/comic/the-last-human-2</link>
     <description>Chapter 509 of The Last Human is now available on ComicK!</description>
-</item>
-<item>
-    <title>LBX Girls - Chapter 5</title>
-    <link>https://comick.app/comic/lbx-girls</link>
-    <description>Chapter 5 of LBX Girls is now available on ComicK!</description>
 </item>
 <item>
     <title>I Picked Up This World's Strategy Guide! - Chapter 2.2</title>
@@ -294,11 +294,6 @@
     <title>X-Ray Vision - Chapter 297</title>
     <link>https://comick.app/comic/x-ray-vision</link>
     <description>Chapter 297 of X-Ray Vision is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Tyrant's Tranquilizer - Chapter 51</title>
-    <link>https://comick.app/comic/the-tyrant-s-tranquilizerqQ7O-2</link>
-    <description>Chapter 51 of The Tyrant's Tranquilizer is now available on ComicK!</description>
 </item>
 
 </channel>
