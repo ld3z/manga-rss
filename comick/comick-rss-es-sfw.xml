@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>THE iDOLM@STER - Million Live! - Chapter 1</title>
+    <link>https://comick.app/comic/the-i-dolm-ster-million-live</link>
+    <description>Chapter 1 of THE iDOLM@STER - Million Live! is now available on ComicK!</description>
+</item>
+<item>
     <title>Kakkou no Iinazuke - Chapter 146</title>
     <link>https://comick.app/comic/a-couple-of-cuckoos</link>
     <description>Chapter 146 of Kakkou no Iinazuke is now available on ComicK!</description>
@@ -179,11 +184,6 @@
     <title>Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru - Chapter 23</title>
     <link>https://comick.app/comic/kono-yuusha-ga-ore-tueee-kuse-ni-shinchou-sugiru</link>
     <description>Chapter 23 of Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru is now available on ComicK!</description>
-</item>
-<item>
-    <title>Sukinako ga Megane wo Wasureta - Pixiv Side Stories - Chapter 1</title>
-    <link>https://comick.app/comic/sukinako-ga-megane-wo-wasureta-pixiv-side-stories</link>
-    <description>Chapter 1 of Sukinako ga Megane wo Wasureta - Pixiv Side Stories is now available on ComicK!</description>
 </item>
 
 </channel>
