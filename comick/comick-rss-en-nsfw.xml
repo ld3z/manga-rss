@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Is This Hero for Real? - Chapter 65</title>
+    <title>Into The Horizon - Chapter 1</title>
+    <link>https://comick.app/comic/into-the-horizon</link>
+    <description>Chapter 1 of Into The Horizon is now available on ComicK!</description>
+</item>
+<item>
+    <title>BJ Archmage - Chapter 55</title>
+    <link>https://comick.app/comic/bj-archmage-2</link>
+    <description>Chapter 55 of BJ Archmage is now available on ComicK!</description>
+</item>
+<item>
+    <title>Is This Hero for Real? - Chapter 66</title>
     <link>https://comick.app/comic/is-this-hero-for-real</link>
-    <description>Chapter 65 of Is This Hero for Real? is now available on ComicK!</description>
+    <description>Chapter 66 of Is This Hero for Real? is now available on ComicK!</description>
 </item>
 <item>
     <title>Heroine wa Zetsubou shimashita - Chapter 58</title>
@@ -144,21 +154,6 @@
     <title>Gendai no Saikyou Heishi, Isekai Dungeon o Kouryaku Suru - Chapter 4</title>
     <link>https://comick.app/comic/the-modern-era-s-strongest-soldier-conquers-another-world-s-dungeon</link>
     <description>Chapter 4 of Gendai no Saikyou Heishi, Isekai Dungeon o Kouryaku Suru is now available on ComicK!</description>
-</item>
-<item>
-    <title>King's Proposal - Chapter 1</title>
-    <link>https://comick.app/comic/king-s-proposal</link>
-    <description>Chapter 1 of King's Proposal is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tonikaku Kawaii - Chapter 226</title>
-    <link>https://comick.app/comic/tonikaku-kawaii</link>
-    <description>Chapter 226 of Tonikaku Kawaii is now available on ComicK!</description>
-</item>
-<item>
-    <title>Beyond Myriad Peoples - Chapter 191</title>
-    <link>https://comick.app/comic/beyond-myriad-peoples-2</link>
-    <description>Chapter 191 of Beyond Myriad Peoples is now available on ComicK!</description>
 </item>
 
 </channel>
