@@ -6,14 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Rich Player - Chapter 29</title>
+    <link>https://comick.app/comic/rich-player-k06c27a0</link>
+    <description>Chapter 29 of Rich Player is now available on ComicK!</description>
+</item>
+<item>
     <title>Splatoon - Chapter 66</title>
     <link>https://comick.app/comic/splatoon</link>
     <description>Chapter 66 of Splatoon is now available on ComicK!</description>
-</item>
-<item>
-    <title>Rich Player - Chapter 27</title>
-    <link>https://comick.app/comic/rich-player-k06c27a0</link>
-    <description>Chapter 27 of Rich Player is now available on ComicK!</description>
 </item>
 <item>
     <title>Girls' Last Tour - Chapter 13</title>
@@ -244,11 +244,6 @@
     <title>PPPPPP - Chapter 69</title>
     <link>https://comick.app/comic/pppppp</link>
     <description>Chapter 69 of PPPPPP is now available on ComicK!</description>
-</item>
-<item>
-    <title>Yofukashi no Uta - Chapter 160</title>
-    <link>https://comick.app/comic/yofukashi-no-uta-jzw5b8dg</link>
-    <description>Chapter 160 of Yofukashi no Uta is now available on ComicK!</description>
 </item>
 
 </channel>

@@ -6,14 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Rich Player - Chapter 29</title>
+    <link>https://comick.app/comic/rich-player-k06c27a0</link>
+    <description>Chapter 29 of Rich Player is now available on ComicK!</description>
+</item>
+<item>
     <title>Splatoon - Chapter 66</title>
     <link>https://comick.app/comic/splatoon</link>
     <description>Chapter 66 of Splatoon is now available on ComicK!</description>
-</item>
-<item>
-    <title>Rich Player - Chapter 27</title>
-    <link>https://comick.app/comic/rich-player-k06c27a0</link>
-    <description>Chapter 27 of Rich Player is now available on ComicK!</description>
 </item>
 <item>
     <title>Girls' Last Tour - Chapter 13</title>
@@ -219,11 +219,6 @@
     <title>Ao no Hako - Chapter 75</title>
     <link>https://comick.app/comic/ao-no-hako3OH4</link>
     <description>Chapter 75 of Ao no Hako is now available on ComicK!</description>
-</item>
-<item>
-    <title>Sentai Daishikkaku - Chapter 84</title>
-    <link>https://comick.app/comic/ranger-reject</link>
-    <description>Chapter 84 of Sentai Daishikkaku is now available on ComicK!</description>
 </item>
 
 </channel>
