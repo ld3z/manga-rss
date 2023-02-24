@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Suki: A Like Story - Chapter 11</title>
+    <title>Girls Bravo - Chapter 1</title>
+    <link>https://comick.app/comic/girls-bravo</link>
+    <description>Chapter 1 of Girls Bravo is now available on ComicK!</description>
+</item>
+<item>
+    <title>Suki: A Like Story - Chapter 15</title>
     <link>https://comick.app/comic/suki-dakara-suki</link>
-    <description>Chapter 11 of Suki: A Like Story is now available on ComicK!</description>
+    <description>Chapter 15 of Suki: A Like Story is now available on ComicK!</description>
 </item>
 <item>
     <title>It Starts With A Mountain - Chapter 498</title>
@@ -74,11 +79,6 @@
     <title>X-Ray Vision (Revised Edition) - Chapter 297</title>
     <link>https://comick.app/comic/x-ray-vision-revised-edition-2</link>
     <description>Chapter 297 of X-Ray Vision (Revised Edition) is now available on ComicK!</description>
-</item>
-<item>
-    <title>Scummy Bandman Bocchi - Chapter 22</title>
-    <link>https://comick.app/comic/scummy-bandman-bocchi</link>
-    <description>Chapter 22 of Scummy Bandman Bocchi is now available on ComicK!</description>
 </item>
 
 </channel>
