@@ -6,14 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Suki: A Like Story - Chapter 11</title>
+    <link>https://comick.app/comic/suki-dakara-suki</link>
+    <description>Chapter 11 of Suki: A Like Story is now available on ComicK!</description>
+</item>
+<item>
+    <title>It Starts With A Mountain - Chapter 498</title>
+    <link>https://comick.app/comic/it-starts-with-a-mountain</link>
+    <description>Chapter 498 of It Starts With A Mountain is now available on ComicK!</description>
+</item>
+<item>
     <title>Orange Chocolate - Chapter 44.2</title>
     <link>https://comick.app/comic/orange-chocolate</link>
     <description>Chapter 44.2 of Orange Chocolate is now available on ComicK!</description>
-</item>
-<item>
-    <title>Suki: A Like Story - Chapter 1</title>
-    <link>https://comick.app/comic/suki-dakara-suki</link>
-    <description>Chapter 1 of Suki: A Like Story is now available on ComicK!</description>
 </item>
 <item>
     <title>The Dawn in Moscow - Chapter 78</title>
@@ -74,21 +79,6 @@
     <title>Scummy Bandman Bocchi - Chapter 22</title>
     <link>https://comick.app/comic/scummy-bandman-bocchi</link>
     <description>Chapter 22 of Scummy Bandman Bocchi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Fushigi no Kuni no Miyuki-chan - Chapter 5</title>
-    <link>https://comick.app/comic/fushigi-no-kuni-no-miyuki-chan</link>
-    <description>Chapter 5 of Fushigi no Kuni no Miyuki-chan is now available on ComicK!</description>
-</item>
-<item>
-    <title>2DK, G-pen, Alarm clock. - Chapter 29.5</title>
-    <link>https://comick.app/comic/2-dk-g-pen-alarm-clock</link>
-    <description>Chapter 29.5 of 2DK, G-pen, Alarm clock. is now available on ComicK!</description>
-</item>
-<item>
-    <title>FLCL - Chapter 7.2</title>
-    <link>https://comick.app/comic/flcl</link>
-    <description>Chapter 7.2 of FLCL is now available on ComicK!</description>
 </item>
 
 </channel>
