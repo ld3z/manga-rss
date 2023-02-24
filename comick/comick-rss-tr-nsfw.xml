@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Chi no Wadachi - Chapter 139</title>
+    <link>https://comick.app/comic/chi-no-wadachi</link>
+    <description>Chapter 139 of Chi no Wadachi is now available on ComicK!</description>
+</item>
+<item>
     <title>Kubo Won't Let Me Be Invisible - Chapter 143</title>
     <link>https://comick.app/comic/kubo-san-wa-boku-mobu-wo-yurusanai</link>
     <description>Chapter 143 of Kubo Won't Let Me Be Invisible is now available on ComicK!</description>
@@ -124,16 +129,6 @@
     <title>Day Off - Chapter 32</title>
     <link>https://comick.app/comic/day-off</link>
     <description>Chapter 32 of Day Off is now available on ComicK!</description>
-</item>
-<item>
-    <title>One Piece - Digital Colored Comics - Chapter 849</title>
-    <link>https://comick.app/comic/one-piece-digital-colored-comics</link>
-    <description>Chapter 849 of One Piece - Digital Colored Comics is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mihanada Pectolite - Chapter 5.5</title>
-    <link>https://comick.app/comic/mihanada-pectolite</link>
-    <description>Chapter 5.5 of Mihanada Pectolite is now available on ComicK!</description>
 </item>
 
 </channel>
