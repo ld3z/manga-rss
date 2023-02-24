@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Orange Chocolate - Chapter 44.2</title>
+    <link>https://comick.app/comic/orange-chocolate</link>
+    <description>Chapter 44.2 of Orange Chocolate is now available on ComicK!</description>
+</item>
+<item>
+    <title>Suki: A Like Story - Chapter 1</title>
+    <link>https://comick.app/comic/suki-dakara-suki</link>
+    <description>Chapter 1 of Suki: A Like Story is now available on ComicK!</description>
+</item>
+<item>
     <title>The Dawn in Moscow - Chapter 78</title>
     <link>https://comick.app/comic/the-dawn-in-moscow-2</link>
     <description>Chapter 78 of The Dawn in Moscow is now available on ComicK!</description>
@@ -79,21 +89,6 @@
     <title>FLCL - Chapter 7.2</title>
     <link>https://comick.app/comic/flcl</link>
     <description>Chapter 7.2 of FLCL is now available on ComicK!</description>
-</item>
-<item>
-    <title>Lu Bu's Life Story - Chapter 37</title>
-    <link>https://comick.app/comic/lu-bu-s-life-story</link>
-    <description>Chapter 37 of Lu Bu's Life Story is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Strongest Ever - Chapter 114</title>
-    <link>https://comick.app/comic/the-strongest-ever</link>
-    <description>Chapter 114 of The Strongest Ever is now available on ComicK!</description>
-</item>
-<item>
-    <title>Picked up From Another World - Chapter 86</title>
-    <link>https://comick.app/comic/i-picked-it-up-from-another-world</link>
-    <description>Chapter 86 of Picked up From Another World is now available on ComicK!</description>
 </item>
 
 </channel>
