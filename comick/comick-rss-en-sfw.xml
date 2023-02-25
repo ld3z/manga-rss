@@ -6,14 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Martial Peak - Chapter 3087</title>
-    <link>https://comick.app/comic/martial-peak-2</link>
-    <description>Chapter 3087 of Martial Peak is now available on ComicK!</description>
-</item>
-<item>
     <title>Scummy Bandman Bocchi - Chapter 22</title>
     <link>https://comick.app/comic/scummy-bandman-bocchi</link>
     <description>Chapter 22 of Scummy Bandman Bocchi is now available on ComicK!</description>
+</item>
+<item>
+    <title>Martial Peak - Chapter 3087</title>
+    <link>https://comick.app/comic/martial-peak-2</link>
+    <description>Chapter 3087 of Martial Peak is now available on ComicK!</description>
 </item>
 <item>
     <title>Kono Kaisha ni Suki na Hito ga Imasu - Chapter 63</title>
@@ -194,11 +194,6 @@
     <title>Swallowed Star - Chapter 178</title>
     <link>https://comick.app/comic/swallowed-star-2</link>
     <description>Chapter 178 of Swallowed Star is now available on ComicK!</description>
-</item>
-<item>
-    <title>Starting From Today I'll Work as a City Lord - Chapter 411</title>
-    <link>https://comick.app/comic/starting-from-today-i-ll-work-as-a-city-lord-2</link>
-    <description>Chapter 411 of Starting From Today I'll Work as a City Lord is now available on ComicK!</description>
 </item>
 
 </channel>
