@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Splatoon - Chapter 68</title>
+    <link>https://comick.app/comic/splatoon</link>
+    <description>Chapter 68 of Splatoon is now available on ComicK!</description>
+</item>
+<item>
     <title>Land of the Lustrous - Chapter 100</title>
     <link>https://comick.app/comic/houseki-no-kuni</link>
     <description>Chapter 100 of Land of the Lustrous is now available on ComicK!</description>
@@ -44,11 +49,6 @@
     <title>Subaru to Suu-san - Chapter 12</title>
     <link>https://comick.app/comic/subaru-to-suu-san</link>
     <description>Chapter 12 of Subaru to Suu-san is now available on ComicK!</description>
-</item>
-<item>
-    <title>Splatoon - Chapter 67</title>
-    <link>https://comick.app/comic/splatoon</link>
-    <description>Chapter 67 of Splatoon is now available on ComicK!</description>
 </item>
 <item>
     <title>It's Over! The Queen's Soft Rice Husband is Actually Invincible - Chapter 16</title>
@@ -209,11 +209,6 @@
     <title>Bless - Chapter 7</title>
     <link>https://comick.app/comic/blessr0V4</link>
     <description>Chapter 7 of Bless is now available on ComicK!</description>
-</item>
-<item>
-    <title>Gachiakuta - Chapter 44</title>
-    <link>https://comick.app/comic/gachiakuta</link>
-    <description>Chapter 44 of Gachiakuta is now available on ComicK!</description>
 </item>
 
 </channel>
