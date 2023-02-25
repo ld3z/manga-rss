@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Fuufu Ijou, Koibito Miman. - Chapter 12</title>
+    <link>https://comick.app/comic/fuufu-ijou-koibito-miman</link>
+    <description>Chapter 12 of Fuufu Ijou, Koibito Miman. is now available on ComicK!</description>
+</item>
+<item>
     <title>Record of Ragnarok - Chapter 75</title>
     <link>https://comick.app/comic/shuumatsu-no-valkyrie</link>
     <description>Chapter 75 of Record of Ragnarok is now available on ComicK!</description>
@@ -156,11 +161,6 @@
     <description>Chapter 21 of Hiota no Kanojo ga Ore no Motteru Eroge ni Kyoumi Shinshin Nanda ga...... is now available on ComicK!</description>
 </item>
 <item>
-    <title>Fuufu Ijou, Koibito Miman. - Chapter 11</title>
-    <link>https://comick.app/comic/fuufu-ijou-koibito-miman</link>
-    <description>Chapter 11 of Fuufu Ijou, Koibito Miman. is now available on ComicK!</description>
-</item>
-<item>
     <title>Cheerful Amnesia - Chapter 29</title>
     <link>https://comick.app/comic/cheerful-amnesia</link>
     <description>Chapter 29 of Cheerful Amnesia is now available on ComicK!</description>
@@ -219,11 +219,6 @@
     <title>The Hero and the Master - Chapter None</title>
     <link>https://comick.app/comic/the-hero-and-his-master</link>
     <description>Chapter None of The Hero and the Master is now available on ComicK!</description>
-</item>
-<item>
-    <title>[Oshi no Ko] - Chapter 109</title>
-    <link>https://comick.app/comic/oshi-no-ko</link>
-    <description>Chapter 109 of [Oshi no Ko] is now available on ComicK!</description>
 </item>
 
 </channel>

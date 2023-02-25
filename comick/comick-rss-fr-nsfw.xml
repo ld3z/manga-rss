@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Fuufu Ijou, Koibito Miman. - Chapter 12</title>
+    <link>https://comick.app/comic/fuufu-ijou-koibito-miman</link>
+    <description>Chapter 12 of Fuufu Ijou, Koibito Miman. is now available on ComicK!</description>
+</item>
+<item>
     <title>Record of Ragnarok - Chapter 75</title>
     <link>https://comick.app/comic/shuumatsu-no-valkyrie</link>
     <description>Chapter 75 of Record of Ragnarok is now available on ComicK!</description>
@@ -176,11 +181,6 @@
     <description>Chapter 32 of Kanojo no Kagi wo Akeru Houhou is now available on ComicK!</description>
 </item>
 <item>
-    <title>Fuufu Ijou, Koibito Miman. - Chapter 11</title>
-    <link>https://comick.app/comic/fuufu-ijou-koibito-miman</link>
-    <description>Chapter 11 of Fuufu Ijou, Koibito Miman. is now available on ComicK!</description>
-</item>
-<item>
     <title>Cheerful Amnesia - Chapter 29</title>
     <link>https://comick.app/comic/cheerful-amnesia</link>
     <description>Chapter 29 of Cheerful Amnesia is now available on ComicK!</description>
@@ -209,11 +209,6 @@
     <title>Kanojo mo Kanojo - Chapter 133</title>
     <link>https://comick.app/comic/kanojo-mo-kanojo</link>
     <description>Chapter 133 of Kanojo mo Kanojo is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bless - Chapter 7</title>
-    <link>https://comick.app/comic/blessr0V4</link>
-    <description>Chapter 7 of Bless is now available on ComicK!</description>
 </item>
 
 </channel>
