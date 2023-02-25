@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Yankee-kun to Megane-chan - Chapter 0.2</title>
+    <link>https://comick.app/comic/yankee-kun-to-megane-chan</link>
+    <description>Chapter 0.2 of Yankee-kun to Megane-chan is now available on ComicK!</description>
+</item>
+<item>
     <title>Slam Dunk! - Chapter 170</title>
     <link>https://comick.app/comic/slam-dunk</link>
     <description>Chapter 170 of Slam Dunk! is now available on ComicK!</description>
@@ -51,11 +56,6 @@
     <description>Chapter 11 of Hoarding in Hell is now available on ComicK!</description>
 </item>
 <item>
-    <title>Yankee-kun to Megane-chan - Chapter 1</title>
-    <link>https://comick.app/comic/yankee-kun-to-megane-chan</link>
-    <description>Chapter 1 of Yankee-kun to Megane-chan is now available on ComicK!</description>
-</item>
-<item>
     <title>Vagabond - Chapter 122</title>
     <link>https://comick.app/comic/vagabond</link>
     <description>Chapter 122 of Vagabond is now available on ComicK!</description>
@@ -74,41 +74,6 @@
     <title>My Childhood Friend Became an Obsessive Husband - Chapter 5</title>
     <link>https://comick.app/comic/my-childhood-friend-became-an-obsessive-husband</link>
     <description>Chapter 5 of My Childhood Friend Became an Obsessive Husband is now available on ComicK!</description>
-</item>
-<item>
-    <title>Wendy the Florist - Chapter 45</title>
-    <link>https://comick.app/comic/wendy-the-florist</link>
-    <description>Chapter 45 of Wendy the Florist is now available on ComicK!</description>
-</item>
-<item>
-    <title>Secret Lady - Chapter 20</title>
-    <link>https://comick.app/comic/secret-lady-2</link>
-    <description>Chapter 20 of Secret Lady is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dragon's Heaven - Chapter 2</title>
-    <link>https://comick.app/comic/dragon-s-heaven</link>
-    <description>Chapter 2 of Dragon's Heaven is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Perfect Ending for the Villainess of a Fairy Tale - Chapter 17</title>
-    <link>https://comick.app/comic/the-perfect-ending-for-the-villainess-of-a-fairy-tale-2</link>
-    <description>Chapter 17 of The Perfect Ending for the Villainess of a Fairy Tale is now available on ComicK!</description>
-</item>
-<item>
-    <title>Heat and Love - Chapter 9</title>
-    <link>https://comick.app/comic/heat-and-love</link>
-    <description>Chapter 9 of Heat and Love is now available on ComicK!</description>
-</item>
-<item>
-    <title>Can We Become a Family? - Chapter 1</title>
-    <link>https://comick.app/comic/can-we-become-a-family-2</link>
-    <description>Chapter 1 of Can We Become a Family? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Wan Gu Shen Wang - Chapter 111</title>
-    <link>https://comick.app/comic/wan-gu-shen-wang-2</link>
-    <description>Chapter 111 of Wan Gu Shen Wang is now available on ComicK!</description>
 </item>
 
 </channel>
