@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Bleach - Digital Colored Comics - Chapter 86</title>
+    <link>https://comick.app/comic/bleach-digital-colored-comics</link>
+    <description>Chapter 86 of Bleach - Digital Colored Comics is now available on ComicK!</description>
+</item>
+<item>
     <title>Gourmet Gaming - Chapter 129</title>
     <link>https://comick.app/comic/leveling-up-by-only-eating-2</link>
     <description>Chapter 129 of Gourmet Gaming is now available on ComicK!</description>
@@ -134,11 +139,6 @@
     <title>Detective Conan - Chapter 1109</title>
     <link>https://comick.app/comic/detective-conan</link>
     <description>Chapter 1109 of Detective Conan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Level Up with the Gods - Chapter 20</title>
-    <link>https://comick.app/comic/leveling-up-with-the-gods-2</link>
-    <description>Chapter 20 of Level Up with the Gods is now available on ComicK!</description>
 </item>
 
 </channel>

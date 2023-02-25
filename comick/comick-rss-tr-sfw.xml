@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Tomo-chan wa Onna no ko! - Chapter 805</title>
+    <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
+    <description>Chapter 805 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
+</item>
+<item>
     <title>Wind Breaker - Chapter 119</title>
     <link>https://comick.app/comic/wind-breaker-2</link>
     <description>Chapter 119 of Wind Breaker is now available on ComicK!</description>
@@ -119,26 +124,6 @@
     <title>Nausicaä of the Valley of the Wind - Chapter 10</title>
     <link>https://comick.app/comic/kaze-no-tani-no-nausicaae</link>
     <description>Chapter 10 of Nausicaä of the Valley of the Wind is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mikadono Sanshimai wa Angai, Choroi - Chapter 15</title>
-    <link>https://comick.app/comic/mikadono-sanshimai-wa-angai-choroi</link>
-    <description>Chapter 15 of Mikadono Sanshimai wa Angai, Choroi is now available on ComicK!</description>
-</item>
-<item>
-    <title>REAL - Chapter 28</title>
-    <link>https://comick.app/comic/real</link>
-    <description>Chapter 28 of REAL is now available on ComicK!</description>
-</item>
-<item>
-    <title>Aho-Girl - Chapter 19</title>
-    <link>https://comick.app/comic/aho-girl</link>
-    <description>Chapter 19 of Aho-Girl is now available on ComicK!</description>
-</item>
-<item>
-    <title>Day Off - Chapter 32</title>
-    <link>https://comick.app/comic/day-off</link>
-    <description>Chapter 32 of Day Off is now available on ComicK!</description>
 </item>
 
 </channel>
