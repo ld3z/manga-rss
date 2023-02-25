@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Bocchi the Rock! - Chapter 51</title>
+    <link>https://comick.app/comic/bocchi-the-rock</link>
+    <description>Chapter 51 of Bocchi the Rock! is now available on ComicK!</description>
+</item>
+<item>
     <title>Raise wa Tanin ga Ii - Chapter 7</title>
     <link>https://comick.app/comic/raise-wa-tanin-ga-ii</link>
     <description>Chapter 7 of Raise wa Tanin ga Ii is now available on ComicK!</description>
@@ -124,11 +129,6 @@
     <title>Chainsaw Man - Chapter 121</title>
     <link>https://comick.app/comic/chainsaw-man</link>
     <description>Chapter 121 of Chainsaw Man is now available on ComicK!</description>
-</item>
-<item>
-    <title>Detective Conan - Chapter 1109</title>
-    <link>https://comick.app/comic/detective-conan</link>
-    <description>Chapter 1109 of Detective Conan is now available on ComicK!</description>
 </item>
 
 </channel>

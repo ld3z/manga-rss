@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Bocchi the Rock! - Chapter 51</title>
+    <link>https://comick.app/comic/bocchi-the-rock</link>
+    <description>Chapter 51 of Bocchi the Rock! is now available on ComicK!</description>
+</item>
+<item>
     <title>Raise wa Tanin ga Ii - Chapter 7</title>
     <link>https://comick.app/comic/raise-wa-tanin-ga-ii</link>
     <description>Chapter 7 of Raise wa Tanin ga Ii is now available on ComicK!</description>
@@ -134,11 +139,6 @@
     <title>Solo Spell Caster - Chapter 3</title>
     <link>https://comick.app/comic/solo-spell-caster-2</link>
     <description>Chapter 3 of Solo Spell Caster is now available on ComicK!</description>
-</item>
-<item>
-    <title>Nano Hazard - Chapter 1</title>
-    <link>https://comick.app/comic/nano-hazard-jybqsrak</link>
-    <description>Chapter 1 of Nano Hazard is now available on ComicK!</description>
 </item>
 
 </channel>
