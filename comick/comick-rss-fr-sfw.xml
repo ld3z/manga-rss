@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kannagi - Chapter 52</title>
+    <link>https://comick.app/comic/kannagi</link>
+    <description>Chapter 52 of Kannagi is now available on ComicK!</description>
+</item>
+<item>
     <title>Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai - Chapter 79</title>
     <link>https://comick.app/comic/kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai</link>
     <description>Chapter 79 of Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai is now available on ComicK!</description>
@@ -209,21 +214,6 @@
     <title>Ao no Hako - Chapter 75</title>
     <link>https://comick.app/comic/ao-no-hako3OH4</link>
     <description>Chapter 75 of Ao no Hako is now available on ComicK!</description>
-</item>
-<item>
-    <title>Sentai Daishikkaku - Chapter 84</title>
-    <link>https://comick.app/comic/ranger-reject</link>
-    <description>Chapter 84 of Sentai Daishikkaku is now available on ComicK!</description>
-</item>
-<item>
-    <title>Thousand Year Dream - Chapter None</title>
-    <link>https://comick.app/comic/thousand-year-dream</link>
-    <description>Chapter None of Thousand Year Dream is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kouritsu-Chuu Madoushi, Daini no Jinsei de Madou wo Kiwameru - Chapter 43</title>
-    <link>https://comick.app/comic/kouritsu-chuu-madoushi-daini-no-jinsei-de-madou-wo-kiwameru</link>
-    <description>Chapter 43 of Kouritsu-Chuu Madoushi, Daini no Jinsei de Madou wo Kiwameru is now available on ComicK!</description>
 </item>
 
 </channel>
