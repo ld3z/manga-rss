@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Glass Wall - Chapter 6</title>
+    <link>https://comick.app/comic/glass-wall</link>
+    <description>Chapter 6 of Glass Wall is now available on ComicK!</description>
+</item>
+<item>
+    <title>[Oshi no Ko] - Chapter 109</title>
+    <link>https://comick.app/comic/oshi-no-ko</link>
+    <description>Chapter 109 of [Oshi no Ko] is now available on ComicK!</description>
+</item>
+<item>
     <title>99 Degrees Fahrenheit - Chapter 1</title>
     <link>https://comick.app/comic/99-degrees-fahrenheit-2</link>
     <description>Chapter 1 of 99 Degrees Fahrenheit is now available on ComicK!</description>
@@ -49,21 +59,6 @@
     <title>The Newbie is Too Strong - Chapter 24</title>
     <link>https://comick.app/comic/the-newbie-is-too-strong-2</link>
     <description>Chapter 24 of The Newbie is Too Strong is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Tyrant Wants to Live a Virtuous Life - Chapter 1</title>
-    <link>https://comick.app/comic/the-tyrant-wants-to-live-a-virtuous-life</link>
-    <description>Chapter 1 of The Tyrant Wants to Live a Virtuous Life is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Villainess Is a Marionette - Chapter 63</title>
-    <link>https://comick.app/comic/the-villainess-is-a-marionette-2</link>
-    <description>Chapter 63 of The Villainess Is a Marionette is now available on ComicK!</description>
-</item>
-<item>
-    <title>I've Become a True Villainess - Chapter 0</title>
-    <link>https://comick.app/comic/i-ve-become-a-true-villainess-2</link>
-    <description>Chapter 0 of I've Become a True Villainess is now available on ComicK!</description>
 </item>
 
 </channel>
