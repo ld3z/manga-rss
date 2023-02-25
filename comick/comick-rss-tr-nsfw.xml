@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Wind Breaker - Chapter 119</title>
+    <link>https://comick.app/comic/wind-breaker-2</link>
+    <description>Chapter 119 of Wind Breaker is now available on ComicK!</description>
+</item>
+<item>
     <title>One Piece - Digital Colored Comics - Chapter 850</title>
     <link>https://comick.app/comic/one-piece-digital-colored-comics</link>
     <description>Chapter 850 of One Piece - Digital Colored Comics is now available on ComicK!</description>
@@ -129,11 +134,6 @@
     <title>Mikadono Sanshimai wa Angai, Choroi - Chapter 15</title>
     <link>https://comick.app/comic/mikadono-sanshimai-wa-angai-choroi</link>
     <description>Chapter 15 of Mikadono Sanshimai wa Angai, Choroi is now available on ComicK!</description>
-</item>
-<item>
-    <title>REAL - Chapter 28</title>
-    <link>https://comick.app/comic/real</link>
-    <description>Chapter 28 of REAL is now available on ComicK!</description>
 </item>
 
 </channel>
