@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Zombie Fight - Chapter 18</title>
+    <link>https://comick.app/comic/zombie-fight</link>
+    <description>Chapter 18 of Zombie Fight is now available on ComicK!</description>
+</item>
+<item>
     <title>Kannagi - Chapter 52</title>
     <link>https://comick.app/comic/kannagi</link>
     <description>Chapter 52 of Kannagi is now available on ComicK!</description>
@@ -209,11 +214,6 @@
     <title>Yancha Gal no Anjou-san - Chapter 143</title>
     <link>https://comick.app/comic/yancha-gal-no-anjou-san</link>
     <description>Chapter 143 of Yancha Gal no Anjou-san is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ao no Hako - Chapter 75</title>
-    <link>https://comick.app/comic/ao-no-hako3OH4</link>
-    <description>Chapter 75 of Ao no Hako is now available on ComicK!</description>
 </item>
 
 </channel>
