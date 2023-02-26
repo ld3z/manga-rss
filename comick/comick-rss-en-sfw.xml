@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Vampires - Chapter 23</title>
+    <link>https://comick.app/comic/vampire</link>
+    <description>Chapter 23 of Vampires is now available on ComicK!</description>
+</item>
+<item>
+    <title>Dragon Ball After (Doujinshi) - Chapter 9</title>
+    <link>https://comick.app/comic/dragon-ball-after-doujinshi</link>
+    <description>Chapter 9 of Dragon Ball After (Doujinshi) is now available on ComicK!</description>
+</item>
+<item>
     <title>Rainbow Prelude - Chapter 3</title>
     <link>https://comick.app/comic/rainbow-prelude</link>
     <description>Chapter 3 of Rainbow Prelude is now available on ComicK!</description>
@@ -239,11 +249,6 @@
     <title>Journey To The West - Chapter 131.5</title>
     <link>https://comick.app/comic/journey-to-the-west</link>
     <description>Chapter 131.5 of Journey To The West is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Magic Chef of Ice and Fire - Chapter 105</title>
-    <link>https://comick.app/comic/the-magic-chef-of-ice-and-fire-2</link>
-    <description>Chapter 105 of The Magic Chef of Ice and Fire is now available on ComicK!</description>
 </item>
 
 </channel>
