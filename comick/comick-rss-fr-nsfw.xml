@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Chronicles of a Returner - Chapter 16</title>
+    <title>I Obtained a Mythic Item - Chapter 23</title>
+    <link>https://comick.app/comic/i-obtained-a-mythic-item</link>
+    <description>Chapter 23 of I Obtained a Mythic Item is now available on ComicK!</description>
+</item>
+<item>
+    <title>Chronicles of a Returner - Chapter 34</title>
     <link>https://comick.app/comic/chronicles-of-a-returner</link>
-    <description>Chapter 16 of Chronicles of a Returner is now available on ComicK!</description>
+    <description>Chapter 34 of Chronicles of a Returner is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Demon Lord Levels Up With Martial Arts - Chapter 1</title>
+    <link>https://comick.app/comic/demon-lord-s-martial-arts-ascension</link>
+    <description>Chapter 1 of The Demon Lord Levels Up With Martial Arts is now available on ComicK!</description>
+</item>
+<item>
+    <title>Usogui - Chapter 126</title>
+    <link>https://comick.app/comic/usogui</link>
+    <description>Chapter 126 of Usogui is now available on ComicK!</description>
 </item>
 <item>
     <title>Kouritsu-Chuu Madoushi, Daini no Jinsei de Madou wo Kiwameru - Chapter None</title>
@@ -89,26 +104,6 @@
     <title>Rebirth: City Deity - Chapter 63</title>
     <link>https://comick.app/comic/rebirth-city-deity</link>
     <description>Chapter 63 of Rebirth: City Deity is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ys - Chapter 1.1</title>
-    <link>https://comick.app/comic/ys</link>
-    <description>Chapter 1.1 of Ys is now available on ComicK!</description>
-</item>
-<item>
-    <title>Splatoon - Chapter 69</title>
-    <link>https://comick.app/comic/splatoon</link>
-    <description>Chapter 69 of Splatoon is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Lady Wants to Rest - Chapter 56</title>
-    <link>https://comick.app/comic/the-lady-wants-to-rest-2</link>
-    <description>Chapter 56 of The Lady Wants to Rest is now available on ComicK!</description>
-</item>
-<item>
-    <title>Glass Wall - Chapter 1</title>
-    <link>https://comick.app/comic/glass-wall</link>
-    <description>Chapter 1 of Glass Wall is now available on ComicK!</description>
 </item>
 
 </channel>
