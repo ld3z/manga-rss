@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Evolution Begins With a Big Tree - Chapter 28</title>
+    <title>Korogaru Kyoudai - Chapter 14</title>
+    <link>https://comick.app/comic/korogaru-kyoudai</link>
+    <description>Chapter 14 of Korogaru Kyoudai is now available on ComicK!</description>
+</item>
+<item>
+    <title>Evolution Begins With a Big Tree - Chapter 3</title>
     <link>https://comick.app/comic/evolution-begins-with-a-big-tree</link>
-    <description>Chapter 28 of Evolution Begins With a Big Tree is now available on ComicK!</description>
+    <description>Chapter 3 of Evolution Begins With a Big Tree is now available on ComicK!</description>
+</item>
+<item>
+    <title>Hyouge Mono - Chapter 231</title>
+    <link>https://comick.app/comic/hyouge-mono</link>
+    <description>Chapter 231 of Hyouge Mono is now available on ComicK!</description>
+</item>
+<item>
+    <title>Legend of Asura - The Venom Dragon - Chapter 122</title>
+    <link>https://comick.app/comic/legend-of-asura-the-venom-dragon</link>
+    <description>Chapter 122 of Legend of Asura - The Venom Dragon is now available on ComicK!</description>
 </item>
 <item>
     <title>Marriage of Convenience - Chapter 71</title>
@@ -144,21 +159,6 @@
     <title>Eleceed - Chapter 234</title>
     <link>https://comick.app/comic/eleceed-2</link>
     <description>Chapter 234 of Eleceed is now available on ComicK!</description>
-</item>
-<item>
-    <title>LESSA - Servant of Cosmos - Chapter 67</title>
-    <link>https://comick.app/comic/lessa-servant-of-cosmos</link>
-    <description>Chapter 67 of LESSA - Servant of Cosmos is now available on ComicK!</description>
-</item>
-<item>
-    <title>A Big Shot Actually - Chapter 66</title>
-    <link>https://comick.app/comic/a-big-shot-actually-2</link>
-    <description>Chapter 66 of A Big Shot Actually is now available on ComicK!</description>
-</item>
-<item>
-    <title>Spoiled Medical Princess: The  Legend of Alkaid - Chapter 66</title>
-    <link>https://comick.app/comic/spoiled-medical-princess-legend-of-yaoguang-2</link>
-    <description>Chapter 66 of Spoiled Medical Princess: The  Legend of Alkaid is now available on ComicK!</description>
 </item>
 
 </channel>
