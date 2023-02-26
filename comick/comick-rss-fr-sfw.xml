@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ys - Chapter 1.1</title>
+    <link>https://comick.app/comic/ys</link>
+    <description>Chapter 1.1 of Ys is now available on ComicK!</description>
+</item>
+<item>
     <title>Sunshine and Bright Stars - Chapter 31</title>
     <link>https://comick.app/comic/sunshine-and-bright-stars</link>
     <description>Chapter 31 of Sunshine and Bright Stars is now available on ComicK!</description>
@@ -64,11 +69,6 @@
     <title>The Dark Magician Transmigrates After 66666 Years - Chapter 65</title>
     <link>https://comick.app/comic/the-dark-magician-transmigrates-after-66666-years-2</link>
     <description>Chapter 65 of The Dark Magician Transmigrates After 66666 Years is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Newbie is Too Strong - Chapter 24</title>
-    <link>https://comick.app/comic/the-newbie-is-too-strong-2</link>
-    <description>Chapter 24 of The Newbie is Too Strong is now available on ComicK!</description>
 </item>
 
 </channel>
