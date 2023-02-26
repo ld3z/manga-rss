@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Love Thy Neighbor - Chapter 2</title>
+    <title>Reincarnation Coliseum - Chapter 5</title>
+    <link>https://comick.app/comic/reincarnation-coliseum</link>
+    <description>Chapter 5 of Reincarnation Coliseum is now available on ComicK!</description>
+</item>
+<item>
+    <title>Love Thy Neighbor - Chapter 3</title>
     <link>https://comick.app/comic/love-thy-neighborJPAH</link>
-    <description>Chapter 2 of Love Thy Neighbor is now available on ComicK!</description>
+    <description>Chapter 3 of Love Thy Neighbor is now available on ComicK!</description>
+</item>
+<item>
+    <title>Danberu Nan Kiro Moteru? - Chapter 171</title>
+    <link>https://comick.app/comic/danberu-nan-kiro-moteru</link>
+    <description>Chapter 171 of Danberu Nan Kiro Moteru? is now available on ComicK!</description>
 </item>
 <item>
     <title>Heaven Official's Blessing - Chapter 87</title>
@@ -364,16 +374,6 @@
     <title>My Observational Diary of Elena Evoy - Chapter 88</title>
     <link>https://comick.app/comic/my-observational-diary-of-elena-evoy-2</link>
     <description>Chapter 88 of My Observational Diary of Elena Evoy is now available on ComicK!</description>
-</item>
-<item>
-    <title>Yajin Tensei: Karate Survivor in Another World - Chapter 32</title>
-    <link>https://comick.app/comic/yajin-tensei-karate-survivor-in-another-world</link>
-    <description>Chapter 32 of Yajin Tensei: Karate Survivor in Another World is now available on ComicK!</description>
-</item>
-<item>
-    <title>Doro no Bunzai de Watashi dake no Taisetsu wo Ubaouda Nante - Chapter 1</title>
-    <link>https://comick.app/comic/doro-no-bunzai-de-watashi-dake-no-taisetsu-wo-ubaouda-nante</link>
-    <description>Chapter 1 of Doro no Bunzai de Watashi dake no Taisetsu wo Ubaouda Nante is now available on ComicK!</description>
 </item>
 
 </channel>
