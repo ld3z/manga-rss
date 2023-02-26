@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Wind Breaker - Chapter 120</title>
+    <link>https://comick.app/comic/wind-breaker-2</link>
+    <description>Chapter 120 of Wind Breaker is now available on ComicK!</description>
+</item>
+<item>
     <title>Gambling Outcast Kaiji - Kaiji Part 3 - Chapter 124</title>
     <link>https://comick.app/comic/tobaku-datenroku-kaiji</link>
     <description>Chapter 124 of Gambling Outcast Kaiji - Kaiji Part 3 is now available on ComicK!</description>
@@ -14,11 +19,6 @@
     <title>Tomo-chan wa Onna no ko! - Chapter 841</title>
     <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
     <description>Chapter 841 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Wind Breaker - Chapter 119</title>
-    <link>https://comick.app/comic/wind-breaker-2</link>
-    <description>Chapter 119 of Wind Breaker is now available on ComicK!</description>
 </item>
 <item>
     <title>One Piece - Digital Colored Comics - Chapter 850</title>
@@ -84,11 +84,6 @@
     <title>Sweet Blue Flowers - Chapter 36</title>
     <link>https://comick.app/comic/aoi-hana</link>
     <description>Chapter 36 of Sweet Blue Flowers is now available on ComicK!</description>
-</item>
-<item>
-    <title>Okane ga Nai - Chapter 74</title>
-    <link>https://comick.app/comic/okane-ga-nai-1</link>
-    <description>Chapter 74 of Okane ga Nai is now available on ComicK!</description>
 </item>
 
 </channel>
