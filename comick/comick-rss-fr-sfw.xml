@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kubo Won't Let Me Be Invisible - Chapter 140</title>
+    <link>https://comick.app/comic/kubo-san-wa-boku-mobu-wo-yurusanai</link>
+    <description>Chapter 140 of Kubo Won't Let Me Be Invisible is now available on ComicK!</description>
+</item>
+<item>
     <title>PPPPPP - Chapter 70</title>
     <link>https://comick.app/comic/pppppp</link>
     <description>Chapter 70 of PPPPPP is now available on ComicK!</description>
@@ -69,11 +74,6 @@
     <title>[Oshi no Ko] - Chapter 109</title>
     <link>https://comick.app/comic/oshi-no-ko</link>
     <description>Chapter 109 of [Oshi no Ko] is now available on ComicK!</description>
-</item>
-<item>
-    <title>99 Degrees Fahrenheit - Chapter 1</title>
-    <link>https://comick.app/comic/99-degrees-fahrenheit-2</link>
-    <description>Chapter 1 of 99 Degrees Fahrenheit is now available on ComicK!</description>
 </item>
 
 </channel>
