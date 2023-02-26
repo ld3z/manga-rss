@@ -6,9 +6,44 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>I Will Just Stick to the Protagonist - Chapter 1</title>
+    <title>Berserk of Gluttony - Chapter 1</title>
+    <link>https://comick.app/comic/berserk-of-gluttony</link>
+    <description>Chapter 1 of Berserk of Gluttony is now available on ComicK!</description>
+</item>
+<item>
+    <title>I Will Just Stick to the Protagonist - Chapter 4</title>
     <link>https://comick.app/comic/i-will-just-stick-to-the-protagonist</link>
-    <description>Chapter 1 of I Will Just Stick to the Protagonist is now available on ComicK!</description>
+    <description>Chapter 4 of I Will Just Stick to the Protagonist is now available on ComicK!</description>
+</item>
+<item>
+    <title>Autophagy Regulation - Chapter 341</title>
+    <link>https://comick.app/comic/autophagy-regulation-2</link>
+    <description>Chapter 341 of Autophagy Regulation is now available on ComicK!</description>
+</item>
+<item>
+    <title>Getsuyoubi no Soratobu Orange. - Chapter 1</title>
+    <link>https://comick.app/comic/getsuyoubi-no-soratobu-orange</link>
+    <description>Chapter 1 of Getsuyoubi no Soratobu Orange. is now available on ComicK!</description>
+</item>
+<item>
+    <title>Yubisaki to Renren - Chapter 33</title>
+    <link>https://comick.app/comic/yubisaki-to-renren-jyr3lyyp</link>
+    <description>Chapter 33 of Yubisaki to Renren is now available on ComicK!</description>
+</item>
+<item>
+    <title>Ochikobore Datta Ani ga Jitsuha Saikyou - Chapter 11</title>
+    <link>https://comick.app/comic/ochikobore-datta-ani-ga-jitsuha-saikyou-shijou-saikyou-no-yuusha-wa-tensei-shi-gakuen-de-mujikaku-ni-musou-suru</link>
+    <description>Chapter 11 of Ochikobore Datta Ani ga Jitsuha Saikyou is now available on ComicK!</description>
+</item>
+<item>
+    <title>Boushoku no Berserk - Ore dake Level to Iu Gainen wo Toppa shite Saikyou - Chapter 7</title>
+    <link>https://comick.app/comic/boushoku-no-berserk-ore-dake-level-to-iu-gainen-wo-toppa-shite-saikyou</link>
+    <description>Chapter 7 of Boushoku no Berserk - Ore dake Level to Iu Gainen wo Toppa shite Saikyou is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kanojo no Sore ni Yarareteru - Chapter 2</title>
+    <link>https://comick.app/comic/kanojo-no-sore-ni-yarareteru</link>
+    <description>Chapter 2 of Kanojo no Sore ni Yarareteru is now available on ComicK!</description>
 </item>
 <item>
     <title>Isekai de Nonbiri Iyashi te Hajimemasu - Chapter 14</title>
@@ -309,51 +344,6 @@
     <title>Yajin Tensei: Karate Survivor in Another World - Chapter 18</title>
     <link>https://comick.app/comic/yajin-tensei-karate-survivor-in-another-world</link>
     <description>Chapter 18 of Yajin Tensei: Karate Survivor in Another World is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Deskmate Alya Sometimes Hides Her Feelings in Russian - Chapter 11</title>
-    <link>https://comick.app/comic/my-deskmate-alya-sometimes-hides-her-feelings-in-russian</link>
-    <description>Chapter 11 of My Deskmate Alya Sometimes Hides Her Feelings in Russian is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ore ga Watashi ni Naru made - Chapter 35</title>
-    <link>https://comick.app/comic/ore-ga-watashi-ni-naru-made-jz6hd5pc</link>
-    <description>Chapter 35 of Ore ga Watashi ni Naru made is now available on ComicK!</description>
-</item>
-<item>
-    <title>Rebirth of the Urban Immortal Cultivator - Chapter 868</title>
-    <link>https://comick.app/comic/rebirth-of-the-urban-immortal-cultivator-2</link>
-    <description>Chapter 868 of Rebirth of the Urban Immortal Cultivator is now available on ComicK!</description>
-</item>
-<item>
-    <title>Danberu Nan Kiro Moteru? - Chapter 171</title>
-    <link>https://comick.app/comic/danberu-nan-kiro-moteru</link>
-    <description>Chapter 171 of Danberu Nan Kiro Moteru? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Heaven Official's Blessing - Chapter 87</title>
-    <link>https://comick.app/comic/heaven-official-s-blessing-k6xaqqbz-2</link>
-    <description>Chapter 87 of Heaven Official's Blessing is now available on ComicK!</description>
-</item>
-<item>
-    <title>A Girl Whose Dark Circles in Her Eyes Disappear as the Story Progresses - Chapter 9</title>
-    <link>https://comick.app/comic/a-girl-whose-dark-circles-in-her-eyes-disappear-as-the-story-progresses</link>
-    <description>Chapter 9 of A Girl Whose Dark Circles in Her Eyes Disappear as the Story Progresses is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hirayasumi - Chapter 44</title>
-    <link>https://comick.app/comic/hirayasumi</link>
-    <description>Chapter 44 of Hirayasumi is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Decide My Husband - Chapter 20</title>
-    <link>https://comick.app/comic/i-decide-my-husband</link>
-    <description>Chapter 20 of I Decide My Husband is now available on ComicK!</description>
-</item>
-<item>
-    <title>Strange Tales of Kisaragi - Chapter 1</title>
-    <link>https://comick.app/comic/strange-tales-of-kisaragi</link>
-    <description>Chapter 1 of Strange Tales of Kisaragi is now available on ComicK!</description>
 </item>
 
 </channel>
