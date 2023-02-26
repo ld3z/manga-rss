@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Hikaru no Go - Chapter 185</title>
+    <title>Utopia of Homosexuality - Chapter 7</title>
+    <link>https://comick.app/comic/utopia-of-homosexuality</link>
+    <description>Chapter 7 of Utopia of Homosexuality is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kill the Villainess - Chapter 4</title>
+    <link>https://comick.app/comic/kill-the-villainess-2</link>
+    <description>Chapter 4 of Kill the Villainess is now available on ComicK!</description>
+</item>
+<item>
+    <title>Hikaru no Go - Chapter 189.2</title>
     <link>https://comick.app/comic/hikaru-no-go</link>
-    <description>Chapter 185 of Hikaru no Go is now available on ComicK!</description>
+    <description>Chapter 189.2 of Hikaru no Go is now available on ComicK!</description>
 </item>
 <item>
     <title>Ice Lamp - The Chronicles of Kira - Chapter 2</title>
@@ -89,21 +99,6 @@
     <title>The Reverent Saint, Luo Wuji - Chapter 56</title>
     <link>https://comick.app/comic/the-reverent-saint-luo-wuji</link>
     <description>Chapter 56 of The Reverent Saint, Luo Wuji is now available on ComicK!</description>
-</item>
-<item>
-    <title>A Girl in the Clouds - Chapter 2</title>
-    <link>https://comick.app/comic/a-girl-in-the-clouds</link>
-    <description>Chapter 2 of A Girl in the Clouds is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Duchess Has a Deathwish - Chapter 34</title>
-    <link>https://comick.app/comic/eu-sou-a-vila-posso-morre-2</link>
-    <description>Chapter 34 of The Duchess Has a Deathwish is now available on ComicK!</description>
-</item>
-<item>
-    <title>Sekirara ni Kiss - Chapter 24</title>
-    <link>https://comick.app/comic/sekirara-ni-kiss</link>
-    <description>Chapter 24 of Sekirara ni Kiss is now available on ComicK!</description>
 </item>
 
 </channel>
