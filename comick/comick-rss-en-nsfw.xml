@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Tale of Samjang - Chapter 4</title>
+    <link>https://comick.app/comic/the-tale-of-samjang</link>
+    <description>Chapter 4 of The Tale of Samjang is now available on ComicK!</description>
+</item>
+<item>
     <title>Troll Trap - Chapter 98</title>
     <link>https://comick.app/comic/troll-trap</link>
     <description>Chapter 98 of Troll Trap is now available on ComicK!</description>
@@ -339,11 +344,6 @@
     <title>Astoria Activate - Chapter 1</title>
     <link>https://comick.app/comic/astoria-activate</link>
     <description>Chapter 1 of Astoria Activate is now available on ComicK!</description>
-</item>
-<item>
-    <title>Queen's Academy - Chapter 7</title>
-    <link>https://comick.app/comic/queen-s-academy</link>
-    <description>Chapter 7 of Queen's Academy is now available on ComicK!</description>
 </item>
 
 </channel>
