@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>EDENS ZERO - Chapter 227</title>
+    <link>https://comick.app/comic/edens-zero</link>
+    <description>Chapter 227 of EDENS ZERO is now available on ComicK!</description>
+</item>
+<item>
     <title>Dominate the Three Realms - Chapter 63</title>
     <link>https://comick.app/comic/dominate-the-three-realms</link>
     <description>Chapter 63 of Dominate the Three Realms is now available on ComicK!</description>
@@ -69,11 +74,6 @@
     <title>Into the Rose Garden - Chapter 6</title>
     <link>https://comick.app/comic/into-the-rose-garden</link>
     <description>Chapter 6 of Into the Rose Garden is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ice Lamp - The Chronicles of Kira - Chapter 8</title>
-    <link>https://comick.app/comic/an-ice-lamp-chronicles-of-gira-2</link>
-    <description>Chapter 8 of Ice Lamp - The Chronicles of Kira is now available on ComicK!</description>
 </item>
 
 </channel>
