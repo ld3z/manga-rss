@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kanojo mo Kanojo - Chapter 134</title>
+    <link>https://comick.app/comic/kanojo-mo-kanojo</link>
+    <description>Chapter 134 of Kanojo mo Kanojo is now available on ComicK!</description>
+</item>
+<item>
     <title>Blue Period - Chapter 52</title>
     <link>https://comick.app/comic/blue-period</link>
     <description>Chapter 52 of Blue Period is now available on ComicK!</description>
@@ -249,11 +254,6 @@
     <title>Heaven's Devourer - Chapter 5</title>
     <link>https://comick.app/comic/heaven-s-devourer</link>
     <description>Chapter 5 of Heaven's Devourer is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Disciples Are All Big Villains - Chapter 37</title>
-    <link>https://comick.app/comic/my-disciples-are-all-big-villains</link>
-    <description>Chapter 37 of My Disciples Are All Big Villains is now available on ComicK!</description>
 </item>
 
 </channel>
