@@ -6,6 +6,26 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Yaiba! - Chapter 163</title>
+    <link>https://comick.app/comic/yaiba</link>
+    <description>Chapter 163 of Yaiba! is now available on ComicK!</description>
+</item>
+<item>
+    <title>ZomGan - Chapter 37</title>
+    <link>https://comick.app/comic/zom-gan</link>
+    <description>Chapter 37 of ZomGan is now available on ComicK!</description>
+</item>
+<item>
+    <title>A Grandcross Story - Chapter 19</title>
+    <link>https://comick.app/comic/a-grandcross-story</link>
+    <description>Chapter 19 of A Grandcross Story is now available on ComicK!</description>
+</item>
+<item>
+    <title>Who Killed the Murim Lord? - Chapter 31</title>
+    <link>https://comick.app/comic/who-killed-the-murim-lord</link>
+    <description>Chapter 31 of Who Killed the Murim Lord? is now available on ComicK!</description>
+</item>
+<item>
     <title>Yumeotica - Chapter 4</title>
     <link>https://comick.app/comic/yumeotiga</link>
     <description>Chapter 4 of Yumeotica is now available on ComicK!</description>
@@ -289,16 +309,6 @@
     <title>Nancheng Waits for the Moon - Chapter 121</title>
     <link>https://comick.app/comic/nancheng-waits-for-the-moon</link>
     <description>Chapter 121 of Nancheng Waits for the Moon is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hajime no Ippo - Chapter 1413</title>
-    <link>https://comick.app/comic/hajime-no-ippo</link>
-    <description>Chapter 1413 of Hajime no Ippo is now available on ComicK!</description>
-</item>
-<item>
-    <title>Seishun no Hekireki - Chapter 5</title>
-    <link>https://comick.app/comic/seishun-no-hekireki</link>
-    <description>Chapter 5 of Seishun no Hekireki is now available on ComicK!</description>
 </item>
 
 </channel>
