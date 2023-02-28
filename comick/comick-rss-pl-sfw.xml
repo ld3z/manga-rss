@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Vagabond - Chapter 123</title>
+    <link>https://comick.app/comic/vagabond</link>
+    <description>Chapter 123 of Vagabond is now available on ComicK!</description>
+</item>
+<item>
     <title>Mercenary Enrollment - Chapter 110</title>
     <link>https://comick.app/comic/mercenary-enrollment-2</link>
     <description>Chapter 110 of Mercenary Enrollment is now available on ComicK!</description>
@@ -79,11 +84,6 @@
     <title>A Girl in the Clouds - Chapter 3</title>
     <link>https://comick.app/comic/a-girl-in-the-clouds</link>
     <description>Chapter 3 of A Girl in the Clouds is now available on ComicK!</description>
-</item>
-<item>
-    <title>Lips on the Tip of a Knife - Chapter 10</title>
-    <link>https://comick.app/comic/lips-on-the-tip-of-a-knife</link>
-    <description>Chapter 10 of Lips on the Tip of a Knife is now available on ComicK!</description>
 </item>
 
 </channel>
