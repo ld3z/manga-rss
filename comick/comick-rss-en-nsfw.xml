@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Mushroom Hero - Chapter 91</title>
+    <link>https://comick.app/comic/mushroom-brave</link>
+    <description>Chapter 91 of Mushroom Hero is now available on ComicK!</description>
+</item>
+<item>
     <title>Yuukoku no Moriarty - Chapter 76.5</title>
     <link>https://comick.app/comic/moriarty-the-patriot</link>
     <description>Chapter 76.5 of Yuukoku no Moriarty is now available on ComicK!</description>
@@ -51,9 +56,9 @@
     <description>Chapter 18 of Stay With Me is now available on ComicK!</description>
 </item>
 <item>
-    <title>Imouto ni Kiiteminai to - Chapter 8</title>
+    <title>Imouto ni Kiiteminai to - Chapter 6</title>
     <link>https://comick.app/comic/imouto-ni-kiiteminai-to</link>
-    <description>Chapter 8 of Imouto ni Kiiteminai to is now available on ComicK!</description>
+    <description>Chapter 6 of Imouto ni Kiiteminai to is now available on ComicK!</description>
 </item>
 <item>
     <title>FX Senshi Kurumi-chan - Chapter 10</title>
@@ -364,11 +369,6 @@
     <title>Extraordinary Son-in-Law - Chapter 135</title>
     <link>https://comick.app/comic/extraordinary-son-in-law</link>
     <description>Chapter 135 of Extraordinary Son-in-Law is now available on ComicK!</description>
-</item>
-<item>
-    <title>Swing!! - Chapter 16</title>
-    <link>https://comick.app/comic/swing</link>
-    <description>Chapter 16 of Swing!! is now available on ComicK!</description>
 </item>
 
 </channel>
