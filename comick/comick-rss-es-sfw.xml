@@ -6,14 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Neon Genesis Evangelion - Chapter 10</title>
+    <link>https://comick.app/comic/shin-seiki-evangelion</link>
+    <description>Chapter 10 of Neon Genesis Evangelion is now available on ComicK!</description>
+</item>
+<item>
     <title>Kakkou no Iinazuke - Chapter 147</title>
     <link>https://comick.app/comic/a-couple-of-cuckoos</link>
     <description>Chapter 147 of Kakkou no Iinazuke is now available on ComicK!</description>
-</item>
-<item>
-    <title>Neon Genesis Evangelion - Chapter 9</title>
-    <link>https://comick.app/comic/shin-seiki-evangelion</link>
-    <description>Chapter 9 of Neon Genesis Evangelion is now available on ComicK!</description>
 </item>
 <item>
     <title>I Became the Madam of the House - Chapter 1</title>
@@ -174,11 +174,6 @@
     <title>Ramia-Yana - Chapter 8.3</title>
     <link>https://comick.app/comic/ramia-yana</link>
     <description>Chapter 8.3 of Ramia-Yana is now available on ComicK!</description>
-</item>
-<item>
-    <title>Inkya Datta Ore no Seishun Revenge - Tenshi sugiru Ano Ko wa Ayumu Re Life - Chapter 1</title>
-    <link>https://comick.app/comic/the-revenge-of-my-youth-my-re-life-with-a-girl-who-was-too-much-of-an-angel</link>
-    <description>Chapter 1 of Inkya Datta Ore no Seishun Revenge - Tenshi sugiru Ano Ko wa Ayumu Re Life is now available on ComicK!</description>
 </item>
 
 </channel>
