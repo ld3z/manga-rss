@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>High School! Kimengumi - Chapter 8</title>
+    <link>https://comick.app/comic/high-school-kimengumi</link>
+    <description>Chapter 8 of High School! Kimengumi is now available on ComicK!</description>
+</item>
+<item>
     <title>Ukyo no Ozora - Chapter 23</title>
     <link>https://comick.app/comic/ukyo-no-ozora</link>
     <description>Chapter 23 of Ukyo no Ozora is now available on ComicK!</description>
@@ -254,11 +259,6 @@
     <title>Goddess Creation System - Chapter 412</title>
     <link>https://comick.app/comic/goddess-creation-system-2</link>
     <description>Chapter 412 of Goddess Creation System is now available on ComicK!</description>
-</item>
-<item>
-    <title>Cultivation Chat Group - Chapter 518</title>
-    <link>https://comick.app/comic/cultivation-chat-group-2</link>
-    <description>Chapter 518 of Cultivation Chat Group is now available on ComicK!</description>
 </item>
 
 </channel>

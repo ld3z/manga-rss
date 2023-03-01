@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>High School! Kimengumi - Chapter 8</title>
+    <link>https://comick.app/comic/high-school-kimengumi</link>
+    <description>Chapter 8 of High School! Kimengumi is now available on ComicK!</description>
+</item>
+<item>
     <title>Ukyo no Ozora - Chapter 23</title>
     <link>https://comick.app/comic/ukyo-no-ozora</link>
     <description>Chapter 23 of Ukyo no Ozora is now available on ComicK!</description>
@@ -244,11 +249,6 @@
     <title>Seaside Town Diary - Chapter 8</title>
     <link>https://comick.app/comic/umimachi-diary</link>
     <description>Chapter 8 of Seaside Town Diary is now available on ComicK!</description>
-</item>
-<item>
-    <title>How to Tame Your Beast Husbands - Chapter 66</title>
-    <link>https://comick.app/comic/how-to-tame-your-beast-husbands-2</link>
-    <description>Chapter 66 of How to Tame Your Beast Husbands is now available on ComicK!</description>
 </item>
 
 </channel>
