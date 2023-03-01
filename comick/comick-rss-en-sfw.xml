@@ -6,9 +6,34 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>I Return from the Heavens and Worlds - Chapter 117</title>
+    <title>I'm Mortal - Chapter 3</title>
+    <link>https://comick.app/comic/i-m-mortal</link>
+    <description>Chapter 3 of I'm Mortal is now available on ComicK!</description>
+</item>
+<item>
+    <title>Temple of Heaven - Chapter 4</title>
+    <link>https://comick.app/comic/temple-of-heaven</link>
+    <description>Chapter 4 of Temple of Heaven is now available on ComicK!</description>
+</item>
+<item>
+    <title>I Return from the Heavens and Worlds - Chapter 155</title>
     <link>https://comick.app/comic/i-return-from-the-heavens-and-worlds</link>
-    <description>Chapter 117 of I Return from the Heavens and Worlds is now available on ComicK!</description>
+    <description>Chapter 155 of I Return from the Heavens and Worlds is now available on ComicK!</description>
+</item>
+<item>
+    <title>Tales of Crestoria - Chapter 8.5</title>
+    <link>https://comick.app/comic/tales-of-crestoria</link>
+    <description>Chapter 8.5 of Tales of Crestoria is now available on ComicK!</description>
+</item>
+<item>
+    <title>Phoenix Against the World - Chapter 487</title>
+    <link>https://comick.app/comic/phoenix-against-the-world-2</link>
+    <description>Chapter 487 of Phoenix Against the World is now available on ComicK!</description>
+</item>
+<item>
+    <title>Peerlessly Carefree - Chapter 437</title>
+    <link>https://comick.app/comic/peerlessly-carefree-2</link>
+    <description>Chapter 437 of Peerlessly Carefree is now available on ComicK!</description>
 </item>
 <item>
     <title>Eternal First Son-In-Law - Chapter 285</title>
@@ -29,11 +54,6 @@
     <title>The First Sequence - Chapter 60</title>
     <link>https://comick.app/comic/the-first-sequence</link>
     <description>Chapter 60 of The First Sequence is now available on ComicK!</description>
-</item>
-<item>
-    <title>I don't know what I don't Know - Chapter None</title>
-    <link>https://comick.app/comic/i-don-t-know-what-i-don-t-know</link>
-    <description>Chapter None of I don't know what I don't Know is now available on ComicK!</description>
 </item>
 
 </channel>
