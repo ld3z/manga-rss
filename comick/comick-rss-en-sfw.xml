@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>The Supreme System - Chapter 9</title>
+    <title>The Supreme System - Chapter 26</title>
     <link>https://comick.app/comic/the-supreme-system-2</link>
-    <description>Chapter 9 of The Supreme System is now available on ComicK!</description>
+    <description>Chapter 26 of The Supreme System is now available on ComicK!</description>
+</item>
+<item>
+    <title>Ai ga Shinu no wa Kimi no sei - Chapter 27</title>
+    <link>https://comick.app/comic/ai-ga-shinu-no-wa-kimi-no-sei</link>
+    <description>Chapter 27 of Ai ga Shinu no wa Kimi no sei is now available on ComicK!</description>
 </item>
 <item>
     <title>19 Days - Chapter 420</title>
@@ -29,11 +34,6 @@
     <title>Bungou Stray Dogs - Chapter 106</title>
     <link>https://comick.app/comic/bungo-stray-dogs</link>
     <description>Chapter 106 of Bungou Stray Dogs is now available on ComicK!</description>
-</item>
-<item>
-    <title>Killing Killer - Chapter 30</title>
-    <link>https://comick.app/comic/killing-killer</link>
-    <description>Chapter 30 of Killing Killer is now available on ComicK!</description>
 </item>
 
 </channel>
