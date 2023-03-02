@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Trigun - Chapter 9</title>
+    <link>https://comick.app/comic/trigun</link>
+    <description>Chapter 9 of Trigun is now available on ComicK!</description>
+</item>
+<item>
     <title>Wind Breaker - Chapter 122</title>
     <link>https://comick.app/comic/wind-breaker-2</link>
     <description>Chapter 122 of Wind Breaker is now available on ComicK!</description>
@@ -89,11 +94,6 @@
     <title>Junjou Romantica - Chapter 101</title>
     <link>https://comick.app/comic/junjou-romantica</link>
     <description>Chapter 101 of Junjou Romantica is now available on ComicK!</description>
-</item>
-<item>
-    <title>Sweet Blue Flowers - Chapter 36</title>
-    <link>https://comick.app/comic/aoi-hana</link>
-    <description>Chapter 36 of Sweet Blue Flowers is now available on ComicK!</description>
 </item>
 
 </channel>
