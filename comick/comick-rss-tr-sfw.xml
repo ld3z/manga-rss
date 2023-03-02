@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kubo Won't Let Me Be Invisible - Chapter 144</title>
+    <link>https://comick.app/comic/kubo-san-wa-boku-mobu-wo-yurusanai</link>
+    <description>Chapter 144 of Kubo Won't Let Me Be Invisible is now available on ComicK!</description>
+</item>
+<item>
     <title>Trigun - Chapter 9</title>
     <link>https://comick.app/comic/trigun</link>
     <description>Chapter 9 of Trigun is now available on ComicK!</description>
@@ -56,11 +61,6 @@
     <description>Chapter 139 of Chi no Wadachi is now available on ComicK!</description>
 </item>
 <item>
-    <title>Kubo Won't Let Me Be Invisible - Chapter 143</title>
-    <link>https://comick.app/comic/kubo-san-wa-boku-mobu-wo-yurusanai</link>
-    <description>Chapter 143 of Kubo Won't Let Me Be Invisible is now available on ComicK!</description>
-</item>
-<item>
     <title>19 Days - Chapter 416.6</title>
     <link>https://comick.app/comic/19-tian</link>
     <description>Chapter 416.6 of 19 Days is now available on ComicK!</description>
@@ -89,11 +89,6 @@
     <title>Romance of the Three Kingdoms (YOKOYAMA Mitsuteru) - Chapter 167</title>
     <link>https://comick.app/comic/sangokushi</link>
     <description>Chapter 167 of Romance of the Three Kingdoms (YOKOYAMA Mitsuteru) is now available on ComicK!</description>
-</item>
-<item>
-    <title>Junjou Romantica - Chapter 101</title>
-    <link>https://comick.app/comic/junjou-romantica</link>
-    <description>Chapter 101 of Junjou Romantica is now available on ComicK!</description>
 </item>
 
 </channel>
