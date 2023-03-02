@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Nakamura-san, the Uninvited Gyaru - Chapter 1</title>
+    <link>https://comick.app/comic/nakamura-san-the-uninvited-gyaru</link>
+    <description>Chapter 1 of Nakamura-san, the Uninvited Gyaru is now available on ComicK!</description>
+</item>
+<item>
+    <title>Sijin - Chapter 305</title>
+    <link>https://comick.app/comic/sijin</link>
+    <description>Chapter 305 of Sijin is now available on ComicK!</description>
+</item>
+<item>
     <title>IDOL×IDOL STORY! - Chapter 6.1</title>
     <link>https://comick.app/comic/idol-idol-story</link>
     <description>Chapter 6.1 of IDOL×IDOL STORY! is now available on ComicK!</description>
@@ -49,11 +59,6 @@
     <title>Rikudou - Chapter 216</title>
     <link>https://comick.app/comic/rikudou</link>
     <description>Chapter 216 of Rikudou is now available on ComicK!</description>
-</item>
-<item>
-    <title>Telework Yotabanashi - Chapter 15</title>
-    <link>https://comick.app/comic/telework-yotabanashi</link>
-    <description>Chapter 15 of Telework Yotabanashi is now available on ComicK!</description>
 </item>
 
 </channel>
