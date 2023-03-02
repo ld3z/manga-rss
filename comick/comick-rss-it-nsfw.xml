@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Taisho Maiden Fairytale - Chapter 2</title>
+    <link>https://comick.app/comic/taishou-otome-otogibanashi</link>
+    <description>Chapter 2 of Taisho Maiden Fairytale is now available on ComicK!</description>
+</item>
+<item>
     <title>Shimeji Simulation - Chapter 8</title>
     <link>https://comick.app/comic/shimeji-simulation</link>
     <description>Chapter 8 of Shimeji Simulation is now available on ComicK!</description>
@@ -199,11 +204,6 @@
     <title>Uzaki-chan Wants to Hang Out! - Chapter 75</title>
     <link>https://comick.app/comic/uzaki-chan-wa-asobitai</link>
     <description>Chapter 75 of Uzaki-chan Wants to Hang Out! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hajimete no Gal - Chapter 52</title>
-    <link>https://comick.app/comic/hajimete-no-gal</link>
-    <description>Chapter 52 of Hajimete no Gal is now available on ComicK!</description>
 </item>
 
 </channel>
