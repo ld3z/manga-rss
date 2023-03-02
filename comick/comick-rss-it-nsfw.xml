@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Shimeji Simulation - Chapter 9</title>
+    <link>https://comick.app/comic/shimeji-simulation</link>
+    <description>Chapter 9 of Shimeji Simulation is now available on ComicK!</description>
+</item>
+<item>
     <title>A Galaxy Next Door - Chapter 7</title>
     <link>https://comick.app/comic/the-galaxy-next-door</link>
     <description>Chapter 7 of A Galaxy Next Door is now available on ComicK!</description>
@@ -14,11 +19,6 @@
     <title>Taisho Maiden Fairytale - Chapter 2</title>
     <link>https://comick.app/comic/taishou-otome-otogibanashi</link>
     <description>Chapter 2 of Taisho Maiden Fairytale is now available on ComicK!</description>
-</item>
-<item>
-    <title>Shimeji Simulation - Chapter 8</title>
-    <link>https://comick.app/comic/shimeji-simulation</link>
-    <description>Chapter 8 of Shimeji Simulation is now available on ComicK!</description>
 </item>
 <item>
     <title>Love Thy Neighbor - Chapter 5</title>
@@ -199,11 +199,6 @@
     <title>Boku to Majo ni Tsuite no Bibouroku - Chapter 18</title>
     <link>https://comick.app/comic/boku-to-majo-ni-tsuite-no-bibouroku</link>
     <description>Chapter 18 of Boku to Majo ni Tsuite no Bibouroku is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tomodachi o Tsukurou. - Chapter 24</title>
-    <link>https://comick.app/comic/tomodachi-o-tsukurou</link>
-    <description>Chapter 24 of Tomodachi o Tsukurou. is now available on ComicK!</description>
 </item>
 
 </channel>
