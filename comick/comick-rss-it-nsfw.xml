@@ -6,14 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Shimeji Simulation - Chapter 10</title>
+    <link>https://comick.app/comic/shimeji-simulation</link>
+    <description>Chapter 10 of Shimeji Simulation is now available on ComicK!</description>
+</item>
+<item>
     <title>Chainsaw Man - Digital Colored Comics - Chapter 41</title>
     <link>https://comick.app/comic/chainsaw-man-digital-colored-comics</link>
     <description>Chapter 41 of Chainsaw Man - Digital Colored Comics is now available on ComicK!</description>
-</item>
-<item>
-    <title>Shimeji Simulation - Chapter 9</title>
-    <link>https://comick.app/comic/shimeji-simulation</link>
-    <description>Chapter 9 of Shimeji Simulation is now available on ComicK!</description>
 </item>
 <item>
     <title>A Galaxy Next Door - Chapter 7</title>
@@ -194,11 +194,6 @@
     <title>Unbalance Triangle - Chapter 48</title>
     <link>https://comick.app/comic/unbalance-triangle</link>
     <description>Chapter 48 of Unbalance Triangle is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hotaru no Yomeiri - Chapter 1</title>
-    <link>https://comick.app/comic/hotaru-no-yomeiri</link>
-    <description>Chapter 1 of Hotaru no Yomeiri is now available on ComicK!</description>
 </item>
 
 </channel>
