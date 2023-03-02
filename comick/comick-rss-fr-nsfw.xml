@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>[Oshi no Ko] - Chapter 110</title>
+    <link>https://comick.app/comic/oshi-no-ko</link>
+    <description>Chapter 110 of [Oshi no Ko] is now available on ComicK!</description>
+</item>
+<item>
     <title>Kanojo mo Kanojo - Chapter 134</title>
     <link>https://comick.app/comic/kanojo-mo-kanojo</link>
     <description>Chapter 134 of Kanojo mo Kanojo is now available on ComicK!</description>
@@ -49,11 +54,6 @@
     <title>Kubo Won't Let Me Be Invisible - Chapter 144</title>
     <link>https://comick.app/comic/kubo-san-wa-boku-mobu-wo-yurusanai</link>
     <description>Chapter 144 of Kubo Won't Let Me Be Invisible is now available on ComicK!</description>
-</item>
-<item>
-    <title>[Oshi no Ko] - Chapter 110</title>
-    <link>https://comick.app/comic/oshi-no-ko</link>
-    <description>Chapter 110 of [Oshi no Ko] is now available on ComicK!</description>
 </item>
 <item>
     <title>Useless Wizard - Chapter 16</title>
