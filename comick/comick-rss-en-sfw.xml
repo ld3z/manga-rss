@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Jesus - Chapter 32</title>
+    <link>https://comick.app/comic/jesus</link>
+    <description>Chapter 32 of Jesus is now available on ComicK!</description>
+</item>
+<item>
     <title>Paladin Dad - Chapter 13</title>
     <link>https://comick.app/comic/paladin8MXz</link>
     <description>Chapter 13 of Paladin Dad is now available on ComicK!</description>
@@ -194,11 +199,6 @@
     <title>Temple of Heaven - Chapter 5</title>
     <link>https://comick.app/comic/temple-of-heaven</link>
     <description>Chapter 5 of Temple of Heaven is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Emperor Reverses Time - Chapter 100</title>
-    <link>https://comick.app/comic/the-emperor-reverses-time</link>
-    <description>Chapter 100 of The Emperor Reverses Time is now available on ComicK!</description>
 </item>
 
 </channel>
