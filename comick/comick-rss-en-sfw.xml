@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Roulette World - Chapter 129</title>
+    <title>Girl and Science - Chapter 309</title>
+    <link>https://comick.app/comic/girl-and-science-2</link>
+    <description>Chapter 309 of Girl and Science is now available on ComicK!</description>
+</item>
+<item>
+    <title>Hokuo Kizoku to Moukinzuma no Yukiguni Karigurashi - Chapter 80</title>
+    <link>https://comick.app/comic/hokuou-kizoku-to-moukinzuma-no-yukiguni-karigurashi</link>
+    <description>Chapter 80 of Hokuo Kizoku to Moukinzuma no Yukiguni Karigurashi is now available on ComicK!</description>
+</item>
+<item>
+    <title>Roulette World - Chapter 131</title>
     <link>https://comick.app/comic/roulette-world</link>
-    <description>Chapter 129 of Roulette World is now available on ComicK!</description>
+    <description>Chapter 131 of Roulette World is now available on ComicK!</description>
 </item>
 <item>
     <title>Musuko ga Kawaikute Shikataganai Mazoku no Hahaoya - Chapter 189</title>
@@ -64,11 +74,6 @@
     <title>I'm Mortal - Chapter 4</title>
     <link>https://comick.app/comic/i-m-mortal</link>
     <description>Chapter 4 of I'm Mortal is now available on ComicK!</description>
-</item>
-<item>
-    <title>Invasion Of The Moonlight - Chapter 4</title>
-    <link>https://comick.app/comic/invasion-of-the-moonlight</link>
-    <description>Chapter 4 of Invasion Of The Moonlight is now available on ComicK!</description>
 </item>
 
 </channel>
