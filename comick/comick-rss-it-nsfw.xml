@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>My Life as Inukai-san's Dog - Chapter 12</title>
+    <link>https://comick.app/comic/my-life-as-inukai-san-s-dog</link>
+    <description>Chapter 12 of My Life as Inukai-san's Dog is now available on ComicK!</description>
+</item>
+<item>
     <title>LV999 no Murabito - Chapter 42</title>
     <link>https://comick.app/comic/l-v999-no-murabito</link>
     <description>Chapter 42 of LV999 no Murabito is now available on ComicK!</description>
@@ -74,11 +79,6 @@
     <title>Mercenary Enrollment - Chapter 124</title>
     <link>https://comick.app/comic/mercenary-enrollment-2</link>
     <description>Chapter 124 of Mercenary Enrollment is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Life as Inukai-san's Dog - Chapter 10</title>
-    <link>https://comick.app/comic/my-life-as-inukai-san-s-dog</link>
-    <description>Chapter 10 of My Life as Inukai-san's Dog is now available on ComicK!</description>
 </item>
 <item>
     <title>Uma Musume: Cinderella Gray - Chapter 94</title>
@@ -199,11 +199,6 @@
     <title>Dai Tokyo Oniyome-den - Chapter 23</title>
     <link>https://comick.app/comic/dai-tokyo-oniyome-den</link>
     <description>Chapter 23 of Dai Tokyo Oniyome-den is now available on ComicK!</description>
-</item>
-<item>
-    <title>Please Put These On, Takamine-san - Chapter 14</title>
-    <link>https://comick.app/comic/please-put-these-on-takamine-san</link>
-    <description>Chapter 14 of Please Put These On, Takamine-san is now available on ComicK!</description>
 </item>
 
 </channel>
