@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>LV999 no Murabito - Chapter 42</title>
+    <link>https://comick.app/comic/l-v999-no-murabito</link>
+    <description>Chapter 42 of LV999 no Murabito is now available on ComicK!</description>
+</item>
+<item>
     <title>Uzaki-chan Wants to Hang Out! - Chapter 76</title>
     <link>https://comick.app/comic/uzaki-chan-wa-asobitai</link>
     <description>Chapter 76 of Uzaki-chan Wants to Hang Out! is now available on ComicK!</description>
@@ -199,11 +204,6 @@
     <title>Please Put These On, Takamine-san - Chapter 14</title>
     <link>https://comick.app/comic/please-put-these-on-takamine-san</link>
     <description>Chapter 14 of Please Put These On, Takamine-san is now available on ComicK!</description>
-</item>
-<item>
-    <title>Super Cub - Chapter 14</title>
-    <link>https://comick.app/comic/super-cub</link>
-    <description>Chapter 14 of Super Cub is now available on ComicK!</description>
 </item>
 
 </channel>
