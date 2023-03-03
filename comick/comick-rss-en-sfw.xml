@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Orange Chocolate - Chapter 46.2</title>
+    <link>https://comick.app/comic/orange-chocolate</link>
+    <description>Chapter 46.2 of Orange Chocolate is now available on ComicK!</description>
+</item>
+<item>
     <title>Shen Yin Wang Zuo - Chapter 217</title>
     <link>https://comick.app/comic/shen-yin-wang-zuo</link>
     <description>Chapter 217 of Shen Yin Wang Zuo is now available on ComicK!</description>
@@ -129,11 +134,6 @@
     <title>Embrace My Shadow - Chapter 345</title>
     <link>https://comick.app/comic/embrace-my-shadow</link>
     <description>Chapter 345 of Embrace My Shadow is now available on ComicK!</description>
-</item>
-<item>
-    <title>I'm an Evil God - Chapter 322</title>
-    <link>https://comick.app/comic/i-m-an-evil-god-2</link>
-    <description>Chapter 322 of I'm an Evil God is now available on ComicK!</description>
 </item>
 
 </channel>
