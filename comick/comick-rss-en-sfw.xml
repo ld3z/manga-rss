@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kurumida-senpai no Guttara Kawaii Himitsu - Chapter 2</title>
+    <link>https://comick.app/comic/kurumida-senpai-no-guttara-kawaii-himitsu</link>
+    <description>Chapter 2 of Kurumida-senpai no Guttara Kawaii Himitsu is now available on ComicK!</description>
+</item>
+<item>
+    <title>The Flag Bearing Warrior - Chapter 11</title>
+    <link>https://comick.app/comic/the-flag-bearing-warrior</link>
+    <description>Chapter 11 of The Flag Bearing Warrior is now available on ComicK!</description>
+</item>
+<item>
     <title>My Sister Is A Superstar - Chapter 89</title>
     <link>https://comick.app/comic/my-sister-is-a-superstar</link>
     <description>Chapter 89 of My Sister Is A Superstar is now available on ComicK!</description>
@@ -309,21 +319,6 @@
     <title>City Hunter - Chapter None</title>
     <link>https://comick.app/comic/city-hunter</link>
     <description>Chapter None of City Hunter is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bomber Girl - Chapter None</title>
-    <link>https://comick.app/comic/bomber-girl</link>
-    <description>Chapter None of Bomber Girl is now available on ComicK!</description>
-</item>
-<item>
-    <title>Grappler Baki - Chapter None</title>
-    <link>https://comick.app/comic/grappler-baki</link>
-    <description>Chapter None of Grappler Baki is now available on ComicK!</description>
-</item>
-<item>
-    <title>Fist of the Blue Sky - Chapter None</title>
-    <link>https://comick.app/comic/souten-no-ken</link>
-    <description>Chapter None of Fist of the Blue Sky is now available on ComicK!</description>
 </item>
 
 </channel>
