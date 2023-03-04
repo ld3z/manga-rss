@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Uchi no Tsuma wa Wasureppoi - Chapter None</title>
+    <link>https://comick.app/comic/uchi-no-tsuma-wa-wasureppoi</link>
+    <description>Chapter None of Uchi no Tsuma wa Wasureppoi is now available on ComicK!</description>
+</item>
+<item>
     <title>Yoru ni Naru to Boku wa - Chapter 13</title>
     <link>https://comick.app/comic/yoru-ni-naru-to-boku-wa</link>
     <description>Chapter 13 of Yoru ni Naru to Boku wa is now available on ComicK!</description>
@@ -184,11 +189,6 @@
     <title>My Sp/lit Little Sister - Chapter 42</title>
     <link>https://comick.app/comic/my-sp-lit-little-sister</link>
     <description>Chapter 42 of My Sp/lit Little Sister is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ripple Rooter - Chapter 33</title>
-    <link>https://comick.app/comic/ripple-rooter-2</link>
-    <description>Chapter 33 of Ripple Rooter is now available on ComicK!</description>
 </item>
 
 </channel>
