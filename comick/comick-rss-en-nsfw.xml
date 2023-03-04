@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Invincible Man - Chapter 15</title>
+    <link>https://comick.app/comic/muteki-no-hito</link>
+    <description>Chapter 15 of The Invincible Man is now available on ComicK!</description>
+</item>
+<item>
     <title>Kurumida-senpai no Guttara Kawaii Himitsu - Chapter 2</title>
     <link>https://comick.app/comic/kurumida-senpai-no-guttara-kawaii-himitsu</link>
     <description>Chapter 2 of Kurumida-senpai no Guttara Kawaii Himitsu is now available on ComicK!</description>
@@ -309,11 +314,6 @@
     <title>Juese Shi Shuimu De Wo Yiran Chao Shen - Chapter 33</title>
     <link>https://comick.app/comic/juese-shi-shuimu-de-wo-yiran-chao-shen</link>
     <description>Chapter 33 of Juese Shi Shuimu De Wo Yiran Chao Shen is now available on ComicK!</description>
-</item>
-<item>
-    <title>Manga wo Yomeru Ore ga Sekai Saikyou - Chapter 8</title>
-    <link>https://comick.app/comic/manga-wo-yomeru-ore-ga-sekai-saikyou</link>
-    <description>Chapter 8 of Manga wo Yomeru Ore ga Sekai Saikyou is now available on ComicK!</description>
 </item>
 
 </channel>
