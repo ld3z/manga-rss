@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Tomo-chan wa Onna no ko! - Chapter 256</title>
+    <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
+    <description>Chapter 256 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
+</item>
+<item>
     <title>Scum's Wish - Chapter 47</title>
     <link>https://comick.app/comic/kuzu-no-honkai</link>
     <description>Chapter 47 of Scum's Wish is now available on ComicK!</description>
@@ -131,11 +136,6 @@
     <description>Chapter 58 of Majo-senpai Nippou is now available on ComicK!</description>
 </item>
 <item>
-    <title>Tomo-chan wa Onna no ko! - Chapter 248</title>
-    <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
-    <description>Chapter 248 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
-</item>
-<item>
     <title>Higurashi no Naku Koro ni Meguri - Chapter 2.2</title>
     <link>https://comick.app/comic/higurashi-no-naku-koro-ni-jun</link>
     <description>Chapter 2.2 of Higurashi no Naku Koro ni Meguri is now available on ComicK!</description>
@@ -194,21 +194,6 @@
     <title>Will You Marry Me Again If You Are Reborn? - Chapter 5</title>
     <link>https://comick.app/comic/umarekawatte-mo-mata-watashi-to-kekkon-shite-kuremasu-ka</link>
     <description>Chapter 5 of Will You Marry Me Again If You Are Reborn? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dai Tokyo Oniyome-den - Chapter 23</title>
-    <link>https://comick.app/comic/dai-tokyo-oniyome-den</link>
-    <description>Chapter 23 of Dai Tokyo Oniyome-den is now available on ComicK!</description>
-</item>
-<item>
-    <title>Please Put These On, Takamine-san - Chapter 14</title>
-    <link>https://comick.app/comic/please-put-these-on-takamine-san</link>
-    <description>Chapter 14 of Please Put These On, Takamine-san is now available on ComicK!</description>
-</item>
-<item>
-    <title>Super Cub - Chapter 14</title>
-    <link>https://comick.app/comic/super-cub</link>
-    <description>Chapter 14 of Super Cub is now available on ComicK!</description>
 </item>
 
 </channel>
