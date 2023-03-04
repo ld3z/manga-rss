@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Scum's Wish - Chapter 47</title>
+    <link>https://comick.app/comic/kuzu-no-honkai</link>
+    <description>Chapter 47 of Scum's Wish is now available on ComicK!</description>
+</item>
+<item>
     <title>Uchi no Tsuma wa Wasureppoi - Chapter None</title>
     <link>https://comick.app/comic/uchi-no-tsuma-wa-wasureppoi</link>
     <description>Chapter None of Uchi no Tsuma wa Wasureppoi is now available on ComicK!</description>
@@ -204,11 +209,6 @@
     <title>Super Cub - Chapter 14</title>
     <link>https://comick.app/comic/super-cub</link>
     <description>Chapter 14 of Super Cub is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hotaru no Yomeiri - Chapter 1</title>
-    <link>https://comick.app/comic/hotaru-no-yomeiri</link>
-    <description>Chapter 1 of Hotaru no Yomeiri is now available on ComicK!</description>
 </item>
 
 </channel>
