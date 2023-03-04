@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>New Normal - Chapter 1</title>
+    <link>https://comick.app/comic/new-normal</link>
+    <description>Chapter 1 of New Normal is now available on ComicK!</description>
+</item>
+<item>
     <title>Will You Marry Me Again If You Are Reborn? - Chapter 5.5</title>
     <link>https://comick.app/comic/umarekawatte-mo-mata-watashi-to-kekkon-shite-kuremasu-ka</link>
     <description>Chapter 5.5 of Will You Marry Me Again If You Are Reborn? is now available on ComicK!</description>
@@ -149,11 +154,6 @@
     <title>Majo-senpai Nippou - Chapter 58</title>
     <link>https://comick.app/comic/majo-senpai-nippou</link>
     <description>Chapter 58 of Majo-senpai Nippou is now available on ComicK!</description>
-</item>
-<item>
-    <title>Higurashi no Naku Koro ni Meguri - Chapter 2.2</title>
-    <link>https://comick.app/comic/higurashi-no-naku-koro-ni-jun</link>
-    <description>Chapter 2.2 of Higurashi no Naku Koro ni Meguri is now available on ComicK!</description>
 </item>
 
 </channel>
