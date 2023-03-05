@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>The Pale Horse - Chapter 92</title>
+    <title>The Pale Horse - Chapter 101</title>
     <link>https://comick.app/comic/the-pale-horse-2</link>
-    <description>Chapter 92 of The Pale Horse is now available on ComicK!</description>
+    <description>Chapter 101 of The Pale Horse is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kekkon-san no Ecchi na Tokoro o Michau Ansorojī Komikku - Chapter 1</title>
+    <link>https://comick.app/comic/kekkon-san-no-ecchi-na-tokoro-o-michau-ansoroji-komikku</link>
+    <description>Chapter 1 of Kekkon-san no Ecchi na Tokoro o Michau Ansorojī Komikku is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kitchen Soldier - Chapter 51</title>
+    <link>https://comick.app/comic/kitchen-soldier</link>
+    <description>Chapter 51 of Kitchen Soldier is now available on ComicK!</description>
 </item>
 <item>
     <title>Soul Land III - The Legend of the Dragon King - Chapter 443</title>
@@ -109,31 +119,6 @@
     <title>Watashi o Tabetai, Hitodenashi - Chapter 23</title>
     <link>https://comick.app/comic/a-monster-wants-to-eat-me</link>
     <description>Chapter 23 of Watashi o Tabetai, Hitodenashi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tokyo 卍 Revengers: Baji Keisuke Kara no Tegami - Chapter 15</title>
-    <link>https://comick.app/comic/tokyo-revengers-baji-keisuke-kara-no-tegami</link>
-    <description>Chapter 15 of Tokyo 卍 Revengers: Baji Keisuke Kara no Tegami is now available on ComicK!</description>
-</item>
-<item>
-    <title>Gantz - Digital Colored Comics - Chapter 1</title>
-    <link>https://comick.app/comic/gantz-digital-colored-comics</link>
-    <description>Chapter 1 of Gantz - Digital Colored Comics is now available on ComicK!</description>
-</item>
-<item>
-    <title>Issho ni Kurashite ii desu ka? - Chapter 1</title>
-    <link>https://comick.app/comic/can-i-live-with-you</link>
-    <description>Chapter 1 of Issho ni Kurashite ii desu ka? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mangaka-sensei to Zashiki Warashi - Chapter 27</title>
-    <link>https://comick.app/comic/mangaka-sensei-to-zashiki-warashi</link>
-    <description>Chapter 27 of Mangaka-sensei to Zashiki Warashi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Back to Rule Again - Chapter 274</title>
-    <link>https://comick.app/comic/back-to-rule-again-2</link>
-    <description>Chapter 274 of Back to Rule Again is now available on ComicK!</description>
 </item>
 
 </channel>
