@@ -6,6 +6,26 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Yakui yo! Alakshmi - Chapter 5</title>
+    <link>https://comick.app/comic/yakui-yo-alakshmi</link>
+    <description>Chapter 5 of Yakui yo! Alakshmi is now available on ComicK!</description>
+</item>
+<item>
+    <title>Real Man - Chapter 125</title>
+    <link>https://comick.app/comic/real-man-2</link>
+    <description>Chapter 125 of Real Man is now available on ComicK!</description>
+</item>
+<item>
+    <title>Silver Spoon - Chapter 34.2</title>
+    <link>https://comick.app/comic/gin-no-spoon</link>
+    <description>Chapter 34.2 of Silver Spoon is now available on ComicK!</description>
+</item>
+<item>
+    <title>Moontachi Gaiden (Graphic Novel) - Chapter 8</title>
+    <link>https://comick.app/comic/moontachi-gaiden</link>
+    <description>Chapter 8 of Moontachi Gaiden (Graphic Novel) is now available on ComicK!</description>
+</item>
+<item>
     <title>I Have Max Level Luck - Chapter 52</title>
     <link>https://comick.app/comic/i-have-max-level-luck</link>
     <description>Chapter 52 of I Have Max Level Luck is now available on ComicK!</description>
@@ -319,11 +339,6 @@
     <title>The World Is Money and Power - Chapter 101</title>
     <link>https://comick.app/comic/the-world-is-money-and-power-2</link>
     <description>Chapter 101 of The World Is Money and Power is now available on ComicK!</description>
-</item>
-<item>
-    <title>MF Ghost - Chapter 149</title>
-    <link>https://comick.app/comic/mf-ghost</link>
-    <description>Chapter 149 of MF Ghost is now available on ComicK!</description>
 </item>
 
 </channel>
