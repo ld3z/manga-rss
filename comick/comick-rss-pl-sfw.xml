@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Demon King GF - Chapter 1</title>
+    <link>https://comick.app/comic/demon-king-gf</link>
+    <description>Chapter 1 of Demon King GF is now available on ComicK!</description>
+</item>
+<item>
     <title>Fushigi no Mayuri-san - Chapter 2</title>
     <link>https://comick.app/comic/fushigi-no-mayuri-san</link>
     <description>Chapter 2 of Fushigi no Mayuri-san is now available on ComicK!</description>
@@ -59,11 +64,6 @@
     <title>How to Hide the Emperor's Child - Chapter 29</title>
     <link>https://comick.app/comic/how-to-hide-the-emperor-s-child-2</link>
     <description>Chapter 29 of How to Hide the Emperor's Child is now available on ComicK!</description>
-</item>
-<item>
-    <title>Solo Spell Caster - Chapter 89</title>
-    <link>https://comick.app/comic/solo-spell-caster-2</link>
-    <description>Chapter 89 of Solo Spell Caster is now available on ComicK!</description>
 </item>
 
 </channel>
