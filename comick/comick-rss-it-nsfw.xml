@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>My Girlfriend's Friend - Chapter 16.5</title>
+    <link>https://comick.app/comic/my-girlfriend-s-friend</link>
+    <description>Chapter 16.5 of My Girlfriend's Friend is now available on ComicK!</description>
+</item>
+<item>
     <title>Seeds of Anxiety + - Chapter 48</title>
     <link>https://comick.app/comic/fuan-no-tane-1</link>
     <description>Chapter 48 of Seeds of Anxiety + is now available on ComicK!</description>
@@ -164,11 +169,6 @@
     <title>Chikyuu no Ko - Chapter 25</title>
     <link>https://comick.app/comic/chikyuu-no-ko</link>
     <description>Chapter 25 of Chikyuu no Ko is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Girlfriend's Friend - Chapter 15.5</title>
-    <link>https://comick.app/comic/my-girlfriend-s-friend</link>
-    <description>Chapter 15.5 of My Girlfriend's Friend is now available on ComicK!</description>
 </item>
 
 </channel>

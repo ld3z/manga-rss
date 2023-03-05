@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Man Graced by the Gods - Chapter 45</title>
+    <link>https://comick.app/comic/kamitachi-ni-hirowareta-otoko</link>
+    <description>Chapter 45 of The Man Graced by the Gods is now available on ComicK!</description>
+</item>
+<item>
     <title>Sleepless Night - Chapter 4</title>
     <link>https://comick.app/comic/sleepless-night</link>
     <description>Chapter 4 of Sleepless Night is now available on ComicK!</description>
@@ -319,11 +324,6 @@
     <title>Jitsu wa Ore, Saikyou Deshita? - Chapter 46</title>
     <link>https://comick.app/comic/jitsu-wa-ore-saikyou-deshita</link>
     <description>Chapter 46 of Jitsu wa Ore, Saikyou Deshita? is now available on ComicK!</description>
-</item>
-<item>
-    <title>This Wolf Won't Bite - Chapter 52</title>
-    <link>https://comick.app/comic/this-wolf-won-t-bite-2</link>
-    <description>Chapter 52 of This Wolf Won't Bite is now available on ComicK!</description>
 </item>
 
 </channel>
