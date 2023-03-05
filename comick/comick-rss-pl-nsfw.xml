@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Fushigi no Mayuri-san - Chapter 2</title>
+    <link>https://comick.app/comic/fushigi-no-mayuri-san</link>
+    <description>Chapter 2 of Fushigi no Mayuri-san is now available on ComicK!</description>
+</item>
+<item>
     <title>Pretty Face - Chapter 32</title>
     <link>https://comick.app/comic/pretty-face</link>
     <description>Chapter 32 of Pretty Face is now available on ComicK!</description>
@@ -59,11 +64,6 @@
     <title>Solo Spell Caster - Chapter 89</title>
     <link>https://comick.app/comic/solo-spell-caster-2</link>
     <description>Chapter 89 of Solo Spell Caster is now available on ComicK!</description>
-</item>
-<item>
-    <title>Max Level Returner - Chapter 77</title>
-    <link>https://comick.app/comic/max-level-returner-2</link>
-    <description>Chapter 77 of Max Level Returner is now available on ComicK!</description>
 </item>
 
 </channel>
