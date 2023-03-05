@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Genjitsu no Yohane: Unpolarized Reflexion - Chapter 13</title>
+    <link>https://comick.app/comic/parhelion-of-yohane-unpolarized-reflexion</link>
+    <description>Chapter 13 of Genjitsu no Yohane: Unpolarized Reflexion is now available on ComicK!</description>
+</item>
+<item>
     <title>Despite Coming From the Abyss, I Will Save Humanity - Chapter 16</title>
     <link>https://comick.app/comic/i-the-abyssal-have-decided-to-save-humanity-again-today</link>
     <description>Chapter 16 of Despite Coming From the Abyss, I Will Save Humanity is now available on ComicK!</description>
@@ -99,11 +104,6 @@
     <title>Yowamushi Pedal - Chapter 720.5</title>
     <link>https://comick.app/comic/yowamushi-pedal</link>
     <description>Chapter 720.5 of Yowamushi Pedal is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tokimori-san ga Muboubi desu!! - Chapter 5</title>
-    <link>https://comick.app/comic/tokimori-san-ga-muboubi-desu</link>
-    <description>Chapter 5 of Tokimori-san ga Muboubi desu!! is now available on ComicK!</description>
 </item>
 
 </channel>
