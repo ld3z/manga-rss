@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Her Majesty's Swarm - Chapter 1</title>
+    <link>https://comick.app/comic/her-majesty-s-swarm</link>
+    <description>Chapter 1 of Her Majesty's Swarm is now available on ComicK!</description>
+</item>
+<item>
     <title>Meccha Shoukan Sareta Ken - Chapter 19</title>
     <link>https://comick.app/comic/meccha-shoukan-sareta-ken</link>
     <description>Chapter 19 of Meccha Shoukan Sareta Ken is now available on ComicK!</description>
@@ -219,11 +224,6 @@
     <title>Dorei wo Choukyoushite Harem Tsukuru - Chapter 14</title>
     <link>https://comick.app/comic/training-slaves-to-make-a-harem</link>
     <description>Chapter 14 of Dorei wo Choukyoushite Harem Tsukuru is now available on ComicK!</description>
-</item>
-<item>
-    <title>TenPuru -No One Can Live on Loneliness- - Chapter 22</title>
-    <link>https://comick.app/comic/temple</link>
-    <description>Chapter 22 of TenPuru -No One Can Live on Loneliness- is now available on ComicK!</description>
 </item>
 
 </channel>

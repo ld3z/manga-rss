@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Her Majesty's Swarm - Chapter 1</title>
+    <link>https://comick.app/comic/her-majesty-s-swarm</link>
+    <description>Chapter 1 of Her Majesty's Swarm is now available on ComicK!</description>
+</item>
+<item>
     <title>Meccha Shoukan Sareta Ken - Chapter 19</title>
     <link>https://comick.app/comic/meccha-shoukan-sareta-ken</link>
     <description>Chapter 19 of Meccha Shoukan Sareta Ken is now available on ComicK!</description>
@@ -219,11 +224,6 @@
     <title>Yofukashi no Uta - Chapter 162</title>
     <link>https://comick.app/comic/yofukashi-no-uta-jzw5b8dg</link>
     <description>Chapter 162 of Yofukashi no Uta is now available on ComicK!</description>
-</item>
-<item>
-    <title>Cheerful Amnesia - Chapter 30</title>
-    <link>https://comick.app/comic/cheerful-amnesia</link>
-    <description>Chapter 30 of Cheerful Amnesia is now available on ComicK!</description>
 </item>
 
 </channel>
