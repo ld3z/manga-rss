@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>The Pale Horse - Chapter 101</title>
+    <title>The Pale Horse - Chapter 104.1</title>
     <link>https://comick.app/comic/the-pale-horse-2</link>
-    <description>Chapter 101 of The Pale Horse is now available on ComicK!</description>
+    <description>Chapter 104.1 of The Pale Horse is now available on ComicK!</description>
+</item>
+<item>
+    <title>L.A.G - Chapter 35</title>
+    <link>https://comick.app/comic/l-a-g</link>
+    <description>Chapter 35 of L.A.G is now available on ComicK!</description>
 </item>
 <item>
     <title>Kekkon-san no Ecchi na Tokoro o Michau Ansorojī Komikku - Chapter 1</title>
@@ -109,16 +114,6 @@
     <title>Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore - Chapter 45</title>
     <link>https://comick.app/comic/cheat-kusushi-no-slow-life-isekai-ni-tsukurou-drugstore</link>
     <description>Chapter 45 of Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore is now available on ComicK!</description>
-</item>
-<item>
-    <title>Guard Pass - Chapter 81</title>
-    <link>https://comick.app/comic/guard-pass</link>
-    <description>Chapter 81 of Guard Pass is now available on ComicK!</description>
-</item>
-<item>
-    <title>Watashi o Tabetai, Hitodenashi - Chapter 23</title>
-    <link>https://comick.app/comic/a-monster-wants-to-eat-me</link>
-    <description>Chapter 23 of Watashi o Tabetai, Hitodenashi is now available on ComicK!</description>
 </item>
 
 </channel>
