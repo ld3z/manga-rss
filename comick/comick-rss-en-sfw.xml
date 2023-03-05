@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Meccha Shoukan Sareta Ken - Chapter 25</title>
+    <link>https://comick.app/comic/meccha-shoukan-sareta-ken</link>
+    <description>Chapter 25 of Meccha Shoukan Sareta Ken is now available on ComicK!</description>
+</item>
+<item>
     <title>Osananajimi to wa Romcom ni Naranai - Chapter 51.5</title>
     <link>https://comick.app/comic/osananajimi-to-wa-romcom-ni-naranai</link>
     <description>Chapter 51.5 of Osananajimi to wa Romcom ni Naranai is now available on ComicK!</description>
@@ -324,11 +329,6 @@
     <title>Sakamoto Days - Chapter 109</title>
     <link>https://comick.app/comic/sakamoto-days</link>
     <description>Chapter 109 of Sakamoto Days is now available on ComicK!</description>
-</item>
-<item>
-    <title>SPY×FAMILY - Chapter 76</title>
-    <link>https://comick.app/comic/spy-family</link>
-    <description>Chapter 76 of SPY×FAMILY is now available on ComicK!</description>
 </item>
 
 </channel>
