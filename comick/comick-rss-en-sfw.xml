@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ginjiro the Tough Kid - Chapter 1</title>
+    <link>https://comick.app/comic/ginjiro-the-tough-kid</link>
+    <description>Chapter 1 of Ginjiro the Tough Kid is now available on ComicK!</description>
+</item>
+<item>
+    <title>Empress of the Ashes - Chapter 15</title>
+    <link>https://comick.app/comic/empress-of-the-ashes</link>
+    <description>Chapter 15 of Empress of the Ashes is now available on ComicK!</description>
+</item>
+<item>
     <title>Dungeon Athlete - Chapter 31</title>
     <link>https://comick.app/comic/health-dungeon</link>
     <description>Chapter 31 of Dungeon Athlete is now available on ComicK!</description>
@@ -149,11 +159,6 @@
     <title>Kitchen Soldier - Chapter 51</title>
     <link>https://comick.app/comic/kitchen-soldier</link>
     <description>Chapter 51 of Kitchen Soldier is now available on ComicK!</description>
-</item>
-<item>
-    <title>Soul Land III - The Legend of the Dragon King - Chapter 443</title>
-    <link>https://comick.app/comic/soul-land-iii-the-legend-of-the-dragon-king-2</link>
-    <description>Chapter 443 of Soul Land III - The Legend of the Dragon King is now available on ComicK!</description>
 </item>
 
 </channel>
