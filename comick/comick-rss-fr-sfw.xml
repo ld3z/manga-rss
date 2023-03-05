@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kamiyama-san No Kamibukuro No Naka Ni wa - Chapter 9</title>
+    <link>https://comick.app/comic/kamiyama-san-no-kamibukuro-no-naka-ni</link>
+    <description>Chapter 9 of Kamiyama-san No Kamibukuro No Naka Ni wa is now available on ComicK!</description>
+</item>
+<item>
     <title>Kubo Won't Let Me Be Invisible - Chapter 142</title>
     <link>https://comick.app/comic/kubo-san-wa-boku-mobu-wo-yurusanai</link>
     <description>Chapter 142 of Kubo Won't Let Me Be Invisible is now available on ComicK!</description>
@@ -129,11 +134,6 @@
     <title>Magic Level 99990000 All-Attribute Great Sage - Chapter 2</title>
     <link>https://comick.app/comic/magic-level-99990000-all-attribute-great-sage</link>
     <description>Chapter 2 of Magic Level 99990000 All-Attribute Great Sage is now available on ComicK!</description>
-</item>
-<item>
-    <title>Reborn Ranker – Gravity User - Chapter 10</title>
-    <link>https://comick.app/comic/reborn-ranker-gravity-user</link>
-    <description>Chapter 10 of Reborn Ranker – Gravity User is now available on ComicK!</description>
 </item>
 
 </channel>
