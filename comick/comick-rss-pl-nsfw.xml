@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Yuri Shimai - Chapter 7</title>
+    <link>https://comick.app/comic/yuri-shimai</link>
+    <description>Chapter 7 of Yuri Shimai is now available on ComicK!</description>
+</item>
+<item>
+    <title>Baby Squirrel Is Good at Everything - Chapter 2</title>
+    <link>https://comick.app/comic/baby-squirrel-is-good-at-everything-2</link>
+    <description>Chapter 2 of Baby Squirrel Is Good at Everything is now available on ComicK!</description>
+</item>
+<item>
     <title>Sabaku no Harem - Chapter 19</title>
     <link>https://comick.app/comic/sabaku-no-harem</link>
     <description>Chapter 19 of Sabaku no Harem is now available on ComicK!</description>
@@ -114,11 +124,6 @@
     <title>My Mother Is Not Easy to Mess With - Chapter 31</title>
     <link>https://comick.app/comic/my-mother-is-not-easy-to-mess-with</link>
     <description>Chapter 31 of My Mother Is Not Easy to Mess With is now available on ComicK!</description>
-</item>
-<item>
-    <title>Otherworldly Evil Monarch - Chapter 22</title>
-    <link>https://comick.app/comic/otherworldly-evil-monarch</link>
-    <description>Chapter 22 of Otherworldly Evil Monarch is now available on ComicK!</description>
 </item>
 
 </channel>
