@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Shimeji Simulation - Chapter 11</title>
+    <link>https://comick.app/comic/shimeji-simulation</link>
+    <description>Chapter 11 of Shimeji Simulation is now available on ComicK!</description>
+</item>
+<item>
     <title>Ichinose-ke no Taizai - Chapter 10</title>
     <link>https://comick.app/comic/ichinose-ke-no-taizai</link>
     <description>Chapter 10 of Ichinose-ke no Taizai is now available on ComicK!</description>
@@ -121,11 +126,6 @@
     <description>Chapter 16 of The Saint's Magic Power Is Omnipotent is now available on ComicK!</description>
 </item>
 <item>
-    <title>Shimeji Simulation - Chapter 10</title>
-    <link>https://comick.app/comic/shimeji-simulation</link>
-    <description>Chapter 10 of Shimeji Simulation is now available on ComicK!</description>
-</item>
-<item>
     <title>Chainsaw Man - Digital Colored Comics - Chapter 41</title>
     <link>https://comick.app/comic/chainsaw-man-digital-colored-comics</link>
     <description>Chapter 41 of Chainsaw Man - Digital Colored Comics is now available on ComicK!</description>
@@ -159,16 +159,6 @@
     <title>Uma Musume: Cinderella Gray - Chapter 94</title>
     <link>https://comick.app/comic/uma-musume-cinderella-gray</link>
     <description>Chapter 94 of Uma Musume: Cinderella Gray is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kimi no Koe - Chapter 16.5</title>
-    <link>https://comick.app/comic/kimi-no-koe</link>
-    <description>Chapter 16.5 of Kimi no Koe is now available on ComicK!</description>
-</item>
-<item>
-    <title>A Story About Picking Up a God - Chapter None</title>
-    <link>https://comick.app/comic/a-story-about-picking-up-a-god</link>
-    <description>Chapter None of A Story About Picking Up a God is now available on ComicK!</description>
 </item>
 
 </channel>
