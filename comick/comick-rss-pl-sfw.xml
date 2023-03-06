@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Baby Tyrant - Chapter 1</title>
+    <link>https://comick.app/comic/baby-tyrant</link>
+    <description>Chapter 1 of Baby Tyrant is now available on ComicK!</description>
+</item>
+<item>
     <title>Global Examination - Chapter 4</title>
     <link>https://comick.app/comic/global-examination-2</link>
     <description>Chapter 4 of Global Examination is now available on ComicK!</description>
@@ -89,11 +94,6 @@
     <title>Unholy Blood - Chapter 6</title>
     <link>https://comick.app/comic/white-blood-2</link>
     <description>Chapter 6 of Unholy Blood is now available on ComicK!</description>
-</item>
-<item>
-    <title>Youko x Boku SS - Chapter 24</title>
-    <link>https://comick.app/comic/youko-x-boku-ss</link>
-    <description>Chapter 24 of Youko x Boku SS is now available on ComicK!</description>
 </item>
 
 </channel>
