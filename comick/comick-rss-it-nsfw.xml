@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ichinose-ke no Taizai - Chapter 10</title>
+    <link>https://comick.app/comic/ichinose-ke-no-taizai</link>
+    <description>Chapter 10 of Ichinose-ke no Taizai is now available on ComicK!</description>
+</item>
+<item>
     <title>My Girlfriend's Friend - Chapter 16.5</title>
     <link>https://comick.app/comic/my-girlfriend-s-friend</link>
     <description>Chapter 16.5 of My Girlfriend's Friend is now available on ComicK!</description>
@@ -164,11 +169,6 @@
     <title>A Story About Picking Up a God - Chapter None</title>
     <link>https://comick.app/comic/a-story-about-picking-up-a-god</link>
     <description>Chapter None of A Story About Picking Up a God is now available on ComicK!</description>
-</item>
-<item>
-    <title>Chikyuu no Ko - Chapter 25</title>
-    <link>https://comick.app/comic/chikyuu-no-ko</link>
-    <description>Chapter 25 of Chikyuu no Ko is now available on ComicK!</description>
 </item>
 
 </channel>
