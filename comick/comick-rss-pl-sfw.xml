@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>A Story About a Totally Straightforward Girlfriend - Chapter 2</title>
+    <link>https://comick.app/comic/a-story-about-a-totally-straightforward-girlfriend</link>
+    <description>Chapter 2 of A Story About a Totally Straightforward Girlfriend is now available on ComicK!</description>
+</item>
+<item>
     <title>Cutie's Here: Mommy, Where's My Daddy? - Chapter 43</title>
     <link>https://comick.app/comic/cutie-s-here-mommy-where-s-my-daddy-2</link>
     <description>Chapter 43 of Cutie's Here: Mommy, Where's My Daddy? is now available on ComicK!</description>
@@ -89,11 +94,6 @@
     <title>Doctor’s Rebirth - Chapter 113</title>
     <link>https://comick.app/comic/doctor-s-rebirth</link>
     <description>Chapter 113 of Doctor’s Rebirth is now available on ComicK!</description>
-</item>
-<item>
-    <title>No Longer Human (ITO Junji) - Chapter 16</title>
-    <link>https://comick.app/comic/ningen-shikkaku-klc7h620</link>
-    <description>Chapter 16 of No Longer Human (ITO Junji) is now available on ComicK!</description>
 </item>
 
 </channel>
