@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Chainsaw Man - Chapter 122</title>
+    <link>https://comick.app/comic/chainsaw-man</link>
+    <description>Chapter 122 of Chainsaw Man is now available on ComicK!</description>
+</item>
+<item>
     <title>The Mythical Realm - Chapter 68</title>
     <link>https://comick.app/comic/the-mythical-realm-2</link>
     <description>Chapter 68 of The Mythical Realm is now available on ComicK!</description>
@@ -89,11 +94,6 @@
     <title>Tale of a Scribe Who Retires to the Countryside - Chapter 145</title>
     <link>https://comick.app/comic/tale-of-a-scribe-who-retires-to-the-countryside</link>
     <description>Chapter 145 of Tale of a Scribe Who Retires to the Countryside is now available on ComicK!</description>
-</item>
-<item>
-    <title>Scum's Wish - Chapter 47</title>
-    <link>https://comick.app/comic/kuzu-no-honkai</link>
-    <description>Chapter 47 of Scum's Wish is now available on ComicK!</description>
 </item>
 
 </channel>
