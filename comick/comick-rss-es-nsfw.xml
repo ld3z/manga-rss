@@ -6,14 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Higurashi no Naku Koro ni - Onikakushi-hen - Chapter 3</title>
+    <link>https://comick.app/comic/higurashi-no-naku-koro-ni-onikakushi-hen</link>
+    <description>Chapter 3 of Higurashi no Naku Koro ni - Onikakushi-hen is now available on ComicK!</description>
+</item>
+<item>
     <title>Kingdom - Chapter 746</title>
     <link>https://comick.app/comic/kingdom</link>
     <description>Chapter 746 of Kingdom is now available on ComicK!</description>
-</item>
-<item>
-    <title>Higurashi no Naku Koro ni - Onikakushi-hen - Chapter 2</title>
-    <link>https://comick.app/comic/higurashi-no-naku-koro-ni-onikakushi-hen</link>
-    <description>Chapter 2 of Higurashi no Naku Koro ni - Onikakushi-hen is now available on ComicK!</description>
 </item>
 <item>
     <title>Otome Sensou - Chapter 40</title>
@@ -199,11 +199,6 @@
     <title>Tsukihime - Kohakuriko (Doujinshi) - Chapter 12</title>
     <link>https://comick.app/comic/tsukihime-kohakuriko-doujinshi</link>
     <description>Chapter 12 of Tsukihime - Kohakuriko (Doujinshi) is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ramia-Yana - Chapter 8.3</title>
-    <link>https://comick.app/comic/ramia-yana</link>
-    <description>Chapter 8.3 of Ramia-Yana is now available on ComicK!</description>
 </item>
 
 </channel>
