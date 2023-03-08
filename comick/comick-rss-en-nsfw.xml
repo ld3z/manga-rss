@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Blend-S - Chapter 88</title>
+    <link>https://comick.app/comic/blend-s</link>
+    <description>Chapter 88 of Blend-S is now available on ComicK!</description>
+</item>
+<item>
     <title>Apocalyptic Thief - Chapter 149</title>
     <link>https://comick.app/comic/rogue-of-doom</link>
     <description>Chapter 149 of Apocalyptic Thief is now available on ComicK!</description>
@@ -274,11 +279,6 @@
     <title>Signal To Love - Chapter 4</title>
     <link>https://comick.app/comic/signal-to-love</link>
     <description>Chapter 4 of Signal To Love is now available on ComicK!</description>
-</item>
-<item>
-    <title>Yofukashi no Uta - Chapter 163</title>
-    <link>https://comick.app/comic/yofukashi-no-uta-jzw5b8dg</link>
-    <description>Chapter 163 of Yofukashi no Uta is now available on ComicK!</description>
 </item>
 
 </channel>
