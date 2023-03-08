@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Tropic of the Sea - Chapter 3</title>
+    <link>https://comick.app/comic/kaikisen-return-to-the-sea</link>
+    <description>Chapter 3 of Tropic of the Sea is now available on ComicK!</description>
+</item>
+<item>
     <title>Kiben Gakuha, Yotsuya Senpai no Kaidan - Chapter None</title>
     <link>https://comick.app/comic/kiben-gakuha-yotsuya-senpai-no-kaidan</link>
     <description>Chapter None of Kiben Gakuha, Yotsuya Senpai no Kaidan is now available on ComicK!</description>
@@ -94,11 +99,6 @@
     <title>Wonder Cat Kyuu-chan - Chapter 213</title>
     <link>https://comick.app/comic/wonder-cat-kyuu-chan</link>
     <description>Chapter 213 of Wonder Cat Kyuu-chan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Cinderella Chef - Chapter 40</title>
-    <link>https://comick.app/comic/cinderella-chef-2</link>
-    <description>Chapter 40 of Cinderella Chef is now available on ComicK!</description>
 </item>
 
 </channel>
