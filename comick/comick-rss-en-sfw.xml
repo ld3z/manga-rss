@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>With Her Who Likes My Sister - Chapter 23</title>
+    <link>https://comick.app/comic/with-her-who-likes-my-sister</link>
+    <description>Chapter 23 of With Her Who Likes My Sister is now available on ComicK!</description>
+</item>
+<item>
     <title>The Lady's Dark Secret - Chapter 28</title>
     <link>https://comick.app/comic/the-lady-s-dark-secret</link>
     <description>Chapter 28 of The Lady's Dark Secret is now available on ComicK!</description>
@@ -319,11 +324,6 @@
     <title>Red and Mad - Chapter 4</title>
     <link>https://comick.app/comic/red-and-mad</link>
     <description>Chapter 4 of Red and Mad is now available on ComicK!</description>
-</item>
-<item>
-    <title>Paper Fortress - Chapter 2</title>
-    <link>https://comick.app/comic/paper-fortress</link>
-    <description>Chapter 2 of Paper Fortress is now available on ComicK!</description>
 </item>
 
 </channel>
