@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>The Last Bloodline - Chapter 13</title>
+    <link>https://comick.app/comic/the-last-bloodline</link>
+    <description>Chapter 13 of The Last Bloodline is now available on ComicK!</description>
+</item>
+<item>
+    <title>Wonder Cat Kyuu-chan - Chapter 214</title>
+    <link>https://comick.app/comic/wonder-cat-kyuu-chan</link>
+    <description>Chapter 214 of Wonder Cat Kyuu-chan is now available on ComicK!</description>
+</item>
+<item>
     <title>Happy World! - Chapter 63</title>
     <link>https://comick.app/comic/happy-world</link>
     <description>Chapter 63 of Happy World! is now available on ComicK!</description>
@@ -89,16 +99,6 @@
     <title>Bigger Hunter - Chapter None</title>
     <link>https://comick.app/comic/bigger-hunter</link>
     <description>Chapter None of Bigger Hunter is now available on ComicK!</description>
-</item>
-<item>
-    <title>Rojiura no Mahou Tantei Jimusho - Chapter None</title>
-    <link>https://comick.app/comic/rojiura-no-mahou-tantei-jimusho</link>
-    <description>Chapter None of Rojiura no Mahou Tantei Jimusho is now available on ComicK!</description>
-</item>
-<item>
-    <title>Bankara-san ga Tooru - Chapter None</title>
-    <link>https://comick.app/comic/bankara-san-ga-tooru</link>
-    <description>Chapter None of Bankara-san ga Tooru is now available on ComicK!</description>
 </item>
 
 </channel>
