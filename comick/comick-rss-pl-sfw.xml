@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Sold Out! - Chapter 5</title>
+    <link>https://comick.app/comic/sold-out</link>
+    <description>Chapter 5 of Sold Out! is now available on ComicK!</description>
+</item>
+<item>
     <title>Peerless Dad - Chapter 22</title>
     <link>https://comick.app/comic/peerless-dad-2</link>
     <description>Chapter 22 of Peerless Dad is now available on ComicK!</description>
@@ -64,36 +69,6 @@
     <title>Dr. Haido's Experiment Note - Chapter None</title>
     <link>https://comick.app/comic/dr-haido-s-experiment-note</link>
     <description>Chapter None of Dr. Haido's Experiment Note is now available on ComicK!</description>
-</item>
-<item>
-    <title>Futagami Double - Chapter None</title>
-    <link>https://comick.app/comic/futagami-double</link>
-    <description>Chapter None of Futagami Double is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dragon Ball: Yo! Son Goku and His Friends Return!! - Chapter None</title>
-    <link>https://comick.app/comic/dragon-ball-ossu-kaette-kita-son-goku-to-nakama-tachi</link>
-    <description>Chapter None of Dragon Ball: Yo! Son Goku and His Friends Return!! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dirty Work - Chapter None</title>
-    <link>https://comick.app/comic/dirty-work</link>
-    <description>Chapter None of Dirty Work is now available on ComicK!</description>
-</item>
-<item>
-    <title>Death of a Highschool - Chapter None</title>
-    <link>https://comick.app/comic/death-of-a-highschool</link>
-    <description>Chapter None of Death of a Highschool is now available on ComicK!</description>
-</item>
-<item>
-    <title>Blood Type V - Chapter None</title>
-    <link>https://comick.app/comic/blood-type-v</link>
-    <description>Chapter None of Blood Type V is now available on ComicK!</description>
-</item>
-<item>
-    <title>My In-laws Are Obsessed With Me - Chapter 58</title>
-    <link>https://comick.app/comic/my-in-laws-are-obsessed-with-me-2</link>
-    <description>Chapter 58 of My In-laws Are Obsessed With Me is now available on ComicK!</description>
 </item>
 
 </channel>
