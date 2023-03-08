@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Years - Chapter None</title>
+    <link>https://comick.app/comic/years</link>
+    <description>Chapter None of Years is now available on ComicK!</description>
+</item>
+<item>
     <title>L∞P - Chapter None</title>
     <link>https://comick.app/comic/l-p</link>
     <description>Chapter None of L∞P is now available on ComicK!</description>
@@ -54,11 +59,6 @@
     <title>Lies Become You - Chapter 38</title>
     <link>https://comick.app/comic/lies-become-you-2</link>
     <description>Chapter 38 of Lies Become You is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tomo-chan wa Onna no ko! - Chapter 429</title>
-    <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
-    <description>Chapter 429 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
 </item>
 
 </channel>
