@@ -6,9 +6,34 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Gangking - Chapter 8</title>
+    <title>Kin to Tetsu - Chapter 7</title>
+    <link>https://comick.app/comic/fungus-and-iron</link>
+    <description>Chapter 7 of Kin to Tetsu is now available on ComicK!</description>
+</item>
+<item>
+    <title>Futari Escape - Chapter 17</title>
+    <link>https://comick.app/comic/futari-escape</link>
+    <description>Chapter 17 of Futari Escape is now available on ComicK!</description>
+</item>
+<item>
+    <title>Gamaran: Shura - Chapter 41</title>
+    <link>https://comick.app/comic/gamaran-shura</link>
+    <description>Chapter 41 of Gamaran: Shura is now available on ComicK!</description>
+</item>
+<item>
+    <title>Gangking - Chapter 15</title>
     <link>https://comick.app/comic/gangking</link>
-    <description>Chapter 8 of Gangking is now available on ComicK!</description>
+    <description>Chapter 15 of Gangking is now available on ComicK!</description>
+</item>
+<item>
+    <title>Oshibana! - Chapter 14</title>
+    <link>https://comick.app/comic/oshibana</link>
+    <description>Chapter 14 of Oshibana! is now available on ComicK!</description>
+</item>
+<item>
+    <title>Mikakunin de Shinkoukei - Chapter 174</title>
+    <link>https://comick.app/comic/mikakunin-de-shinkoukei</link>
+    <description>Chapter 174 of Mikakunin de Shinkoukei is now available on ComicK!</description>
 </item>
 <item>
     <title>Golden Gold - Chapter 70</title>
@@ -54,26 +79,6 @@
     <title>AV Danyuu Hajimemashita - Chapter 32.5</title>
     <link>https://comick.app/comic/av-danyuu-hajimemashita</link>
     <description>Chapter 32.5 of AV Danyuu Hajimemashita is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kono Koi, Chaban ni Tsuki!? - Chapter 16</title>
-    <link>https://comick.app/comic/kono-koi-chaban-ni-tsuki</link>
-    <description>Chapter 16 of Kono Koi, Chaban ni Tsuki!? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Medalist - Chapter 23</title>
-    <link>https://comick.app/comic/medalist</link>
-    <description>Chapter 23 of Medalist is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mint Chocolate - Chapter 36</title>
-    <link>https://comick.app/comic/mint-chocolate</link>
-    <description>Chapter 36 of Mint Chocolate is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ochikazuki ni Naritai Miyazen-san - Chapter 45</title>
-    <link>https://comick.app/comic/ochikadzuki-ni-naritai-miyazen-san</link>
-    <description>Chapter 45 of Ochikazuki ni Naritai Miyazen-san is now available on ComicK!</description>
 </item>
 
 </channel>
