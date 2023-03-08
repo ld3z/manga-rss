@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Saikyou Koibana - Chapter None</title>
+    <link>https://comick.app/comic/saikyou-koibana</link>
+    <description>Chapter None of Saikyou Koibana is now available on ComicK!</description>
+</item>
+<item>
     <title>Rei Kai Bi Dan - Chapter 2</title>
     <link>https://comick.app/comic/rei-kai-bi-dan</link>
     <description>Chapter 2 of Rei Kai Bi Dan is now available on ComicK!</description>
@@ -74,11 +79,6 @@
     <title>Futagami Double - Chapter None</title>
     <link>https://comick.app/comic/futagami-double</link>
     <description>Chapter None of Futagami Double is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dragon Ball: Yo! Son Goku and His Friends Return!! - Chapter None</title>
-    <link>https://comick.app/comic/dragon-ball-ossu-kaette-kita-son-goku-to-nakama-tachi</link>
-    <description>Chapter None of Dragon Ball: Yo! Son Goku and His Friends Return!! is now available on ComicK!</description>
 </item>
 
 </channel>
