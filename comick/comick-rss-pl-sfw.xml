@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Eyeshield 21 - Chapter None</title>
+    <link>https://comick.app/comic/eyeshield-21</link>
+    <description>Chapter None of Eyeshield 21 is now available on ComicK!</description>
+</item>
+<item>
     <title>Kamidori - Chapter None</title>
     <link>https://comick.app/comic/kamidori</link>
     <description>Chapter None of Kamidori is now available on ComicK!</description>
@@ -59,11 +64,6 @@
     <title>Akai Kiri no Naka kara - Chapter 13</title>
     <link>https://comick.app/comic/from-the-red-fog</link>
     <description>Chapter 13 of Akai Kiri no Naka kara is now available on ComicK!</description>
-</item>
-<item>
-    <title>Just Hold my Hand - Chapter 15</title>
-    <link>https://comick.app/comic/just-hold-my-hand</link>
-    <description>Chapter 15 of Just Hold my Hand is now available on ComicK!</description>
 </item>
 
 </channel>
