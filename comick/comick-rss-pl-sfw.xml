@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Ama Iro Omoi - Chapter None</title>
+    <link>https://comick.app/comic/ama-iro-omoi</link>
+    <description>Chapter None of Ama Iro Omoi is now available on ComicK!</description>
+</item>
+<item>
+    <title>Hirunaka no Ryuusei - Chapter 40.5</title>
+    <link>https://comick.app/comic/hirunaka-no-ryuusei</link>
+    <description>Chapter 40.5 of Hirunaka no Ryuusei is now available on ComicK!</description>
+</item>
+<item>
     <title>A Cat that Loved a Fish - Chapter None</title>
     <link>https://comick.app/comic/a-cat-that-loved-a-fish</link>
     <description>Chapter None of A Cat that Loved a Fish is now available on ComicK!</description>
@@ -84,11 +94,6 @@
     <title>Nishikaze to Taiyou - Chapter None</title>
     <link>https://comick.app/comic/nishikaze-to-taiyou</link>
     <description>Chapter None of Nishikaze to Taiyou is now available on ComicK!</description>
-</item>
-<item>
-    <title>Monster Cage - Chapter None</title>
-    <link>https://comick.app/comic/monster-cage</link>
-    <description>Chapter None of Monster Cage is now available on ComicK!</description>
 </item>
 
 </channel>
