@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Goshimei desu! - Chapter 4</title>
+    <link>https://comick.app/comic/goshimei-desu</link>
+    <description>Chapter 4 of Goshimei desu! is now available on ComicK!</description>
+</item>
+<item>
+    <title>Ao to Umibe no Nostalgia - Chapter None</title>
+    <link>https://comick.app/comic/ao-to-umibe-no-nostalgia</link>
+    <description>Chapter None of Ao to Umibe no Nostalgia is now available on ComicK!</description>
+</item>
+<item>
     <title>Ao no Rhapsodia - Chapter 1</title>
     <link>https://comick.app/comic/ao-no-rhapsodia</link>
     <description>Chapter 1 of Ao no Rhapsodia is now available on ComicK!</description>
@@ -94,16 +104,6 @@
     <title>Pisu no Oshigoto - Chapter None</title>
     <link>https://comick.app/comic/pisu-no-oshigoto</link>
     <description>Chapter None of Pisu no Oshigoto is now available on ComicK!</description>
-</item>
-<item>
-    <title>Fei Ren Zai - Chapter 1</title>
-    <link>https://comick.app/comic/fei-ren-zai</link>
-    <description>Chapter 1 of Fei Ren Zai is now available on ComicK!</description>
-</item>
-<item>
-    <title>Nishikaze to Taiyou - Chapter None</title>
-    <link>https://comick.app/comic/nishikaze-to-taiyou</link>
-    <description>Chapter None of Nishikaze to Taiyou is now available on ComicK!</description>
 </item>
 
 </channel>
