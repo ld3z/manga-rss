@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Straight or Not - Chapter 3</title>
+    <link>https://comick.app/comic/straight-or-not-2</link>
+    <description>Chapter 3 of Straight or Not is now available on ComicK!</description>
+</item>
+<item>
     <title>To Aru Kagaku no Railgun - Chapter 1</title>
     <link>https://comick.app/comic/toaru-kagaku-no-railgun</link>
     <description>Chapter 1 of To Aru Kagaku no Railgun is now available on ComicK!</description>
@@ -59,11 +64,6 @@
     <title>Him and Me, and Her - Chapter None</title>
     <link>https://comick.app/comic/him-and-me-and-her</link>
     <description>Chapter None of Him and Me, and Her is now available on ComicK!</description>
-</item>
-<item>
-    <title>Heavy Mecha Blues - Chapter None</title>
-    <link>https://comick.app/comic/heavy-mecha-blues</link>
-    <description>Chapter None of Heavy Mecha Blues is now available on ComicK!</description>
 </item>
 
 </channel>
