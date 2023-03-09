@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Estio - Chapter 40</title>
+    <link>https://comick.app/comic/estio-2</link>
+    <description>Chapter 40 of Estio is now available on ComicK!</description>
+</item>
+<item>
     <title>I Am a Hero - Chapter 107</title>
     <link>https://comick.app/comic/i-am-a-hero</link>
     <description>Chapter 107 of I Am a Hero is now available on ComicK!</description>
@@ -54,11 +59,6 @@
     <title>Happy World! - Chapter 63</title>
     <link>https://comick.app/comic/happy-world</link>
     <description>Chapter 63 of Happy World! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tomo-chan wa Onna no ko! - Chapter 430</title>
-    <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
-    <description>Chapter 430 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
 </item>
 
 </channel>
