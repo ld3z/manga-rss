@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>I Am a Hero - Chapter 107</title>
+    <link>https://comick.app/comic/i-am-a-hero</link>
+    <description>Chapter 107 of I Am a Hero is now available on ComicK!</description>
+</item>
+<item>
     <title>Wonder Cat Kyuu-chan - Chapter 215</title>
     <link>https://comick.app/comic/wonder-cat-kyuu-chan</link>
     <description>Chapter 215 of Wonder Cat Kyuu-chan is now available on ComicK!</description>
@@ -54,11 +59,6 @@
     <title>Tomo-chan wa Onna no ko! - Chapter 430</title>
     <link>https://comick.app/comic/tomo-chan-wa-onna-no-ko</link>
     <description>Chapter 430 of Tomo-chan wa Onna no ko! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tougen Anki - Chapter 101</title>
-    <link>https://comick.app/comic/tougen-anki</link>
-    <description>Chapter 101 of Tougen Anki is now available on ComicK!</description>
 </item>
 
 </channel>
