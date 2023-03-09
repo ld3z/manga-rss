@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>A Cat that Loved a Fish - Chapter None</title>
+    <link>https://comick.app/comic/a-cat-that-loved-a-fish</link>
+    <description>Chapter None of A Cat that Loved a Fish is now available on ComicK!</description>
+</item>
+<item>
+    <title>3 Hearts - Chapter None</title>
+    <link>https://comick.app/comic/3-hearts</link>
+    <description>Chapter None of 3 Hearts is now available on ComicK!</description>
+</item>
+<item>
     <title>27-Sai - Atashi, Koi ga, Shitai - Chapter 1</title>
     <link>https://comick.app/comic/27-sai-atashi-koi-ga-shitai</link>
     <description>Chapter 1 of 27-Sai - Atashi, Koi ga, Shitai is now available on ComicK!</description>
@@ -79,11 +89,6 @@
     <title>Monster Cage - Chapter None</title>
     <link>https://comick.app/comic/monster-cage</link>
     <description>Chapter None of Monster Cage is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kuro Tenkousei - Chapter None</title>
-    <link>https://comick.app/comic/kuro-tenkousei</link>
-    <description>Chapter None of Kuro Tenkousei is now available on ComicK!</description>
 </item>
 
 </channel>
