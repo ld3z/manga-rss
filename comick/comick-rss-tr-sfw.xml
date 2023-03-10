@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Mujina In To The Deep - Chapter 1</title>
+    <link>https://comick.app/comic/mujina-in-to-the-deep</link>
+    <description>Chapter 1 of Mujina In To The Deep is now available on ComicK!</description>
+</item>
+<item>
     <title>Mushishi - Chapter 1</title>
     <link>https://comick.app/comic/mushishi</link>
     <description>Chapter 1 of Mushishi is now available on ComicK!</description>
@@ -109,11 +114,6 @@
     <title>Super Lovers - Chapter 6.5</title>
     <link>https://comick.app/comic/super-lovers</link>
     <description>Chapter 6.5 of Super Lovers is now available on ComicK!</description>
-</item>
-<item>
-    <title>Romance of the Three Kingdoms (YOKOYAMA Mitsuteru) - Chapter 167</title>
-    <link>https://comick.app/comic/sangokushi</link>
-    <description>Chapter 167 of Romance of the Three Kingdoms (YOKOYAMA Mitsuteru) is now available on ComicK!</description>
 </item>
 
 </channel>
