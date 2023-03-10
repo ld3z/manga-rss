@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Sukebe no Seishun - Chapter 1</title>
+    <title>One Punch-Man - Chapter 109.5</title>
+    <link>https://comick.app/comic/one-punch-man</link>
+    <description>Chapter 109.5 of One Punch-Man is now available on ComicK!</description>
+</item>
+<item>
+    <title>Sukebe no Seishun - Chapter 5</title>
     <link>https://comick.app/comic/sukebe-no-seishun</link>
-    <description>Chapter 1 of Sukebe no Seishun is now available on ComicK!</description>
+    <description>Chapter 5 of Sukebe no Seishun is now available on ComicK!</description>
 </item>
 <item>
     <title>Taixu Apartment - Chapter 8</title>
