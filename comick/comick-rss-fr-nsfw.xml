@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Uma Musume: Cinderella Gray - Chapter 24</title>
+    <link>https://comick.app/comic/uma-musume-cinderella-gray</link>
+    <description>Chapter 24 of Uma Musume: Cinderella Gray is now available on ComicK!</description>
+</item>
+<item>
     <title>Mujina In To The Deep - Chapter 1</title>
     <link>https://comick.app/comic/mujina-in-to-the-deep</link>
     <description>Chapter 1 of Mujina In To The Deep is now available on ComicK!</description>
@@ -359,11 +364,6 @@
     <title>Kono Subarashii Sekai ni Shukufuku wo! - A Day of KazuMegu (Doujinshi) - Chapter 9</title>
     <link>https://comick.app/comic/kono-subarashii-sekai-ni-shukufuku-wo-kazu-megu-will-get-married-in-100-days-doujinshi</link>
     <description>Chapter 9 of Kono Subarashii Sekai ni Shukufuku wo! - A Day of KazuMegu (Doujinshi) is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mezametara Saikyou Soubi to Uchuusen-mochi Datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai - Chapter 28</title>
-    <link>https://comick.app/comic/mezametara-saikyou-soubi-to-uchuusen-mochi-datta-no-de-ikkodate-mezashite-youhei-toshite-jiyuu-ni-ikitai</link>
-    <description>Chapter 28 of Mezametara Saikyou Soubi to Uchuusen-mochi Datta no de, Ikkodate Mezashite Youhei Toshite Jiyuu ni Ikitai is now available on ComicK!</description>
 </item>
 
 </channel>
