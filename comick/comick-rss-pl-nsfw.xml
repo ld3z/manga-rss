@@ -6,6 +6,46 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>By Hero - Chapter None</title>
+    <link>https://comick.app/comic/by-hero</link>
+    <description>Chapter None of By Hero is now available on ComicK!</description>
+</item>
+<item>
+    <title>Shinobi no Onna - Chapter 2</title>
+    <link>https://comick.app/comic/shinobi-no-onna</link>
+    <description>Chapter 2 of Shinobi no Onna is now available on ComicK!</description>
+</item>
+<item>
+    <title>Boku no Mei - Chapter None</title>
+    <link>https://comick.app/comic/boku-no-mei</link>
+    <description>Chapter None of Boku no Mei is now available on ComicK!</description>
+</item>
+<item>
+    <title>If It is Fine With My Blood - Chapter None</title>
+    <link>https://comick.app/comic/boku-no-chi-de-yokereba</link>
+    <description>Chapter None of If It is Fine With My Blood is now available on ComicK!</description>
+</item>
+<item>
+    <title>Blanc Marie - Chapter None</title>
+    <link>https://comick.app/comic/blanc-marie</link>
+    <description>Chapter None of Blanc Marie is now available on ComicK!</description>
+</item>
+<item>
+    <title>Snow Black - Chapter None</title>
+    <link>https://comick.app/comic/snow-black</link>
+    <description>Chapter None of Snow Black is now available on ComicK!</description>
+</item>
+<item>
+    <title>S no Yuiitsu M no Zettai - Chapter 4</title>
+    <link>https://comick.app/comic/s-no-yuiitsu-m-no-zettai</link>
+    <description>Chapter 4 of S no Yuiitsu M no Zettai is now available on ComicK!</description>
+</item>
+<item>
+    <title>Benkyou no Jikan - Chapter 1</title>
+    <link>https://comick.app/comic/benkyou-no-jikan</link>
+    <description>Chapter 1 of Benkyou no Jikan is now available on ComicK!</description>
+</item>
+<item>
     <title>Ba-thump Ba-thump Diary - Chapter None</title>
     <link>https://comick.app/comic/ba-thump-ba-thump-diary</link>
     <description>Chapter None of Ba-thump Ba-thump Diary is now available on ComicK!</description>
@@ -104,11 +144,6 @@
     <title>Rokuyoku - Chapter None</title>
     <link>https://comick.app/comic/rokuyoku</link>
     <description>Chapter None of Rokuyoku is now available on ComicK!</description>
-</item>
-<item>
-    <title>Pisu no Oshigoto - Chapter None</title>
-    <link>https://comick.app/comic/pisu-no-oshigoto</link>
-    <description>Chapter None of Pisu no Oshigoto is now available on ComicK!</description>
 </item>
 
 </channel>
