@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Mushishi - Chapter 1</title>
+    <link>https://comick.app/comic/mushishi</link>
+    <description>Chapter 1 of Mushishi is now available on ComicK!</description>
+</item>
+<item>
     <title>Wind Breaker - Chapter 127</title>
     <link>https://comick.app/comic/wind-breaker-2</link>
     <description>Chapter 127 of Wind Breaker is now available on ComicK!</description>
