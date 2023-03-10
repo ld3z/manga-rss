@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Hatsu koi, Yoru ni Tokeru - Chapter None</title>
+    <link>https://comick.app/comic/hatsu-koi-yoru-ni-tokeru</link>
+    <description>Chapter None of Hatsu koi, Yoru ni Tokeru is now available on ComicK!</description>
+</item>
+<item>
     <title>Hard Luck Woman - Chapter None</title>
     <link>https://comick.app/comic/hard-luck-woman</link>
     <description>Chapter None of Hard Luck Woman is now available on ComicK!</description>
@@ -194,11 +199,6 @@
     <title>Nogizaka Haruka no Himitsu - Chapter 21</title>
     <link>https://comick.app/comic/nogizaka-haruka-no-himitsu</link>
     <description>Chapter 21 of Nogizaka Haruka no Himitsu is now available on ComicK!</description>
-</item>
-<item>
-    <title>Rokuyoku - Chapter None</title>
-    <link>https://comick.app/comic/rokuyoku</link>
-    <description>Chapter None of Rokuyoku is now available on ComicK!</description>
 </item>
 
 </channel>
