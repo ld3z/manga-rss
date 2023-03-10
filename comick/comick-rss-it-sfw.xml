@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>A Kind World - Chapter 30</title>
+    <link>https://comick.app/comic/a-kind-world</link>
+    <description>Chapter 30 of A Kind World is now available on ComicK!</description>
+</item>
+<item>
     <title>Omniscient Reader's Viewpoint - Chapter 143</title>
     <link>https://comick.app/comic/omniscient-reader-s-viewpoint-2</link>
     <description>Chapter 143 of Omniscient Reader's Viewpoint is now available on ComicK!</description>
@@ -124,21 +129,6 @@
     <title>New Normal - Chapter 1</title>
     <link>https://comick.app/comic/new-normal</link>
     <description>Chapter 1 of New Normal is now available on ComicK!</description>
-</item>
-<item>
-    <title>Will You Marry Me Again If You Are Reborn? - Chapter 5.5</title>
-    <link>https://comick.app/comic/umarekawatte-mo-mata-watashi-to-kekkon-shite-kuremasu-ka</link>
-    <description>Chapter 5.5 of Will You Marry Me Again If You Are Reborn? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tomodachi o Tsukurou. - Chapter 25</title>
-    <link>https://comick.app/comic/tomodachi-o-tsukurou</link>
-    <description>Chapter 25 of Tomodachi o Tsukurou. is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tale of a Scribe Who Retires to the Countryside - Chapter 145</title>
-    <link>https://comick.app/comic/tale-of-a-scribe-who-retires-to-the-countryside</link>
-    <description>Chapter 145 of Tale of a Scribe Who Retires to the Countryside is now available on ComicK!</description>
 </item>
 
 </channel>
