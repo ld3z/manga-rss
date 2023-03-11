@@ -6,9 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Seoul Station Necromancer - Chapter 22</title>
+    <title>Pool - Chapter 4.1</title>
+    <link>https://comick.app/comic/pool</link>
+    <description>Chapter 4.1 of Pool is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kakuritsu Sousakan Mikoshiba Gakuto - Chapter 5</title>
+    <link>https://comick.app/comic/kakuritsu-sousakan-mikoshiba-gakuto</link>
+    <description>Chapter 5 of Kakuritsu Sousakan Mikoshiba Gakuto is now available on ComicK!</description>
+</item>
+<item>
+    <title>Hell’s Tormentor Kraken - Chapter 7</title>
+    <link>https://comick.app/comic/gokusotsu-kraken</link>
+    <description>Chapter 7 of Hell’s Tormentor Kraken is now available on ComicK!</description>
+</item>
+<item>
+    <title>Seoul Station Necromancer - Chapter 37</title>
     <link>https://comick.app/comic/seoul-station-necromancer</link>
-    <description>Chapter 22 of Seoul Station Necromancer is now available on ComicK!</description>
+    <description>Chapter 37 of Seoul Station Necromancer is now available on ComicK!</description>
 </item>
 <item>
     <title>I'm Addicted to Her - Chapter 5</title>
@@ -44,31 +59,6 @@
     <title>Akuyaku Reijou wa Ouji no Honsou (Dekiai) wo Shiranai - Chapter 3</title>
     <link>https://comick.app/comic/akuyaku-reijou-wa-ouji-no-honsou-dekiai-wo-shiranai</link>
     <description>Chapter 3 of Akuyaku Reijou wa Ouji no Honsou (Dekiai) wo Shiranai is now available on ComicK!</description>
-</item>
-<item>
-    <title>Sister, I Am the Queen in This Life - Chapter 34</title>
-    <link>https://comick.app/comic/sister-i-am-the-queen-in-this-life-2</link>
-    <description>Chapter 34 of Sister, I Am the Queen in This Life is now available on ComicK!</description>
-</item>
-<item>
-    <title>My Little Inferno - Chapter 4</title>
-    <link>https://comick.app/comic/my-little-inferno</link>
-    <description>Chapter 4 of My Little Inferno is now available on ComicK!</description>
-</item>
-<item>
-    <title>Perfect Propose - Chapter 2</title>
-    <link>https://comick.app/comic/perfect-propose</link>
-    <description>Chapter 2 of Perfect Propose is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mashita no Fudanshi-kun - Chapter 5.1</title>
-    <link>https://comick.app/comic/mashita-no-fudanshi-kun</link>
-    <description>Chapter 5.1 of Mashita no Fudanshi-kun is now available on ComicK!</description>
-</item>
-<item>
-    <title>Junketsu ☆ Naito no Granz Reise - Chapter 6.1</title>
-    <link>https://comick.app/comic/junketsu-naito-no-granz-reise</link>
-    <description>Chapter 6.1 of Junketsu ☆ Naito no Granz Reise is now available on ComicK!</description>
 </item>
 
 </channel>
