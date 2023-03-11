@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Wind Breaker - Chapter 128</title>
+    <link>https://comick.app/comic/wind-breaker-2</link>
+    <description>Chapter 128 of Wind Breaker is now available on ComicK!</description>
+</item>
+<item>
     <title>Mujina In To The Deep - Chapter 1</title>
     <link>https://comick.app/comic/mujina-in-to-the-deep</link>
     <description>Chapter 1 of Mujina In To The Deep is now available on ComicK!</description>
@@ -14,11 +19,6 @@
     <title>Mushishi - Chapter 1</title>
     <link>https://comick.app/comic/mushishi</link>
     <description>Chapter 1 of Mushishi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Wind Breaker - Chapter 127</title>
-    <link>https://comick.app/comic/wind-breaker-2</link>
-    <description>Chapter 127 of Wind Breaker is now available on ComicK!</description>
 </item>
 <item>
     <title>One Piece - Digital Colored Comics - Chapter 852</title>
@@ -109,11 +109,6 @@
     <title>Love-Doting Girl - Chapter 146</title>
     <link>https://comick.app/comic/love-doting-girl</link>
     <description>Chapter 146 of Love-Doting Girl is now available on ComicK!</description>
-</item>
-<item>
-    <title>Super Lovers - Chapter 6.5</title>
-    <link>https://comick.app/comic/super-lovers</link>
-    <description>Chapter 6.5 of Super Lovers is now available on ComicK!</description>
 </item>
 
 </channel>
