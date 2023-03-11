@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Katakoi - Chapter None</title>
+    <link>https://comick.app/comic/katakoi</link>
+    <description>Chapter None of Katakoi is now available on ComicK!</description>
+</item>
+<item>
+    <title>Yashio to Mikumo - Chapter 3.5</title>
+    <link>https://comick.app/comic/yashio-to-mikumo</link>
+    <description>Chapter 3.5 of Yashio to Mikumo is now available on ComicK!</description>
+</item>
+<item>
     <title>Kao no Nai Otoko - Chapter None</title>
     <link>https://comick.app/comic/kao-no-nai-otoko</link>
     <description>Chapter None of Kao no Nai Otoko is now available on ComicK!</description>
@@ -139,16 +149,6 @@
     <title>Happy End no Uragawa - Chapter None</title>
     <link>https://comick.app/comic/happy-end-no-uragawa</link>
     <description>Chapter None of Happy End no Uragawa is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hand-in-Hand Lovers - Chapter None</title>
-    <link>https://comick.app/comic/hand-in-hand-lovers</link>
-    <description>Chapter None of Hand-in-Hand Lovers is now available on ComicK!</description>
-</item>
-<item>
-    <title>He Loves You - Chapter None</title>
-    <link>https://comick.app/comic/he-loves-you</link>
-    <description>Chapter None of He Loves You is now available on ComicK!</description>
 </item>
 
 </channel>

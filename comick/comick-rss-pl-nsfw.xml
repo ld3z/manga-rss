@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Katakoi - Chapter None</title>
+    <link>https://comick.app/comic/katakoi</link>
+    <description>Chapter None of Katakoi is now available on ComicK!</description>
+</item>
+<item>
+    <title>Yashio to Mikumo - Chapter 3.5</title>
+    <link>https://comick.app/comic/yashio-to-mikumo</link>
+    <description>Chapter 3.5 of Yashio to Mikumo is now available on ComicK!</description>
+</item>
+<item>
     <title>Kao no Nai Otoko - Chapter None</title>
     <link>https://comick.app/comic/kao-no-nai-otoko</link>
     <description>Chapter None of Kao no Nai Otoko is now available on ComicK!</description>
@@ -139,16 +149,6 @@
     <title>Honey*Witch - Chapter None</title>
     <link>https://comick.app/comic/honey-witch</link>
     <description>Chapter None of Honey*Witch is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kare wa Amai Yuuwaku - Honey Honey Boy - Chapter None</title>
-    <link>https://comick.app/comic/kare-wa-amai-yuuwaku-honey-honey-boy</link>
-    <description>Chapter None of Kare wa Amai Yuuwaku - Honey Honey Boy is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hikitateyaku no Koi - Chapter 1</title>
-    <link>https://comick.app/comic/hikitateyaku-no-koi</link>
-    <description>Chapter 1 of Hikitateyaku no Koi is now available on ComicK!</description>
 </item>
 
 </channel>
