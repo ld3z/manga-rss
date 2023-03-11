@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kao no Nai Otoko - Chapter None</title>
+    <link>https://comick.app/comic/kao-no-nai-otoko</link>
+    <description>Chapter None of Kao no Nai Otoko is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kanojo no Namida ga Yuki da Toshitara - Chapter 1</title>
+    <link>https://comick.app/comic/kanojo-no-namida-ga-yuki-da-toshitara</link>
+    <description>Chapter 1 of Kanojo no Namida ga Yuki da Toshitara is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kanojo no Kare - Chapter None</title>
+    <link>https://comick.app/comic/kanojo-no-kare</link>
+    <description>Chapter None of Kanojo no Kare is now available on ComicK!</description>
+</item>
+<item>
     <title>Inoribana - Chapter 1</title>
     <link>https://comick.app/comic/inoribana</link>
     <description>Chapter 1 of Inoribana is now available on ComicK!</description>
@@ -134,21 +149,6 @@
     <title>He Loves You - Chapter None</title>
     <link>https://comick.app/comic/he-loves-you</link>
     <description>Chapter None of He Loves You is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hana Sakasu Te - Chapter None</title>
-    <link>https://comick.app/comic/hana-sakasu-te</link>
-    <description>Chapter None of Hana Sakasu Te is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hana, Saita. - Chapter None</title>
-    <link>https://comick.app/comic/hana-saita</link>
-    <description>Chapter None of Hana, Saita. is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hakuji - Chapter 1</title>
-    <link>https://comick.app/comic/hakuji</link>
-    <description>Chapter 1 of Hakuji is now available on ComicK!</description>
 </item>
 
 </channel>
