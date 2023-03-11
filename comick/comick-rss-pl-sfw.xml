@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Inoribana - Chapter 1</title>
+    <link>https://comick.app/comic/inoribana</link>
+    <description>Chapter 1 of Inoribana is now available on ComicK!</description>
+</item>
+<item>
     <title>Bokura no Koi wa Shi ni Itaru Yamai no You de - Chapter 12</title>
     <link>https://comick.app/comic/bokura-no-koi-wa-shi-ni-itaru-yamai-no-you-de</link>
     <description>Chapter 12 of Bokura no Koi wa Shi ni Itaru Yamai no You de is now available on ComicK!</description>
@@ -144,11 +149,6 @@
     <title>Hakuji - Chapter 1</title>
     <link>https://comick.app/comic/hakuji</link>
     <description>Chapter 1 of Hakuji is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hajimari no Haru - Chapter 1</title>
-    <link>https://comick.app/comic/hajimari-no-haru-jtk2d46p</link>
-    <description>Chapter 1 of Hajimari no Haru is now available on ComicK!</description>
 </item>
 
 </channel>
