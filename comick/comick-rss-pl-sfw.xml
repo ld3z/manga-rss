@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Mishounen Produce - Chapter 18.5</title>
+    <link>https://comick.app/comic/mishounen-produce</link>
+    <description>Chapter 18.5 of Mishounen Produce is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kanojo no Namida ga Yuki da Toshitara - Chapter 2</title>
+    <link>https://comick.app/comic/kanojo-no-namida-ga-yuki-da-toshitara</link>
+    <description>Chapter 2 of Kanojo no Namida ga Yuki da Toshitara is now available on ComicK!</description>
+</item>
+<item>
     <title>Majo to Yajuu - Chapter None</title>
     <link>https://comick.app/comic/majo-to-yajuu</link>
     <description>Chapter None of Majo to Yajuu is now available on ComicK!</description>
@@ -64,11 +74,6 @@
     <title>Kao no Nai Otoko - Chapter None</title>
     <link>https://comick.app/comic/kao-no-nai-otoko</link>
     <description>Chapter None of Kao no Nai Otoko is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kanojo no Namida ga Yuki da Toshitara - Chapter 1</title>
-    <link>https://comick.app/comic/kanojo-no-namida-ga-yuki-da-toshitara</link>
-    <description>Chapter 1 of Kanojo no Namida ga Yuki da Toshitara is now available on ComicK!</description>
 </item>
 <item>
     <title>Kanojo no Kare - Chapter None</title>
@@ -149,11 +154,6 @@
     <title>The Real Daughter Is Back - Chapter 14</title>
     <link>https://comick.app/comic/the-real-daughter-is-back</link>
     <description>Chapter 14 of The Real Daughter Is Back is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ichihime Ninja - Chapter None</title>
-    <link>https://comick.app/comic/ichihime-ninja</link>
-    <description>Chapter None of Ichihime Ninja is now available on ComicK!</description>
 </item>
 
 </channel>
