@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kon no Ki Konoha - Chapter None</title>
+    <link>https://comick.app/comic/kon-no-ki-konoha</link>
+    <description>Chapter None of Kon no Ki Konoha is now available on ComicK!</description>
+</item>
+<item>
+    <title>Kirara to Shiroi Ookami - Chapter None</title>
+    <link>https://comick.app/comic/kirara-to-shiroi-ookami</link>
+    <description>Chapter None of Kirara to Shiroi Ookami is now available on ComicK!</description>
+</item>
+<item>
     <title>Kimi to Boku no Junjou Renai Jijou - Chapter None</title>
     <link>https://comick.app/comic/kimi-to-boku-no-junjou-renai-jijou</link>
     <description>Chapter None of Kimi to Boku no Junjou Renai Jijou is now available on ComicK!</description>
@@ -139,16 +149,6 @@
     <title>Hikitateyaku no Koi - Chapter 1</title>
     <link>https://comick.app/comic/hikitateyaku-no-koi</link>
     <description>Chapter 1 of Hikitateyaku no Koi is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hatsu koi, Yoru ni Tokeru - Chapter None</title>
-    <link>https://comick.app/comic/hatsu-koi-yoru-ni-tokeru</link>
-    <description>Chapter None of Hatsu koi, Yoru ni Tokeru is now available on ComicK!</description>
-</item>
-<item>
-    <title>Hard Luck Woman - Chapter None</title>
-    <link>https://comick.app/comic/hard-luck-woman</link>
-    <description>Chapter None of Hard Luck Woman is now available on ComicK!</description>
 </item>
 
 </channel>
