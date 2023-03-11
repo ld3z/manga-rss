@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Juujika no Rokunin - Chapter 120</title>
+    <link>https://comick.app/comic/juujika-no-rokunin</link>
+    <description>Chapter 120 of Juujika no Rokunin is now available on ComicK!</description>
+</item>
+<item>
     <title>Ichinose-ke no Taizai - Chapter 15</title>
     <link>https://comick.app/comic/ichinose-ke-no-taizai</link>
     <description>Chapter 15 of Ichinose-ke no Taizai is now available on ComicK!</description>
@@ -104,11 +109,6 @@
     <title>Yankee JK KuzuHana-chan - Chapter 144</title>
     <link>https://comick.app/comic/yankee-jk-kuzu-hana-chan</link>
     <description>Chapter 144 of Yankee JK KuzuHana-chan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Juujika no Rokunin - Chapter 119</title>
-    <link>https://comick.app/comic/juujika-no-rokunin</link>
-    <description>Chapter 119 of Juujika no Rokunin is now available on ComicK!</description>
 </item>
 <item>
     <title>Gachaman - Chapter 2</title>
@@ -339,11 +339,6 @@
     <title>My Chubby Princess - Chapter 185</title>
     <link>https://comick.app/comic/my-chubby-princess-2</link>
     <description>Chapter 185 of My Chubby Princess is now available on ComicK!</description>
-</item>
-<item>
-    <title>I'm Unrivalled In The Mystery Game - Chapter 12</title>
-    <link>https://comick.app/comic/riding-on-the-edge-of-annihilation</link>
-    <description>Chapter 12 of I'm Unrivalled In The Mystery Game is now available on ComicK!</description>
 </item>
 
 </channel>
