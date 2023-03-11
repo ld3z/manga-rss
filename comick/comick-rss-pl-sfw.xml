@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Linda - Chapter None</title>
+    <link>https://comick.app/comic/linda</link>
+    <description>Chapter None of Linda is now available on ComicK!</description>
+</item>
+<item>
     <title>Saitei na Hito wo Suki ni Narimashita - Chapter None</title>
     <link>https://comick.app/comic/saitei-na-hito-o-suki-ni-narimashita</link>
     <description>Chapter None of Saitei na Hito wo Suki ni Narimashita is now available on ComicK!</description>
@@ -144,11 +149,6 @@
     <title>Kare ga Kanojo O Tsukuranai Riyuu - Chapter 2</title>
     <link>https://comick.app/comic/kare-ga-kanojo-o-tsukuranai-riyuu</link>
     <description>Chapter 2 of Kare ga Kanojo O Tsukuranai Riyuu is now available on ComicK!</description>
-</item>
-<item>
-    <title>Asa Made Matemasen! - Chapter None</title>
-    <link>https://comick.app/comic/asa-made-matemasen</link>
-    <description>Chapter None of Asa Made Matemasen! is now available on ComicK!</description>
 </item>
 
 </channel>

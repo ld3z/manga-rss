@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Aitsu ni Koishita Yottsu no Wake - Chapter 2</title>
+    <link>https://comick.app/comic/aitsu-ni-koishita-yottsu-no-wake</link>
+    <description>Chapter 2 of Aitsu ni Koishita Yottsu no Wake is now available on ComicK!</description>
+</item>
+<item>
+    <title>Linda - Chapter None</title>
+    <link>https://comick.app/comic/linda</link>
+    <description>Chapter None of Linda is now available on ComicK!</description>
+</item>
+<item>
     <title>Saitei na Hito wo Suki ni Narimashita - Chapter None</title>
     <link>https://comick.app/comic/saitei-na-hito-o-suki-ni-narimashita</link>
     <description>Chapter None of Saitei na Hito wo Suki ni Narimashita is now available on ComicK!</description>
@@ -59,11 +69,6 @@
     <title>Kanojo no Kare - Chapter None</title>
     <link>https://comick.app/comic/kanojo-no-kare</link>
     <description>Chapter None of Kanojo no Kare is now available on ComicK!</description>
-</item>
-<item>
-    <title>Aitsu ni Koishita Yottsu no Wake - Chapter 1</title>
-    <link>https://comick.app/comic/aitsu-ni-koishita-yottsu-no-wake</link>
-    <description>Chapter 1 of Aitsu ni Koishita Yottsu no Wake is now available on ComicK!</description>
 </item>
 <item>
     <title>Inoribana - Chapter 1</title>
@@ -144,16 +149,6 @@
     <title>Where the Wind Stays - Chapter 32</title>
     <link>https://comick.app/comic/where-the-wind-stays</link>
     <description>Chapter 32 of Where the Wind Stays is now available on ComicK!</description>
-</item>
-<item>
-    <title>Genshoku Tsundere Danshi Ikenai Sensei - Chapter 1</title>
-    <link>https://comick.app/comic/genshoku-tsundere-danshi-ikenai-sensei</link>
-    <description>Chapter 1 of Genshoku Tsundere Danshi Ikenai Sensei is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ichihime Ninja - Chapter None</title>
-    <link>https://comick.app/comic/ichihime-ninja</link>
-    <description>Chapter None of Ichihime Ninja is now available on ComicK!</description>
 </item>
 
 </channel>
