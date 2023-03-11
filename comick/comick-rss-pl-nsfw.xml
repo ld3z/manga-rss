@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>High School Debut - Chapter 5</title>
+    <link>https://comick.app/comic/koukou-debut</link>
+    <description>Chapter 5 of High School Debut is now available on ComicK!</description>
+</item>
+<item>
     <title>Remarried Empress - Chapter 88</title>
     <link>https://comick.app/comic/remarried-empress-k2kmhzkk-2</link>
     <description>Chapter 88 of Remarried Empress is now available on ComicK!</description>
@@ -229,11 +234,6 @@
     <title>BARRAGE - Chapter 16</title>
     <link>https://comick.app/comic/sensei-no-bulge</link>
     <description>Chapter 16 of BARRAGE is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Failed to Divorce My Husband - Chapter 14</title>
-    <link>https://comick.app/comic/i-failed-to-divorce-my-husband</link>
-    <description>Chapter 14 of I Failed to Divorce My Husband is now available on ComicK!</description>
 </item>
 
 </channel>
