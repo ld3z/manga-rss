@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Dr. Player - Chapter 1</title>
+    <link>https://comick.app/comic/dr-player</link>
+    <description>Chapter 1 of Dr. Player is now available on ComicK!</description>
+</item>
+<item>
     <title>Wonder Cat Kyuu-chan - Chapter 216</title>
     <link>https://comick.app/comic/wonder-cat-kyuu-chan</link>
     <description>Chapter 216 of Wonder Cat Kyuu-chan is now available on ComicK!</description>
@@ -239,11 +244,6 @@
     <title>Fushigi no Mayuri-san - Chapter 3</title>
     <link>https://comick.app/comic/fushigi-no-mayuri-san</link>
     <description>Chapter 3 of Fushigi no Mayuri-san is now available on ComicK!</description>
-</item>
-<item>
-    <title>A Story About a Totally Straightforward Girlfriend - Chapter 6</title>
-    <link>https://comick.app/comic/a-story-about-a-totally-straightforward-girlfriend</link>
-    <description>Chapter 6 of A Story About a Totally Straightforward Girlfriend is now available on ComicK!</description>
 </item>
 
 </channel>
