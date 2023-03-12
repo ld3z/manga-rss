@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Ice Blade - Chapter 9.2</title>
+    <title>Ice Blade - Chapter 13.4</title>
     <link>https://comick.app/comic/jiraishin</link>
-    <description>Chapter 9.2 of Ice Blade is now available on ComicK!</description>
+    <description>Chapter 13.4 of Ice Blade is now available on ComicK!</description>
+</item>
+<item>
+    <title>I Accidentally Saved the Male Lead's Brother - Chapter 14</title>
+    <link>https://comick.app/comic/i-accidentally-saved-the-male-lead-s-brother</link>
+    <description>Chapter 14 of I Accidentally Saved the Male Lead's Brother is now available on ComicK!</description>
 </item>
 <item>
     <title>The World After the Fall - Chapter 12</title>
@@ -139,51 +144,6 @@
     <title>Doom Breaker - Chapter 10</title>
     <link>https://comick.app/comic/doom-breaker-2</link>
     <description>Chapter 10 of Doom Breaker is now available on ComicK!</description>
-</item>
-<item>
-    <title>Dr. Player - Chapter 1</title>
-    <link>https://comick.app/comic/dr-player</link>
-    <description>Chapter 1 of Dr. Player is now available on ComicK!</description>
-</item>
-<item>
-    <title>Wonder Cat Kyuu-chan - Chapter 216</title>
-    <link>https://comick.app/comic/wonder-cat-kyuu-chan</link>
-    <description>Chapter 216 of Wonder Cat Kyuu-chan is now available on ComicK!</description>
-</item>
-<item>
-    <title>Max Level Returner - Chapter 80</title>
-    <link>https://comick.app/comic/max-level-returner-2</link>
-    <description>Chapter 80 of Max Level Returner is now available on ComicK!</description>
-</item>
-<item>
-    <title>Solo Spell Caster - Chapter 90</title>
-    <link>https://comick.app/comic/solo-spell-caster-2</link>
-    <description>Chapter 90 of Solo Spell Caster is now available on ComicK!</description>
-</item>
-<item>
-    <title>There Must Be Happy Endings - Chapter 46</title>
-    <link>https://comick.app/comic/surely-a-happy-ending-2</link>
-    <description>Chapter 46 of There Must Be Happy Endings is now available on ComicK!</description>
-</item>
-<item>
-    <title>Pure Love Seasons 1: Haru - Hajimete - Chapter 2</title>
-    <link>https://comick.app/comic/pure-love-seasons-1-haru-hajimete</link>
-    <description>Chapter 2 of Pure Love Seasons 1: Haru - Hajimete is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kanojo ni Naru Hi Another - Chapter 7.5</title>
-    <link>https://comick.app/comic/kanojo-ni-naru-hi-another</link>
-    <description>Chapter 7.5 of Kanojo ni Naru Hi Another is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ramune Bannouyaku - Chapter 1</title>
-    <link>https://comick.app/comic/ramune-bannouyaku</link>
-    <description>Chapter 1 of Ramune Bannouyaku is now available on ComicK!</description>
-</item>
-<item>
-    <title>Phantom Syndrome - Chapter None</title>
-    <link>https://comick.app/comic/phantom-syndrome</link>
-    <description>Chapter None of Phantom Syndrome is now available on ComicK!</description>
 </item>
 
 </channel>
