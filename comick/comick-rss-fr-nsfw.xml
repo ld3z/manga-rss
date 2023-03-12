@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>A Poisonous Lily - Chapter 17</title>
+    <link>https://comick.app/comic/a-poisonous-lily-2</link>
+    <description>Chapter 17 of A Poisonous Lily is now available on ComicK!</description>
+</item>
+<item>
     <title>Burning Kabaddi - Chapter 3</title>
     <link>https://comick.app/comic/burning-kabaddi</link>
     <description>Chapter 3 of Burning Kabaddi is now available on ComicK!</description>
@@ -39,11 +44,6 @@
     <title>The Guy She Was Interested in Wasn't a Guy at All - Chapter 12</title>
     <link>https://comick.app/comic/the-guy-she-was-interested-in-wasn-t-a-guy-at-all</link>
     <description>Chapter 12 of The Guy She Was Interested in Wasn't a Guy at All is now available on ComicK!</description>
-</item>
-<item>
-    <title>A Poisonous Lily - Chapter 12</title>
-    <link>https://comick.app/comic/a-poisonous-lily-2</link>
-    <description>Chapter 12 of A Poisonous Lily is now available on ComicK!</description>
 </item>
 <item>
     <title>[Rouhou] Ore no Iinazuke ni Natta Jimiko, Ie de wa Kawaii Shika nai. - Chapter 11</title>
@@ -324,16 +324,6 @@
     <title>Akabane Honeko no Bodyguard - Chapter 3</title>
     <link>https://comick.app/comic/akabane-honeko-no-bodyguard</link>
     <description>Chapter 3 of Akabane Honeko no Bodyguard is now available on ComicK!</description>
-</item>
-<item>
-    <title>S Rank Boukensha de aru Ore no Musume-tachi wa Juudo no Father Con deshita - Chapter 3</title>
-    <link>https://comick.app/comic/s-rank-boukensha-de-aru-ore-no-musume-tachi-wa-juudo-no-father-con-deshita</link>
-    <description>Chapter 3 of S Rank Boukensha de aru Ore no Musume-tachi wa Juudo no Father Con deshita is now available on ComicK!</description>
-</item>
-<item>
-    <title>I'm Addicted to Her - Chapter 1</title>
-    <link>https://comick.app/comic/kanojo-no-sore-ni-yarareteru</link>
-    <description>Chapter 1 of I'm Addicted to Her is now available on ComicK!</description>
 </item>
 
 </channel>
