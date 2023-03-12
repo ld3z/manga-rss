@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Mushishi - Chapter 2</title>
+    <link>https://comick.app/comic/mushishi</link>
+    <description>Chapter 2 of Mushishi is now available on ComicK!</description>
+</item>
+<item>
     <title>Wind Breaker - Chapter 129</title>
     <link>https://comick.app/comic/wind-breaker-2</link>
     <description>Chapter 129 of Wind Breaker is now available on ComicK!</description>
@@ -29,11 +34,6 @@
     <title>Mujina In To The Deep - Chapter 1</title>
     <link>https://comick.app/comic/mujina-in-to-the-deep</link>
     <description>Chapter 1 of Mujina In To The Deep is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mushishi - Chapter 1</title>
-    <link>https://comick.app/comic/mushishi</link>
-    <description>Chapter 1 of Mushishi is now available on ComicK!</description>
 </item>
 <item>
     <title>One Punch-Man - Chapter 181</title>
