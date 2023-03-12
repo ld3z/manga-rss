@@ -6,6 +6,16 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Touhou - Bizarre Tales by the Well (Doujinshi) - Chapter 1</title>
+    <link>https://comick.app/comic/touhou-bizarre-tales-by-the-well-the-shedding-doujinshi</link>
+    <description>Chapter 1 of Touhou - Bizarre Tales by the Well (Doujinshi) is now available on ComicK!</description>
+</item>
+<item>
+    <title>FX Senshi Kurumi-chan - Chapter 13</title>
+    <link>https://comick.app/comic/fx-fighter-kurumi-chan</link>
+    <description>Chapter 13 of FX Senshi Kurumi-chan is now available on ComicK!</description>
+</item>
+<item>
     <title>A Comic Artist’s Survival Guide - Chapter 23</title>
     <link>https://comick.app/comic/a-comic-artist-s-survival-guide</link>
     <description>Chapter 23 of A Comic Artist’s Survival Guide is now available on ComicK!</description>
@@ -59,11 +69,6 @@
     <title>Dungeon Athlete - Chapter 32</title>
     <link>https://comick.app/comic/health-dungeon</link>
     <description>Chapter 32 of Dungeon Athlete is now available on ComicK!</description>
-</item>
-<item>
-    <title>Alpha Omega-Beta - Chapter 55</title>
-    <link>https://comick.app/comic/alpha-omega-beta</link>
-    <description>Chapter 55 of Alpha Omega-Beta is now available on ComicK!</description>
 </item>
 
 </channel>
