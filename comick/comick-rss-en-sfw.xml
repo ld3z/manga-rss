@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Dark Hero - Chapter 20</title>
+    <link>https://comick.app/comic/dark-hero</link>
+    <description>Chapter 20 of Dark Hero is now available on ComicK!</description>
+</item>
+<item>
     <title>Resetting Lady - Chapter 45</title>
     <link>https://comick.app/comic/resetting-lady</link>
     <description>Chapter 45 of Resetting Lady is now available on ComicK!</description>
@@ -104,11 +109,6 @@
     <title>The Pale Horse - Chapter 243.5</title>
     <link>https://comick.app/comic/the-pale-horse-2</link>
     <description>Chapter 243.5 of The Pale Horse is now available on ComicK!</description>
-</item>
-<item>
-    <title>Tomehane! - Chapter 67</title>
-    <link>https://comick.app/comic/tomehane</link>
-    <description>Chapter 67 of Tomehane! is now available on ComicK!</description>
 </item>
 
 </channel>
