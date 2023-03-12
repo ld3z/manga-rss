@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Resetting Lady - Chapter 45</title>
+    <link>https://comick.app/comic/resetting-lady</link>
+    <description>Chapter 45 of Resetting Lady is now available on ComicK!</description>
+</item>
+<item>
     <title>Cardfight!! Vanguard YouthQuake - Chapter 7</title>
     <link>https://comick.app/comic/cardfight-vanguard-youth-quake</link>
     <description>Chapter 7 of Cardfight!! Vanguard YouthQuake is now available on ComicK!</description>
@@ -104,11 +109,6 @@
     <title>Tomehane! - Chapter 67</title>
     <link>https://comick.app/comic/tomehane</link>
     <description>Chapter 67 of Tomehane! is now available on ComicK!</description>
-</item>
-<item>
-    <title>Zeikin de Katta Hon - Chapter 49</title>
-    <link>https://comick.app/comic/zeikin-de-katta-hon</link>
-    <description>Chapter 49 of Zeikin de Katta Hon is now available on ComicK!</description>
 </item>
 
 </channel>
