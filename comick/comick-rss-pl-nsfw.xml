@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Lillien of Turin - Chapter 1</title>
+    <link>https://comick.app/comic/lillien-of-turin-2</link>
+    <description>Chapter 1 of Lillien of Turin is now available on ComicK!</description>
+</item>
+<item>
     <title>Monkey Peak - Chapter 62</title>
     <link>https://comick.app/comic/monkey-peak-juqjnkbj</link>
     <description>Chapter 62 of Monkey Peak is now available on ComicK!</description>
@@ -189,11 +194,6 @@
     <title>Ichinose-ke no Taizai - Chapter 15</title>
     <link>https://comick.app/comic/ichinose-ke-no-taizai</link>
     <description>Chapter 15 of Ichinose-ke no Taizai is now available on ComicK!</description>
-</item>
-<item>
-    <title>The State of a Certain Wife. - Chapter 4</title>
-    <link>https://comick.app/comic/the-state-of-a-certain-wife</link>
-    <description>Chapter 4 of The State of a Certain Wife. is now available on ComicK!</description>
 </item>
 
 </channel>
