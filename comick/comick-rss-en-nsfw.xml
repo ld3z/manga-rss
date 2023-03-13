@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Zatch Bell! 2 - Chapter 11</title>
+    <link>https://comick.app/comic/zatch-bell-2</link>
+    <description>Chapter 11 of Zatch Bell! 2 is now available on ComicK!</description>
+</item>
+<item>
     <title>Looking for an Idol - Chapter 28</title>
     <link>https://comick.app/comic/idol-wo-sagase</link>
     <description>Chapter 28 of Looking for an Idol is now available on ComicK!</description>
@@ -329,11 +334,6 @@
     <title>Demon God - Chapter 293</title>
     <link>https://comick.app/comic/demon-god-2</link>
     <description>Chapter 293 of Demon God is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Lost My Adventurer's License, but It's Fine Because I Have an Adorable Daughter Now (Official) - Chapter 16.2</title>
-    <link>https://comick.app/comic/i-lost-my-adventurer-s-license-but-it-s-fine-because-i-have-an-adorable-daughter-now-official</link>
-    <description>Chapter 16.2 of I Lost My Adventurer's License, but It's Fine Because I Have an Adorable Daughter Now (Official) is now available on ComicK!</description>
 </item>
 
 </channel>
