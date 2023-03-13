@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Strain - Chapter 1</title>
+    <link>https://comick.app/comic/strain</link>
+    <description>Chapter 1 of Strain is now available on ComicK!</description>
+</item>
+<item>
     <title>Monkey Peak - Chapter 63</title>
     <link>https://comick.app/comic/monkey-peak-juqjnkbj</link>
     <description>Chapter 63 of Monkey Peak is now available on ComicK!</description>
@@ -159,11 +164,6 @@
     <title>Ice Blade - Chapter 23.1</title>
     <link>https://comick.app/comic/jiraishin</link>
     <description>Chapter 23.1 of Ice Blade is now available on ComicK!</description>
-</item>
-<item>
-    <title>I Accidentally Saved the Male Lead's Brother - Chapter 14</title>
-    <link>https://comick.app/comic/i-accidentally-saved-the-male-lead-s-brother</link>
-    <description>Chapter 14 of I Accidentally Saved the Male Lead's Brother is now available on ComicK!</description>
 </item>
 
 </channel>
