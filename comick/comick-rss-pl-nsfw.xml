@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Snow White's Secret - Chapter None</title>
+    <link>https://comick.app/comic/snow-white-s-secret</link>
+    <description>Chapter None of Snow White's Secret is now available on ComicK!</description>
+</item>
+<item>
     <title>Snow Gift - Chapter None</title>
     <link>https://comick.app/comic/snow-gift</link>
     <description>Chapter None of Snow Gift is now available on ComicK!</description>
@@ -174,11 +179,6 @@
     <title>Dragon's Heaven - Chapter 4</title>
     <link>https://comick.app/comic/dragon-s-heaven</link>
     <description>Chapter 4 of Dragon's Heaven is now available on ComicK!</description>
-</item>
-<item>
-    <title>Vagabond - Chapter 126</title>
-    <link>https://comick.app/comic/vagabond</link>
-    <description>Chapter 126 of Vagabond is now available on ComicK!</description>
 </item>
 
 </channel>
