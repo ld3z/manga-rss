@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Kamikaze - Chapter 1</title>
+    <link>https://comick.app/comic/kamikaze</link>
+    <description>Chapter 1 of Kamikaze is now available on ComicK!</description>
+</item>
+<item>
     <title>Lillien of Turin - Chapter 1</title>
     <link>https://comick.app/comic/lillien-of-turin-2</link>
     <description>Chapter 1 of Lillien of Turin is now available on ComicK!</description>
@@ -189,11 +194,6 @@
     <title>Heaven Official's Blessing - Chapter 49</title>
     <link>https://comick.app/comic/heaven-official-s-blessing-k6xaqqbz-2</link>
     <description>Chapter 49 of Heaven Official's Blessing is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ichinose-ke no Taizai - Chapter 15</title>
-    <link>https://comick.app/comic/ichinose-ke-no-taizai</link>
-    <description>Chapter 15 of Ichinose-ke no Taizai is now available on ComicK!</description>
 </item>
 
 </channel>
