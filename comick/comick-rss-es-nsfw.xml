@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Zatch Bell! 2 - Chapter 11</title>
+    <link>https://comick.app/comic/zatch-bell-2</link>
+    <description>Chapter 11 of Zatch Bell! 2 is now available on ComicK!</description>
+</item>
+<item>
     <title>Higurashi no Naku Koro ni - Onikakushi-hen - Chapter 6</title>
     <link>https://comick.app/comic/higurashi-no-naku-koro-ni-onikakushi-hen</link>
     <description>Chapter 6 of Higurashi no Naku Koro ni - Onikakushi-hen is now available on ComicK!</description>
@@ -121,11 +126,6 @@
     <description>Chapter 7 of An Illustrated Guide to Sapphic Behavior is now available on ComicK!</description>
 </item>
 <item>
-    <title>Zatch Bell! 2 - Chapter 10</title>
-    <link>https://comick.app/comic/zatch-bell-2</link>
-    <description>Chapter 10 of Zatch Bell! 2 is now available on ComicK!</description>
-</item>
-<item>
     <title>Tsundere Osananajimi no Ongaeshi - Chapter None</title>
     <link>https://comick.app/comic/tsundere-osananajimi-no-ongaeshi</link>
     <description>Chapter None of Tsundere Osananajimi no Ongaeshi is now available on ComicK!</description>
@@ -184,11 +184,6 @@
     <title>JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored) - Chapter 105</title>
     <link>https://comick.app/comic/jo-jo-s-bizarre-adventure-part-8-jo-jolion-official-colored</link>
     <description>Chapter 105 of JoJo's Bizarre Adventure Part 8 - JoJolion (Official Colored) is now available on ComicK!</description>
-</item>
-<item>
-    <title>Prince Akihiko - Chapter 1</title>
-    <link>https://comick.app/comic/prince-akihiko</link>
-    <description>Chapter 1 of Prince Akihiko is now available on ComicK!</description>
 </item>
 
 </channel>
