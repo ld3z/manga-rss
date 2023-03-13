@@ -6,9 +6,14 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>Invincible After 100 Years of Seclusion - Chapter 1</title>
+    <title>Invincible After 100 Years of Seclusion - Chapter 7</title>
     <link>https://comick.app/comic/invincible-after-100-years-of-seclusion</link>
-    <description>Chapter 1 of Invincible After 100 Years of Seclusion is now available on ComicK!</description>
+    <description>Chapter 7 of Invincible After 100 Years of Seclusion is now available on ComicK!</description>
+</item>
+<item>
+    <title>Orient - Chapter 120</title>
+    <link>https://comick.app/comic/orient</link>
+    <description>Chapter 120 of Orient is now available on ComicK!</description>
 </item>
 <item>
     <title>Level 0 no Maou-sama, Isekai de Boukensha wo Hajimemasu - Chapter 16.1</title>
@@ -79,11 +84,6 @@
     <title>Is This Hero for Real? - Chapter 50</title>
     <link>https://comick.app/comic/is-this-hero-for-real</link>
     <description>Chapter 50 of Is This Hero for Real? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Eight Clouds Rising - Chapter 57.1</title>
-    <link>https://comick.app/comic/yakumo-tatsu</link>
-    <description>Chapter 57.1 of Eight Clouds Rising is now available on ComicK!</description>
 </item>
 
 </channel>
