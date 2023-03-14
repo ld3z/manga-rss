@@ -6,6 +6,11 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>I Am The Immortal - Chapter 1</title>
+    <link>https://comick.app/comic/i-am-the-immortal</link>
+    <description>Chapter 1 of I Am The Immortal is now available on ComicK!</description>
+</item>
+<item>
     <title>Yumeochi: Dreaming of Falling For You - Chapter 1</title>
     <link>https://comick.app/comic/yumeochi-yume-de-bokura-wa-koi-ni-ochiru</link>
     <description>Chapter 1 of Yumeochi: Dreaming of Falling For You is now available on ComicK!</description>
@@ -209,11 +214,6 @@
     <title>Yofukashi no Uta - Chapter 163</title>
     <link>https://comick.app/comic/yofukashi-no-uta-jzw5b8dg</link>
     <description>Chapter 163 of Yofukashi no Uta is now available on ComicK!</description>
-</item>
-<item>
-    <title>Mujina In To The Deep - Chapter 1</title>
-    <link>https://comick.app/comic/mujina-in-to-the-deep</link>
-    <description>Chapter 1 of Mujina In To The Deep is now available on ComicK!</description>
 </item>
 
 </channel>
