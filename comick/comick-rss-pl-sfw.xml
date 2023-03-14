@@ -6,6 +6,21 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Two Cups of Coffee - Chapter None</title>
+    <link>https://comick.app/comic/two-cups-of-coffee</link>
+    <description>Chapter None of Two Cups of Coffee is now available on ComicK!</description>
+</item>
+<item>
+    <title>Arcana 06 - Special Forces / Teams - Chapter 15</title>
+    <link>https://comick.app/comic/arcana-06-special-forces-teams</link>
+    <description>Chapter 15 of Arcana 06 - Special Forces / Teams is now available on ComicK!</description>
+</item>
+<item>
+    <title>Tsuyogari - Chapter None</title>
+    <link>https://comick.app/comic/tsuyogari-k2w36m37</link>
+    <description>Chapter None of Tsuyogari is now available on ComicK!</description>
+</item>
+<item>
     <title>Travel To The Cats' Territory - Chapter None</title>
     <link>https://comick.app/comic/travel-to-the-cats-territory</link>
     <description>Chapter None of Travel To The Cats' Territory is now available on ComicK!</description>
@@ -69,16 +84,6 @@
     <title>Strain - Chapter 38</title>
     <link>https://comick.app/comic/strain</link>
     <description>Chapter 38 of Strain is now available on ComicK!</description>
-</item>
-<item>
-    <title>Monkey Peak - Chapter 63</title>
-    <link>https://comick.app/comic/monkey-peak-juqjnkbj</link>
-    <description>Chapter 63 of Monkey Peak is now available on ComicK!</description>
-</item>
-<item>
-    <title>Kamikaze - Chapter 21</title>
-    <link>https://comick.app/comic/kamikaze</link>
-    <description>Chapter 21 of Kamikaze is now available on ComicK!</description>
 </item>
 
 </channel>
