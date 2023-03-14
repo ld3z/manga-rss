@@ -6,14 +6,24 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
+    <title>Celestial Master - Chapter 1</title>
+    <link>https://comick.app/comic/celestial-master</link>
+    <description>Chapter 1 of Celestial Master is now available on ComicK!</description>
+</item>
+<item>
+    <title>Hongshi Loves Me! - Chapter 231</title>
+    <link>https://comick.app/comic/hongshi-loves-me</link>
+    <description>Chapter 231 of Hongshi Loves Me! is now available on ComicK!</description>
+</item>
+<item>
+    <title>Orange Chocolate - Chapter 49.1</title>
+    <link>https://comick.app/comic/orange-chocolate</link>
+    <description>Chapter 49.1 of Orange Chocolate is now available on ComicK!</description>
+</item>
+<item>
     <title>Well, Shall I Murder Instead of You? - Chapter 6</title>
     <link>https://comick.app/comic/jaa-kimi-no-kawari-ni-korosou-kaI5-i</link>
     <description>Chapter 6 of Well, Shall I Murder Instead of You? is now available on ComicK!</description>
-</item>
-<item>
-    <title>Celestial Master - Chapter 0</title>
-    <link>https://comick.app/comic/celestial-master</link>
-    <description>Chapter 0 of Celestial Master is now available on ComicK!</description>
 </item>
 <item>
     <title>Archmage Who Transcends by Returning - Chapter 42</title>
@@ -54,11 +64,6 @@
     <title>Jumbo Max - Chapter 2</title>
     <link>https://comick.app/comic/jumbo-max</link>
     <description>Chapter 2 of Jumbo Max is now available on ComicK!</description>
-</item>
-<item>
-    <title>The Villainess Is a Marionette - Chapter 77</title>
-    <link>https://comick.app/comic/the-villainess-is-a-marionette-2</link>
-    <description>Chapter 77 of The Villainess Is a Marionette is now available on ComicK!</description>
 </item>
 
 </channel>
