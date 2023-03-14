@@ -6,9 +6,19 @@
 <link>https://github.com/ld3z/manga-rss</link>
 <description>A simple RSS feed for ComicK!</description>
 <item>
-    <title>I Raised a Black Dragon - Chapter 55</title>
+    <title>Whimsical Arknights 4koma Theater - Chapter 30</title>
+    <link>https://comick.app/comic/whimsical-arknights-4koma-theater</link>
+    <description>Chapter 30 of Whimsical Arknights 4koma Theater is now available on ComicK!</description>
+</item>
+<item>
+    <title>Reincarnation of the Murim Clan’s Former Ranker - Chapter 78</title>
+    <link>https://comick.app/comic/reincarnation-of-the-murim-clan-s-former-ranker</link>
+    <description>Chapter 78 of Reincarnation of the Murim Clan’s Former Ranker is now available on ComicK!</description>
+</item>
+<item>
+    <title>I Raised a Black Dragon - Chapter 57</title>
     <link>https://comick.app/comic/i-raised-a-black-dragon-2</link>
-    <description>Chapter 55 of I Raised a Black Dragon is now available on ComicK!</description>
+    <description>Chapter 57 of I Raised a Black Dragon is now available on ComicK!</description>
 </item>
 <item>
     <title>The Second Life of an All-Rounder Idol - Chapter 12</title>
@@ -99,11 +109,6 @@
     <title>Moonlight Mask (KUWATA Jiro) - Chapter 30</title>
     <link>https://comick.app/comic/moonlight-mask-kuwata-jiro</link>
     <description>Chapter 30 of Moonlight Mask (KUWATA Jiro) is now available on ComicK!</description>
-</item>
-<item>
-    <title>Ashura (GEORGE Akiyama) - Chapter 21</title>
-    <link>https://comick.app/comic/ashura</link>
-    <description>Chapter 21 of Ashura (GEORGE Akiyama) is now available on ComicK!</description>
 </item>
 
 </channel>
